@@ -1,0 +1,12 @@
+<meta>
+	<oop>true</oop>
+	<script src="SHistory.lua" />
+	<script src="CHistory.lua" type="client" />
+
+	<script src="STransferFactionHistory.lua" type="server" />
+    <export function="GetTransferData" type="server" />
+
+	<file src="files/img/bg.png" />
+	<file src="files/img/close.png" />
+	<file src="files/img/scrollbar.png" />
+</meta>

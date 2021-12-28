@@ -1,0 +1,7 @@
+<meta>
+	<script src="ShData.lua"			type="shared" />
+	<script src="CGreenZones.lua"		type="client" />
+
+
+	<oop>true</oop>
+</meta>

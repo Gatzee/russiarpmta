@@ -1,0 +1,12 @@
+<meta>
+	<script src="SDayOff.lua" />
+	<script src="CDayOff.lua" type="client" />
+
+	<file src="img/bg_day_off.png" />
+	<file src="img/bg_day_off_end.png" />
+	<file src="img/btn_stop_i.png" />
+	<file src="img/btn_stop_h.png" />
+	<file src="img/btn_stop_c.png" />
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<oop>true</oop>
+	<script src="CRules.lua" type="client" />
+	<script src="CData.lua" type="client" />
+
+	<file src="files/img/bg.png" />
+	<file src="files/img/close.png" />
+	<file src="files/img/scrollbar.png" />
+	<file src="files/img/icon_1.png" />
+	<file src="files/img/icon_2.png" />
+	<file src="files/img/icon_3.png" />
+	<file src="files/img/icon_4.png" />
+</meta>

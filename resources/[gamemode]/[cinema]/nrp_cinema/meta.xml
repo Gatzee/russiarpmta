@@ -1,0 +1,55 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShCinema.lua" type="shared" />
+
+    <script src="SCinema.lua" />
+    <script src="SCinema_Entrance.lua" />
+    <script src="SCinema_Controls.lua" />
+    <script src="SCinema_Commands.lua" />
+\
+    <script src="CCinema.lua" type="client" />
+    <script src="CCinema_Entrance.lua" type="client" />
+    <script src="CCinema_Screen.lua" type="client" />
+    <script src="CCinema_Lights.lua" type="client" />
+    <script src="CCinema_Youtube.lua" type="client" />
+    <script src="CCinema_Colshapes.lua" type="client" />
+    <script src="CCinema_Playlist.lua" type="client" />
+    <script src="CCinema_InterfacePlaylist.lua" type="client" />
+    <script src="CCinema_InterfaceRoom.lua" type="client" />
+    <script src="CCinema_InterfaceMovielist.lua" type="client" />
+    <script src="CCinema_InterfaceEntrance.lua" type="client" />
+    <script src="CCinema_Copyrights.lua" type="client" />
+
+    <file src="fx/replace.fx" />
+    <file src="fx/lighting.fx" />
+    <file src="fx/mta-helper.fx" />
+
+    <file src="img/marker.png" />
+    <file src="img/replace.jpg" />
+    <file src="img/bg.png" />
+    <file src="img/bg_cinema.png" />
+    <file src="img/btn_add.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_cash_add.png" />
+    <file src="img/btn_playlist_edit.png" />
+    <file src="img/btn_playlist_clear.png" />
+    <file src="img/edit_search.png" />
+    <file src="img/edit_search_active.png" />
+    <file src="img/btn_queue_join.png" />
+    <file src="img/btn_queue_leave.png" />
+    <file src="img/btn_add_big.png" />
+    <file src="img/btn_delete.png" />
+    <file src="img/icon_vip.png" />
+    <file src="img/nothumb.png" />
+    <file src="img/btn_tutorial.png" />
+
+    <file src="img/copyrights.jpg" />
+
+    <file src="img/bg_entrance.png" />
+    <file src="img/selection_bg.png" />
+    <file src="img/entrance_1.png" />
+    <file src="img/entrance_2.png" />
+    <file src="img/btn_enter.png" />
+
+    <export function="IsRoomVideoRunning" type="server" />
+</meta>

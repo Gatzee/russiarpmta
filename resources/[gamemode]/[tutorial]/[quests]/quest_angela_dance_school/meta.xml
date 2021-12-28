@@ -1,0 +1,11 @@
+<meta>
+	<script src="CFakeFightClub.lua"		type="client"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<file src="sfx/dance_music.wav" />
+
+	<export function="GetQuestInfo"			type="client" />
+	<oop>true</oop>
+</meta>

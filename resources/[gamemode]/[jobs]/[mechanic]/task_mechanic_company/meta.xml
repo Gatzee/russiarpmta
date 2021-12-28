@@ -1,0 +1,32 @@
+<meta>
+	<script src="CMinigames.lua" type="client"/>
+	<script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+	
+
+	<file src="img/hint1.png" />
+	<file src="img/hint2.png" />
+	<file src="img/hint3.png" />
+	<file src="img/hint4.png" />
+	<file src="img/hint5.png" />
+	<file src="img/hint6.png" />
+	<file src="img/hint7.png" />
+
+	<file src="img/circle_bg.png" />
+	<file src="img/region.png" />
+	<file src="img/center.png" />
+	<file src="img/arrow.png" />
+	<file src="img/progress_bar.png" />
+	<file src="img/progress_bar_value.png" />
+	
+	<file src="sfx/install_wheel.mp3" />	
+	<file src="sfx/remove_wheel.mp3" />
+	<file src="sfx/oil.mp3" />
+	<file src="sfx/wheel_op.mp3" />
+
+	<export function="GetQuestInfo" type="client" />
+
+	<oop>true</oop>
+</meta>

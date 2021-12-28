@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <script src="SCarousel.lua" />
+    <script src="CCarousel.lua" type="client" />
+</meta>

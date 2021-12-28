@@ -1,0 +1,158 @@
+<meta>
+    <oop>true</oop>
+
+    <export function="GetCurrentSeasonEndDate" type="shared" />
+    <export function="GetPlayerAvailableRewardsCount" type="server" />
+    <export function="IsPlayerBoosterActive" type="server" />
+    <export function="IsPlayerPremiumActive" type="server" />
+    
+    <script src="ShBattlePass.lua" type="shared" />
+    <script src="ShBattlePassTasks.lua" type="shared" />
+    <script src="ShBattlePassRewards.lua" type="shared" />
+    
+    <script src="SBattlePass.lua" />
+    <script src="SBattlePassLevels.lua" />
+    <script src="SBattlePassTasks.lua" />
+    <script src="SBattlePassStages.lua" />
+
+    <script src="CBattlePass.lua" type="client" />
+    <script src="CBattlePassUI.lua" type="client" />
+    <script src="CBattlePassUI_Overlay.lua" type="client" />
+    <script src="CBattlePassUI_TabBoosters.lua" type="client" />
+    <script src="CBattlePassUI_TabRewards.lua" type="client" />
+    <script src="CBattlePassUI_TabTasks.lua" type="client" />
+    <script src="CBattlePassLoginWindowUI.lua" type="client" />
+
+    <!-- Акция на премиальный билет -->
+    <script src="offer_premium/SBattlePassPremiumOffer.lua" />
+    <script src="offer_premium/CBattlePassPremiumOffer.lua" type="client" />
+    <file   src="offer_premium/img/bg.png" />
+    <file   src="offer_premium/img/bg_sale.png" />
+    <file   src="offer_premium/img/btn_buy.png" />
+
+    <!-- Акция на ускоритель -->
+    <script src="offer_booster/SBattlePassBoosterOffer.lua" />
+    <script src="offer_booster/CBattlePassBoosterOffer.lua" type="client" />
+    <file   src="offer_booster/img/bg.png" />
+
+    <!-- Скидка на ускорители -->
+    <script src="offer_boosters_discount/SBattlePassBoostersDiscount.lua" />
+    <script src="offer_boosters_discount/CBattlePassBoostersDiscount.lua" type="client" />
+
+    <!-- Акция на харду (выдается как награда) -->
+    <script src="offer_hard/SBattlePassHardOffer.lua" />
+    <script src="offer_hard/CBattlePassHardOffer.lua" type="client" />
+    <script src="offer_hard/CBattlePassHardOffer_Browser.lua" type="client" />
+    <file   src="offer_hard/img/bg.png" />
+    <file   src="offer_hard/img/btn_buy.png" />
+    <file   src="offer_hard/img/icon.png" />
+
+    <script src="items/ShOfferHard.lua" type="shared" />
+
+    <script src="tasks/ShTaskDrive.lua" type="shared" />
+    <script src="tasks/ShTaskRun.lua" type="shared" />
+    <script src="tasks/ShTaskFactionDrive.lua" type="shared" />
+    <script src="tasks/ShTaskGovernmentsVisit.lua" type="shared" />
+    <script src="tasks/STaskArmorPurchase.lua" />
+    <script src="tasks/STaskBountyOrder.lua" />
+    <script src="tasks/STaskCaloriesWaste.lua" />
+    <script src="tasks/STaskCasinoGameMaxBet.lua" />
+    <script src="tasks/STaskCasinoGamePlay.lua" />
+    <script src="tasks/STaskCasinoGameReward.lua" />
+    <script src="tasks/STaskCasinoLottery.lua" />
+    <script src="tasks/STaskCasinoLotteryTheme.lua" />
+    <script src="tasks/STaskCasinoLotteryVariant.lua" />
+    <script src="tasks/STaskCinema.lua" />
+    <script src="tasks/STaskClanBounty.lua" />
+    <script src="tasks/STaskClanFactoryItemCollect.lua" />
+    <script src="tasks/STaskClanGamePlay.lua" />
+    <script src="tasks/STaskCooking.lua" />
+    <script src="tasks/STaskDailyQuest.lua" />
+    <script src="tasks/STaskDiseaseTreat.lua" />
+    <script src="tasks/STaskFactionDutyTime.lua" />
+    <script src="tasks/STaskFactionExp.lua" />
+    <script src="tasks/STaskFactionShiftPlanTask.lua" />
+    <script src="tasks/STaskFactionPayout.lua" />
+    <script src="tasks/STaskFactionTask.lua" />
+    <script src="tasks/STaskFinePayment.lua" />
+    <script src="tasks/STaskHobby.lua" />
+    <script src="tasks/STaskHobbyItemsSell.lua" />
+    <script src="tasks/STaskJailJob.lua" />
+    <script src="tasks/STaskJailTime.lua" />
+    <script src="tasks/STaskJobLap.lua" />
+    <script src="tasks/STaskJobTime.lua" />
+    <script src="tasks/STaskParachuteJumping.lua" />
+    <script src="tasks/STaskPhoneCallTime.lua" />
+    <script src="tasks/STaskRace.lua" />
+    <script src="tasks/STaskSocialInteraction.lua" />
+    <script src="tasks/STaskSocialRatingDonate.lua" />
+    <script src="tasks/STaskStripClubDrunk.lua" />
+    <script src="tasks/STaskStripClubPrivate.lua" />
+    <script src="tasks/STaskVehicleMarketsVisit.lua" />
+    <script src="tasks/STaskWeaponPurchase.lua" />
+
+    <!-- Задачи, связанные с майскими ивентами -->
+    <script src="tasks/STaskMayEvents.lua" />
+
+    <!-- Задачи, связанные с новогодними ивентами -->
+    <!-- <script src="tasks/STaskNYEMaxDeathCount.lua" />
+    <script src="tasks/STaskNYEGiftCount.lua" />
+    <script src="tasks/STaskNYEMatchKills.lua" />
+    <script src="tasks/STaskNYEFinishAny.lua" />
+    <script src="tasks/STaskNYEFinishInTime.lua" />
+    <script src="tasks/STaskNYEFinishTop3.lua" />
+    <script src="tasks/STaskNYEFinishWithBoost.lua" />
+    <script src="tasks/STaskNYEShopPurchase.lua" />
+    <script src="tasks/STaskNYECarPush.lua" /> -->
+
+    <file src="img/bg.png" />
+    <file src="img/bg_level.png" />
+    <file src="img/btn_buy_booster.png" />
+    <file src="img/btn_buy_level.png" />
+    <file src="img/btn_buy_level_h.png" />
+    <file src="img/icon_booster.png" />
+    <file src="img/icon_exp.png" />
+    <file src="img/icon_exp_boosted.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/logo.png" />
+
+    <file src="img/overlay/btn.png" />
+    <file src="img/overlay/btn_selected.png" />
+    <file src="img/overlay/bg_premium.png" />
+    <file src="img/overlay/btn_buy.png" />
+    <file src="img/overlay/btn_buy_h.png" />
+    <file src="img/overlay/btn_hide.png" />
+
+    <file src="img/rewards/bg_item.png" />
+    <file src="img/rewards/bg_left.png" />
+    <file src="img/rewards/bg_left_premium.png" />
+    <file src="img/rewards/bg_right.png" />
+    <file src="img/rewards/gradient.png" />
+    <file src="img/rewards/btn_buy.png" />
+    <file src="img/rewards/btn_buy_h.png" />
+    <file src="img/rewards/btn_take.png" />
+    <file src="img/rewards/btn_take_all.png" />
+    <file src="img/rewards/btn_take_h.png" />
+    <file src="img/rewards/items/car_slot.png" />
+    <file src="img/rewards/items/fuelcan.png" />
+    <file src="img/rewards/items/wedding_box.png" />
+    <file src="img/rewards/items/numberplate.png" />
+    <file src="img/rewards/items/big/car_slot.png" />
+    <file src="img/rewards/items/big/wedding_box.png" />
+
+   <file src="img/tasks/bg_task.png" />
+   <file src="img/tasks/btn_details.png" />
+   <file src="img/tasks/btn_stage.png" />
+   <file src="img/tasks/icon_exp.png" />
+   <file src="img/tasks/icon_exp_boosted.png" />
+   <file src="img/tasks/reward.png" />
+
+    <file src="img/boosters/bg.png" />
+    <file src="img/boosters/btn_buy.png" />
+    <file src="img/boosters/btn_buy_h.png" />
+    <file src="img/boosters/sale.png" />
+
+    <file src="img/login_window/bg.png" />
+    <file src="img/login_window/btn_details.png" />
+    <file src="img/login_window/btn_take_reward.png" />
+</meta>

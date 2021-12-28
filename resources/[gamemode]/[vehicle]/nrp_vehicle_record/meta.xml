@@ -1,0 +1,12 @@
+<meta>
+	<oop>true</oop>
+	<script src="CRecord.lua" type="client" />
+
+	<file src="bot_jeka2.json" />
+	<file src="tutorial_basedrive.json" />
+
+	<export function="StartRecord" type="client" />
+	<export function="EndRecord" type="client" />
+	<export function="PlayRecord" type="client" />
+	<export function="StopRecord" type="client" />
+</meta>

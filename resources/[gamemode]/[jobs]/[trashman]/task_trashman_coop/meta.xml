@@ -1,0 +1,31 @@
+<meta>
+	<script src="trash_map.lua" type="client"/>
+
+	<script src="ShJobQuest.lua" type="shared"/>
+	
+	<script src="CJob_Quest.lua" type="client"/>
+	<script src="SJob_Quest.lua" type="server"/>
+	<script src="SJob_Utils.lua" type="server"/>
+
+	<script src="CHelperRole_Quest.lua" type="client"/>
+	<script src="SHelperRole_Quest.lua" type="server"/>
+
+	<script src="CDriverRole_Quest.lua" type="client"/>
+	<script src="SDriverRole_Quest.lua" type="server"/>
+
+	<script src="CTrashTruck.lua" type="client"/>
+	<script src="STrashTruck.lua" type="server"/>
+
+	<script src="ShJobData.lua" type="shared"/>
+	<script src="SJobAnalytics.lua" type="server"/>
+
+	<export function="GetQuestInfo" type="shared" />
+	<export function="GetQuestData" type="shared" />
+
+	<file src="img/cash_out_point_marker.png" />
+	<file src="files/musur_3.txd" />
+	<file src="files/musur_3.dff" />
+	<file src="files/musur_3.col" />
+
+	<oop>true</oop>
+</meta>

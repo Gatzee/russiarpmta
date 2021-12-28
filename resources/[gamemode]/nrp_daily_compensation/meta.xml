@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <file src="csv/list.csv" />
+    <script src="SCompensation.lua" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <export function="GetOfflineDataFromUserID" type="server" />
+    <export function="GetOfflineDataFromClientID" type="server" />
+
+    <script src="SPlayerOffline.lua" />
+</meta>

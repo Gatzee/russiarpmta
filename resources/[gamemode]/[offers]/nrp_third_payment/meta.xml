@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="COffer.lua" type="client"/>
+    <script src="CBrowser.lua" type="client"/>
+    <script src="SOffer.lua" type="server"/>
+    <script src="SAnalytics.lua" type="server"/>
+
+    <file src="img/bg.png" />
+    <file src="img/buy.png" />
+    <file src="img/buy_h.png" />
+    <file src="img/details.png" />
+    <file src="img/details_h.png" />
+</meta>

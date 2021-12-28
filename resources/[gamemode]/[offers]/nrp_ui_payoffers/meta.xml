@@ -1,0 +1,64 @@
+<meta>
+    <oop>true</oop>
+
+    <file src="payoffers/computer_science_day/img/bg.png" />
+    <file src="payoffers/computer_science_day/img/btn_buy.png" />
+    <script src="payoffers/computer_science_day/CUIPayoffers_ComputerScienceDay.lua" type="client" />
+
+    <!-- Новый год -->
+    <script src="payoffers/newyear/CUIPayoffers_newyear.lua" type = "client" cache = "false" />
+    <file src="payoffers/newyear/img/bg.png" />
+    <file src="payoffers/newyear/img/btn_buy.png" />
+
+    <!-- Универсальная акция -->
+    <script src="payoffers/universal/CUIPayoffers_universal.lua" type = "client" cache = "false" />
+    <file src="payoffers/universal/img/bg.png" />
+    <file src="payoffers/universal/img/btn_buy.png" />
+
+    <!-- Акция на хард, формат 1 -->
+    <script src="payoffers/format1/CUIPayoffers_format1.lua" type = "client" cache = "false" />
+    <file src="payoffers/format1/img/bg.png" />
+    <file src="payoffers/format1/img/btn_buy_big_i.png" />
+    <file src="payoffers/format1/img/btn_buy_big_h.png" />
+    <file src="payoffers/format1/img/btn_buy_big_c.png" />
+    <file src="payoffers/format1/img/btn_buy_small_i.png" />
+    <file src="payoffers/format1/img/btn_buy_small_h.png" />
+    <file src="payoffers/format1/img/btn_buy_small_c.png" />
+    <file src="payoffers/format1/img/shadow_small.png" />
+    <file src="payoffers/format1/img/shadow_big.png" />
+
+    <!-- Акция на хард, формат 2 -->
+    <script src="payoffers/format2/CUIPayoffers_format2.lua" type = "client" cache = "false" />
+    <file src="payoffers/format2/img/bg_locked.png" />
+    <file src="payoffers/format2/img/bg_unlocked.png" />
+    <file src="payoffers/format2/img/btn_buy_big_i.png" />
+    <file src="payoffers/format2/img/btn_buy_big_h.png" />
+    <file src="payoffers/format2/img/btn_buy_big_c.png" />
+    <file src="payoffers/format2/img/btn_buy_small_i.png" />
+    <file src="payoffers/format2/img/btn_buy_small_h.png" />
+    <file src="payoffers/format2/img/btn_buy_small_c.png" />
+    <file src="payoffers/format2/img/btn_buy_small_2_i.png" />
+    <file src="payoffers/format2/img/btn_buy_small_2_h.png" />
+    <file src="payoffers/format2/img/btn_buy_small_2_c.png" />
+    <file src="payoffers/format2/img/shadow_small.png" />
+    <file src="payoffers/format2/img/shadow_big.png" />
+    <file src="payoffers/format2/img/shadow_big_locked.png" />
+    <file src="payoffers/format2/img/locked.png" />
+    <file src="payoffers/format2/img/info.png" />
+    <file src="payoffers/format2/img/icon_timer.png" />
+    <file src="img/offer_unlocked.png" />
+    <file src="img/btn_hide_i.png" />
+    <file src="img/btn_hide_h.png" />
+    <file src="img/btn_hide_c.png" />
+
+    <!-- Акция на хард, формат 3 -->
+    <script src="payoffers/format3/CUIPayoffers_format3.lua" type = "client" cache = "false" />
+    <file src="payoffers/format3/img/bg.png" />
+    <file src="payoffers/format3/img/btn_buy_i.png" />
+    <file src="payoffers/format3/img/btn_buy_h.png" />
+    <file src="payoffers/format3/img/btn_buy_c.png" />
+
+    <!-- Обработчик пейофферов -->
+    <script src="SUIPayoffers.lua" />
+    <script src="CUIPayoffers.lua" type="client" />
+</meta>

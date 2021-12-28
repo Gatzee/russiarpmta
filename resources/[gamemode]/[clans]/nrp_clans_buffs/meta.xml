@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShClansBuffs.lua" type="shared" />
+    <script src="CClansBuffs.lua" type="client" />
+    <script src="SClansBuffs.lua" type="server" />
+
+    <script src="controllers/SClansBuffs_FistDamage.lua" type="server" />
+    <script src="controllers/ShClansBuffs_GroupHealth.lua" type="shared" />
+    <script src="controllers/ShClansBuffs_IncreaseStats.lua" type="shared" />
+
+    <export function="GetPlayerClanBuffs" type="server" />
+    <export function="GetClanBuffValue" type="shared" />
+    <export function="GetClanUpgradeLevel" type="client" />
+    <export function="GetAppliedBuffs" type="client" />
+</meta>

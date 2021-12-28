@@ -1,0 +1,7 @@
+<meta>
+    <script src="CSeasonCasesInfo.lua" type="client"/>
+
+	<file src="images/btn_details.png"/>
+
+    <oop>true</oop>
+</meta>

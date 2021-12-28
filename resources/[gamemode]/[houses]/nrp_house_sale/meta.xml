@@ -1,0 +1,60 @@
+<meta>
+	<script src="ShHouseSale.lua" type="shared" />
+	<script src="CHouseSale.lua" type="client" />
+	<script src="CUIHouseBuy.lua" type="client" />
+	<script src="CUIHouseSale.lua" type="client" />
+	<script src="SHouseSale.lua" type="server" />
+	<script src="SHouseSale_Player.lua" type="server" />
+
+	<file src="images/deposit.png" />
+	<file src="images/villa.png" />
+	<file src="images/village.png" />
+	<file src="images/cottage.png" />
+	<file src="images/apartment.png" />
+	<file src="images/roller.png" />
+	<file src="images/filter_cost.png" />
+	<file src="images/filter_place.png" />
+	<file src="images/filter_house.png" />
+	<file src="images/filter_hover_cost.png" />
+	<file src="images/filter_hover_house.png" />
+	<file src="images/filter_hover_place.png" />
+	<file src="images/filterbar.png" />
+	<file src="images/offer_card_bg.png" />
+
+	<file src="images/house_info_bg.png" />
+	<file src="images/place_ads_btn.png" />
+	<file src="images/place_ads_btn_h.png" />
+	<file src="images/target_sell_btn.png" />
+	<file src="images/target_sell_btn_h.png" />
+
+	<file src="images/choose_btn.png" />
+	<file src="images/choose_btn_hover.png" />
+	<file src="images/left_side.png" />
+	<file src="images/right_side.png" />
+	<file src="images/side_hover.png" />
+
+	<file src="images/info.png" />
+	<file src="images/info_xs.png" />
+	<file src="images/place_btn.png" />
+	<file src="images/place_btn_hover.png" />
+	<file src="images/send_btn.png" />
+	<file src="images/send_btn_hover.png" />
+	<file src="images/btn_take.png" />
+	<file src="images/btn_take_hover.png" />
+
+	<file src="images/btn_hide.png" />
+	<file src="images/btn_hide_hover.png" />
+	<file src="images/btn_publish.png" />
+	<file src="images/btn_publish_hover.png" />
+	<file src="images/btn_send.png" />
+	<file src="images/btn_send_hover.png" />
+	<file src="images/edit_bg.png" />
+	<file src="images/edit_bg_active.png" />
+
+	<file src="images/marker.png" />
+
+	<export function="GetPlayerHouseList"	type="server" />
+	<export function="GetHouseHumanViewData"	type="client" />
+
+	<oop>true</oop>
+</meta>

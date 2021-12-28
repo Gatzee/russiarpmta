@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <export function="IsOnDrugs" type="client" />
+    <export function="SetOnDrugs" type="client" />
+    
+    <export function="SetDrunk" type="shared" />
+
+    <script src="CDrugs.lua" type="client" />
+    
+    <script src="CDrunk.lua" type="client" />
+    <script src="SDrunk.lua" type="server" />
+</meta>

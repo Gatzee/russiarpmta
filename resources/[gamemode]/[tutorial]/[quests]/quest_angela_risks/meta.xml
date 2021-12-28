@@ -1,0 +1,18 @@
+<meta>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<export function="GetQuestInfo"			type="client" />
+	<script src="Client.lua"				type="client"/>
+	
+	<script src="slotmachine/CFakeSlotmachineGame.lua" type="client" />
+
+	<script src="roulette/CRouletteFakeGame.lua" type="client" />
+	<script src="roulette/CModels.lua" type="client" />
+	<script src="roulette/CRoulette.lua" type="client" />
+	<script src="roulette/CShoot.lua" type="client" />
+	<script src="roulette/CUIRoulette.lua" type="client" />
+
+	<oop>true</oop>
+</meta>

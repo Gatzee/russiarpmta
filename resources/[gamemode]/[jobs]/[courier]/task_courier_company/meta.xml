@@ -1,0 +1,11 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+	<file src="map/directions_0.map" />
+
+	<oop>true</oop>
+</meta>

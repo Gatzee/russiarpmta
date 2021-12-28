@@ -1,0 +1,318 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="ShLottery.lua" type="shared" />
+	<script src="ShLotteryItems.lua" type="shared" />
+
+	<script src="CLottery.lua" type="client" />
+	<script src="CLotteryUI.lua" type="client" />
+	<script src="CLotteryUI_InfoWindow.lua" type="client" />
+	
+	<script src="SLottery.lua" type="server" />
+	<script src="SLotteryUtils.lua" type="server" />
+	<script src="SLotteryItemsParserCSV.lua" type="server" />
+	<script src="SLotteryPlayersTop.lua" type="server" />
+
+	<script src="items/ShAccessory.lua" type="shared" />
+	<script src="items/ShBox.lua" type="shared" />
+	<script src="items/ShCarEvac.lua" type="shared" />
+	<script src="items/ShCase.lua" type="shared" />
+	<script src="items/ShDance.lua" type="shared" />
+	<script src="items/ShExp.lua" type="shared" />
+	<script src="items/ShFirstaid.lua" type="shared" />
+	<script src="items/ShJailkeys.lua" type="shared" />
+	<script src="items/ShNeon.lua" type="shared" />
+	<script src="items/ShPremium.lua" type="shared" />
+	<script src="items/ShRepairbox.lua" type="shared" />
+	<script src="items/ShSkin.lua" type="shared" />
+	<script src="items/ShSoft.lua" type="shared" />
+	<script src="items/ShVehicle.lua" type="shared" />
+	<script src="items/ShVinyl.lua" type="shared" />
+	<script src="items/ShWofCoin.lua" type="shared" />
+	<script src="items/ShTuningCase.lua" type="shared" />
+	<script src="items/ShVinylCase.lua" type="shared" />
+    <!-- Для акции сборки машины -->
+    <script src="items/Sh_AssemblDetail.lua" type="shared" />
+
+	<file src="img/bg_best_rewards.png" />
+	<file src="img/bg_last_winners.png" />
+	<file src="img/bg_discount.png" />
+	<file src="img/bg_rewards.png" />
+	<file src="img/bg.png" />
+	<file src="img/bg_label.png" />
+	<file src="img/bg_reward_veh.png" />
+	<file src="img/icon_best_reward.png" />
+	<file src="img/icon_arrow.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_open_h.png" />
+	<file src="img/btn_play_h.png" />
+	<file src="img/btn_close_h.png" />
+	<file src="img/btn_back.png" />
+	<file src="img/btn_exit.png" />
+	<file src="img/btn_players_top.png" />
+	<file src="img/btn_rewards_list.png" />
+	<file src="img/logo.png" />
+	<file src="img/marker_icon.png" />
+	<file src="img/scratch_cursor.png" />
+	<file src="img/scratch_layer.png" />
+	<file src="img/scratch_pattern.png" />
+	<file src="img/btn_minus.png" />
+	<file src="img/btn_plus.png" />
+	<file src="img/btn_arrow.png" />
+	<file src="img/bg_count_stroke.png" />
+	<file src="img/bg_scratch_layer.png" />
+	<file src="img/bg_pr_bar.png" />
+	<file src="img/bg_block_pr_1.png" />
+	<file src="img/bg_block_pr_2.png" />
+	<file src="img/bg_block_pr_3.png" />
+	<file src="img/bg_block_pr_header.png" />
+	<file src="img/btn_buy_premium.png" />
+
+	<file src="img/lottery/bg_hover.png" />
+	<file src="img/lottery/bg_circle_pp.png" />
+	<file src="img/lottery/types/classic/main.png" />
+	<file src="img/lottery/types/classic/rewards1.png" />
+	<file src="img/lottery/types/classic/rewards2.png" />
+	<file src="img/lottery/types/classic/rewards3.png" />
+	<file src="img/lottery/types/classic/rewards4.png" />
+	<file src="img/lottery/types/classic/rewards5.png" />
+
+	<file src="img/lottery/types/gold/main.png" />
+	<file src="img/lottery/types/gold/rewards.png" />
+	<file src="img/lottery/types/theme_1/main.png" />
+	<file src="img/lottery/types/theme_1/rewards.png" />
+	<file src="img/lottery/types/theme_2/main.png" />
+	<file src="img/lottery/types/theme_2/rewards.png" />
+	<file src="img/lottery/types/theme_3/main.png" />
+	<file src="img/lottery/types/theme_3/rewards.png" />
+	<file src="img/lottery/types/theme_4/main.png" />
+	<file src="img/lottery/types/theme_4/rewards.png" />
+	<file src="img/lottery/types/theme_5/main.png" />
+	<file src="img/lottery/types/theme_5/rewards.png" />
+
+	<file src="img/lottery/types/theme_6/main.png" />
+	<file src="img/lottery/types/theme_6/rewards.png" />
+	<file src="img/lottery/types/theme_6/variants/1/main.png" />
+	<file src="img/lottery/types/theme_6/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_6/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_6/variants/2/main.png" />
+	<file src="img/lottery/types/theme_6/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_6/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_6/variants/3/main.png" />
+	<file src="img/lottery/types/theme_6/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_6/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_7/main.png" />
+	<file src="img/lottery/types/theme_7/rewards.png" />
+	<file src="img/lottery/types/theme_7/variants/1/main.png" />
+	<file src="img/lottery/types/theme_7/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_7/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_7/variants/2/main.png" />
+	<file src="img/lottery/types/theme_7/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_7/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_7/variants/3/main.png" />
+	<file src="img/lottery/types/theme_7/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_7/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_8/main.png" />
+	<file src="img/lottery/types/theme_8/rewards.png" />
+	<file src="img/lottery/types/theme_8/variants/1/main.png" />
+	<file src="img/lottery/types/theme_8/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_8/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_8/variants/2/main.png" />
+	<file src="img/lottery/types/theme_8/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_8/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_8/variants/3/main.png" />
+	<file src="img/lottery/types/theme_8/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_8/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_9/main.png" />
+	<file src="img/lottery/types/theme_9/rewards.png" />
+	<file src="img/lottery/types/theme_9/variants/1/main.png" />
+	<file src="img/lottery/types/theme_9/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_9/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_9/variants/2/main.png" />
+	<file src="img/lottery/types/theme_9/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_9/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_9/variants/3/main.png" />
+	<file src="img/lottery/types/theme_9/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_9/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_10/main.png" />
+	<file src="img/lottery/types/theme_10/rewards.png" />
+	<file src="img/lottery/types/theme_10/variants/1/main.png" />
+	<file src="img/lottery/types/theme_10/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_10/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_10/variants/2/main.png" />
+	<file src="img/lottery/types/theme_10/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_10/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_10/variants/3/main.png" />
+	<file src="img/lottery/types/theme_10/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_10/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_11/main.png" />
+	<file src="img/lottery/types/theme_11/rewards.png" />
+	<file src="img/lottery/types/theme_11/variants/1/main.png" />
+	<file src="img/lottery/types/theme_11/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_11/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_11/variants/2/main.png" />
+	<file src="img/lottery/types/theme_11/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_11/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_11/variants/3/main.png" />
+	<file src="img/lottery/types/theme_11/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_11/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_12/main.png" />
+	<file src="img/lottery/types/theme_12/rewards.png" />
+	<file src="img/lottery/types/theme_12/variants/1/main.png" />
+	<file src="img/lottery/types/theme_12/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_12/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_12/variants/2/main.png" />
+	<file src="img/lottery/types/theme_12/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_12/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_12/variants/3/main.png" />
+	<file src="img/lottery/types/theme_12/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_12/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_13/main.png" />
+	<file src="img/lottery/types/theme_13/rewards.png" />
+	<file src="img/lottery/types/theme_13/variants/1/main.png" />
+	<file src="img/lottery/types/theme_13/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_13/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_13/variants/2/main.png" />
+	<file src="img/lottery/types/theme_13/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_13/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_13/variants/3/main.png" />
+	<file src="img/lottery/types/theme_13/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_13/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_14/main.png" />
+	<file src="img/lottery/types/theme_14/rewards.png" />
+	<file src="img/lottery/types/theme_14/variants/1/main.png" />
+	<file src="img/lottery/types/theme_14/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_14/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_14/variants/2/main.png" />
+	<file src="img/lottery/types/theme_14/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_14/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_14/variants/3/main.png" />
+	<file src="img/lottery/types/theme_14/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_14/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_15/main.png" />
+	<file src="img/lottery/types/theme_15/rewards.png" />
+	<file src="img/lottery/types/theme_15/variants/1/main.png" />
+	<file src="img/lottery/types/theme_15/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_15/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_15/variants/2/main.png" />
+	<file src="img/lottery/types/theme_15/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_15/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_15/variants/3/main.png" />
+	<file src="img/lottery/types/theme_15/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_15/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_16/main.png" />
+	<file src="img/lottery/types/theme_16/rewards.png" />
+	<file src="img/lottery/types/theme_16/variants/1/main.png" />
+	<file src="img/lottery/types/theme_16/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_16/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_16/variants/2/main.png" />
+	<file src="img/lottery/types/theme_16/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_16/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_16/variants/3/main.png" />
+	<file src="img/lottery/types/theme_16/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_16/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_17/main.png" />
+	<file src="img/lottery/types/theme_17/rewards.png" />
+	<file src="img/lottery/types/theme_17/variants/1/main.png" />
+	<file src="img/lottery/types/theme_17/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_17/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_17/variants/2/main.png" />
+	<file src="img/lottery/types/theme_17/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_17/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_17/variants/3/main.png" />
+	<file src="img/lottery/types/theme_17/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_17/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_18/main.png" />
+	<file src="img/lottery/types/theme_18/rewards.png" />
+	<file src="img/lottery/types/theme_18/variants/1/main.png" />
+	<file src="img/lottery/types/theme_18/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_18/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_18/variants/2/main.png" />
+	<file src="img/lottery/types/theme_18/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_18/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_18/variants/3/main.png" />
+	<file src="img/lottery/types/theme_18/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_18/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_19/main.png" />
+	<file src="img/lottery/types/theme_19/variants/1/main.png" />
+	<file src="img/lottery/types/theme_19/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_19/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_19/variants/2/main.png" />
+	<file src="img/lottery/types/theme_19/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_19/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_19/variants/3/main.png" />
+	<file src="img/lottery/types/theme_19/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_19/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_20/main.png" />
+	<file src="img/lottery/types/theme_20/variants/main.png" />
+
+	<file src="img/lottery/types/theme_21/main.png" />
+	<file src="img/lottery/types/theme_21/variants/1/main.png" />
+	<file src="img/lottery/types/theme_21/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_21/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_21/variants/2/main.png" />
+	<file src="img/lottery/types/theme_21/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_21/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_21/variants/3/main.png" />
+	<file src="img/lottery/types/theme_21/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_21/variants/3/scratch.png" />
+
+	<file src="img/lottery/types/theme_22/main.png" />
+	<file src="img/lottery/types/theme_22/variants/1/main.png" />
+	<file src="img/lottery/types/theme_22/variants/1/main_h.png" />
+	<file src="img/lottery/types/theme_22/variants/1/scratch.png" />
+	<file src="img/lottery/types/theme_22/variants/2/main.png" />
+	<file src="img/lottery/types/theme_22/variants/2/main_h.png" />
+	<file src="img/lottery/types/theme_22/variants/2/scratch.png" />
+	<file src="img/lottery/types/theme_22/variants/3/main.png" />
+	<file src="img/lottery/types/theme_22/variants/3/main_h.png" />
+	<file src="img/lottery/types/theme_22/variants/3/scratch.png" />
+
+
+	<file src="img/lottery/types/theme_23/main.png" />
+	<file src="img/lottery/types/theme_23/variants/main.png" />
+	<file src="img/lottery/types/theme_24/main.png" />
+	<file src="img/lottery/types/theme_24/variants/main.png" />
+	<file src="img/lottery/types/theme_25/main.png" />
+	<file src="img/lottery/types/theme_25/variants/main.png" />
+	<file src="img/lottery/types/theme_26/main.png" />
+	<file src="img/lottery/types/theme_26/variants/main.png" />
+	<file src="img/lottery/types/theme_27/main.png" />
+	<file src="img/lottery/types/theme_27/variants/main.png" />
+	<file src="img/lottery/types/theme_28/main.png" />
+	<file src="img/lottery/types/theme_28/variants/main.png" />
+
+	<file src="img/lottery/variants/1/main.png" />
+	<file src="img/lottery/variants/1/main_hover.png" />
+	<file src="img/lottery/variants/1/header.png" />
+	<file src="img/lottery/variants/2/main.png" />
+	<file src="img/lottery/variants/2/main_hover.png" />
+	<file src="img/lottery/variants/2/header.png" />
+	<file src="img/lottery/variants/3/main.png" />
+	<file src="img/lottery/variants/3/main_hover.png" />
+	<file src="img/lottery/variants/3/header.png" />
+	<file src="img/lottery/variants/4/main.png" />
+	<file src="img/lottery/variants/4/block.png" />
+	<file src="img/lottery/variants/4/main_hover.png" />
+	<file src="img/lottery/variants/4/header.png" />
+	<file src="img/lottery/variants/5/main.png" />
+	<file src="img/lottery/variants/5/block.png" />
+	<file src="img/lottery/variants/5/main_hover.png" />
+	<file src="img/lottery/variants/5/header.png" />
+
+	<file src="files/podium.col" />
+</meta>

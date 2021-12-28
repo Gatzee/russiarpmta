@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<script src="SHead.lua" />
+	<script src="CHead.lua" type="client" />
+</meta>

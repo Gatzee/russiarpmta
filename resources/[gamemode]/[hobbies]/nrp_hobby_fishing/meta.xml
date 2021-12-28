@@ -1,0 +1,37 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShFishing.lua" type="shared" />
+    <script src="SFishing.lua" type="server" />
+    <script src="CModels.lua" type="client" />
+    <script src="CFishing.lua" type="client" />
+    <script src="CUIFishing.lua" type="client" />
+    <script src="CHUD.lua" type="client" />
+
+    <file src="files/img/icon_backpack.png" />
+    <file src="files/img/icon_rod_1.png" />
+    <file src="files/img/marker_fishing.png" />
+
+    <file src="files/img/hud/circle_new.png" />
+    <file src="files/img/hud/empty_circle.png" />
+    <file src="files/img/hud/hint1.png" />
+    <file src="files/img/hud/hint2.png" />
+    <file src="files/img/hud/icon_backpack.png" />
+    <file src="files/img/hud/l_hook.png" />
+
+    <file src="files/sounds/ambient_waves.mp3" />
+    <file src="files/sounds/sfx_caught.wav" />
+    <file src="files/sounds/sfx_process.wav" />
+    <file src="files/sounds/sfx_throw.wav" />
+    <file src="files/sounds/rod_take.wav" />
+    <file src="files/sounds/rod_hide.wav" />
+
+    <file src="files/models/F_rod.col" />
+    <file src="files/models/f_rod.txd" />
+    <file src="files/models/F_rod1.dff" />
+    <file src="files/models/F_rod2.dff" />
+    <file src="files/models/F_rod3.dff" />
+    <file src="files/models/F_rod4.dff" />
+    <file src="files/models/F_rod5.dff" />
+    <file src="files/models/F_rod6.dff" />
+    <file src="files/models/F_rodP.dff" />
+</meta>

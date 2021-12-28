@@ -1,0 +1,21 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShSpeedRadars.lua" type="shared" />
+    <script src="CSpeedRadars.lua" type="client" />
+    <script src="SSpeedRadars.lua" />
+
+    <script src="CDetect.lua" type="client" />
+    <script src="CPhoto.lua" type="client" />
+
+    <script src="CModels.lua" type="client" />
+
+    <file src="files/img/icon_radar.png" />
+    <file src="files/img/no_photo.png" />
+
+    <file src="files/models/radar.dff" />
+    <file src="files/models/radar.txd" />
+    <file src="files/models/radar.col" />
+
+    <file src="files/sounds/detect.wav" />
+    <file src="files/sounds/photo.mp3" />
+</meta>

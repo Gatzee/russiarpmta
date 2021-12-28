@@ -1,0 +1,4 @@
+<meta>
+    <info author='SimplyMods' version='1.0' name='GetPosition' description='A GUI to get your Position' type='script' />
+    <script src='pos.lua' type='client' />
+</meta>

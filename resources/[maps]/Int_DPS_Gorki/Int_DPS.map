@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+	<object id="police_dps_door_6" property="{'type':2, 'fact_list': '3','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="2202.302" posY="224.325" posZ="601.28" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+	<object id="police_dps_door_7" property="{'type':2, 'fact_list': '3','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17286" doublesided="false" scale="1" dimension="1" posX="2218.243" posY="226.3" posZ="601.28" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+
+	<object id="police_dps_door_8" property="{'type':2, 'fact_list': '3','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="2218.05" posY="232.17" posZ="601.28" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+	<object id="police_dps_door_9" property="{'type':2, 'fact_list': '3','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17287" doublesided="false" scale="1" dimension="1" posX="2180.003" posY="232.85" posZ="605.6" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+
+	<object id="police_dps_door_10" property="{'type':2, 'fact_list': '3','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17285" doublesided="false" scale="1" dimension="1" posX="2187.39" posY="219.2" posZ="605.52" rotX="0.0" rotY="0.0" rotZ="-90.0"></object>
+</map>

@@ -1,0 +1,68 @@
+<meta>
+	<script src="ShJob_Quest.lua" type="shared"/>
+	<script src="ShJob_Data.lua"  type="shared"/>
+
+	<script src="CJob_Quest.lua"     type="client"/>
+	<script src="SJob_Quest.lua"     type="server"/>
+	<script src="SJob_Utils.lua" 	 type="server"/>
+	<script src="SJob_Analytics.lua" type="server"/>
+
+	<script src="CJobRole_Driver.lua" type="client"/>
+	<script src="SJobRole_Driver.lua" type="server"/>
+	
+	<script src="CJobRole_Master.lua" type="client"/>
+	<script src="SJobRole_Master.lua" type="server"/>
+
+	<export function="GetQuestInfo" type="shared" />
+	<export function="GetQuestData" type="shared" />
+
+	<file src="img/master/bg.png" />
+	<file src="img/master/minigame_hint.png" />
+	<file src="img/master/bg_minigame_hint.png" />
+	<file src="img/master/bg_tmr.png" />
+	<file src="img/master/overlay_tmr.png" />
+	<file src="img/master/progress_bar_tmr.png" />
+	<file src="img/master/bg_status.png" />
+	<file src="img/master/plug_body_process.png" />
+	<file src="img/master/plug_body_success.png" />
+	<file src="img/master/plug_body_fail.png" />
+	<file src="img/master/plug_body_down_process.png" />
+	<file src="img/master/plug_body_down_success.png" />
+	<file src="img/master/plug_body_down_fail.png" />
+	<file src="img/master/block_process.png" />
+	<file src="img/master/block_target_symbol.png" />
+	<file src="img/master/block_success.png" />
+	<file src="img/master/wire_process.png" />
+	<file src="img/master/wire_success.png" />
+	<file src="img/master/point_process.png" />
+	<file src="img/master/point_success.png" />
+	<file src="img/master/wire_left_section_process.png" />
+	<file src="img/master/wire_left_section_success.png" />
+	<file src="img/master/wire_right_section_process.png" />
+	<file src="img/master/wire_right_section_success.png" />
+	<file src="img/master/wire_complete_process.png" />
+	<file src="img/master/wire_complete_success.png" />
+	<file src="img/master/bg_completed_block_process.png" />
+	<file src="img/master/bg_completed_block_success.png" />
+	<file src="img/master/overlay_select_h.png" />
+	<file src="img/master/overlay_select_process_v.png" />
+	<file src="img/master/overlay_select_success_v.png" />
+	<file src="img/master/overlay_select_fail_v.png" />
+
+	<file src="img/driver/bg.png" />
+	<file src="img/driver/block.png" />
+	<file src="img/driver/block_active.png" />
+	<file src="img/driver/block_fail.png" />
+	<file src="img/driver/block_success.png" />
+	<file src="img/driver/status_fail.png" />
+	<file src="img/driver/status_process.png" />
+	<file src="img/driver/status_success.png" />
+
+	<file src="sfx/hijacking_fail.ogg" />
+	<file src="sfx/hijacking_success.ogg" />
+	<file src="sfx/hijacking_number_success.ogg" />
+	<file src="sfx/hijacking_number_fail.ogg" />
+	<file src="sfx/hijacking_time_count.ogg" />
+
+	<oop>true</oop>
+</meta>

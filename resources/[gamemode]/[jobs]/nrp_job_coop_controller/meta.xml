@@ -1,0 +1,81 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShCoopJob.lua" type="shared" />
+    <script src="job_config/ShTowtrucker.lua"        type="shared" />
+    <script src="job_config/ShIncasator.lua"         type="shared" />
+    <script src="job_config/ShTrashman.lua"          type="shared" />
+    <script src="job_config/ShDeliveryCars.lua"      type="shared" />
+    <script src="job_config/ShIndustrialFishing.lua" type="shared" />
+    <script src="job_config/ShHijackCars.lua"        type="shared" />
+
+    <script src="job_config/ShBuilder.lua"    type="shared" />
+
+    <script src="CCoopJob.lua"           type="client" />
+    <script src="CCoopJob_Fines.lua"     type="client" />
+    <script src="CCoopJob_Interface.lua" type="client" />
+    <script src="CCoopJob_Invite.lua"    type="client" />
+    <script src="CCoopJob_Utils.lua"     type="client" />
+
+    <script src="SCoopJob.lua"            type="server" />
+    <script src="SCoopJob_Core.lua"       type="server" />
+    <script src="SCoopJob_Analytics.lua"  type="server" />
+    <script src="SCoopJob_Utils.lua"      type="server" />
+    <script src="SCoopJob_Vehicles.lua"   type="server" />
+
+    <export function="GetAvailableJobId"  type="server" />
+    <export function="GetVehiclePositionsByJobId"  type="shared" />
+
+    <!-- Фоны работ -->
+    <file src="img/towtrucker/bg_main.png" />
+    <file src="img/towtrucker/bg_fines.png" />
+    <file src="img/towtrucker/marker.png" />
+
+    <file src="img/incasator/bg_main.png" />
+    <file src="img/incasator/bg_fines.png" />
+    <file src="img/incasator/marker.png" />
+
+    <file src="img/industrial_fishing/bg_main.png" />
+    <file src="img/industrial_fishing/bg_fines.png" />
+    <file src="img/industrial_fishing/marker.png" />
+
+    <file src="img/trashman/bg_main.png" />
+    <file src="img/trashman/bg_fines.png" />
+    <file src="img/trashman/marker.png" />
+
+    <file src="img/delivery_cars/bg_main.png" />
+    <file src="img/delivery_cars/bg_fines.png" />
+    <file src="img/delivery_cars/marker.png" />
+
+    <file src="img/hijack_cars/bg_main.png" />
+    <file src="img/hijack_cars/bg_fines.png" />
+    <file src="img/hijack_cars/marker.png" />
+
+    <!-- Общие файлы для всех работ -->
+    <file src="img/cancel.png" />
+    <file src="img/leave_lobby.png" />
+    <file src="img/fines.png" />
+    <file src="img/invite.png" />
+    <file src="img/search.png" />
+    <file src="img/start.png" />
+    <file src="img/start_available.png" />
+    <file src="img/create_lobby.png" />
+    <file src="img/more.png" />
+    <file src="img/delete.png" />
+    <file src="img/timer.png" />
+    <file src="img/timer_end.png" />
+    <file src="img/triangle.png" />
+    <file src="img/hide.png" />
+    <file src="img/invite_bg.png" />
+    <file src="img/btn_more_i.png" />
+    <file src="img/btn_more_h.png" />
+    <file src="img/tax_icon.png" />
+    <file src="img/btn_discord_i.png" />
+    <file src="img/btn_discord_h.png" />
+
+    <file src="img/lvl/available.png" />
+    <file src="img/lvl/passed.png" />
+    <file src="img/lvl/passed_next.png" />
+    <file src="img/lvl/blocked.png" />
+    <file src="img/lvl/blocked_next.png" />
+</meta>

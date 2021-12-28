@@ -1,0 +1,34 @@
+<meta>
+
+    <script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="CMinigame.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+	<file src="img/hint1.png" />
+	<file src="img/hint2.png" />
+	<file src="img/hint3.png" />
+	<file src="img/hint4.png" />
+	<file src="img/hint5.png" />
+	<file src="img/hint6.png" />
+	<file src="img/hint7.png" />
+	<file src="img/hint8.png" />
+	<file src="img/hint9.png" />
+
+	<file src="img/stock.png" />
+	<file src="img/wait.png" />
+	<file src="img/wood.png" />
+
+	<file src="img/arm.png" />
+	<file src="img/arm_hovered.png" />
+
+	<file src="img/desk.png" />
+
+	<file src="img/log.png" />
+	<file src="img/log_barkfree.png" />
+
+	<file src="sfx/sawmill_s.mp3" />
+	<file src="sfx/rotate_wood_s.mp3" />
+
+	<oop>true</oop>
+</meta>

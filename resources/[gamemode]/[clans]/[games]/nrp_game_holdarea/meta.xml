@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShGameHoldarea.lua" type="shared" />
+
+    <script src="CGameHoldarea.lua" type="client" />
+    <script src="SGameHoldarea.lua" />
+    <script src="SGameHoldareaMatch.lua" />
+
+    <script src="CGameHoldarea_Deathscreen.lua" type="client" />
+    <script src="CGameHoldarea_Damage.lua" type="client" />
+
+    <file src="files/img/damage.png" />
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="CGPSEditor.lua"       type="client" />
+    <script src="CGPSEditor_UI.lua"    type="client" />
+
+    <file src="fx/hud_mask.fx" />
+    <file src="fx/mta-helper.fx" />
+    <file src="fx/tex_matrix.fx" />
+
+    <file src="img/point.png" />
+    <file src="img/btn_save.png" />
+    <file src="img/btn_save_hover.png" />
+</meta>

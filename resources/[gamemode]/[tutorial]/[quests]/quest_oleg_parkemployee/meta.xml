@@ -1,0 +1,12 @@
+<meta>
+	<script src="Client.lua"			type="client"/>
+	<script src="CParkEmployeeMain.lua" type="client" />
+	<script src="CParkEmployeeUtils.lua" type="client" />
+
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+	<oop>true</oop>
+</meta>

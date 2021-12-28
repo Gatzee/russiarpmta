@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShAchievements.lua" type="shared" />
+    <script src="SAchievements.lua" />
+    <script src="SAchievementsEvents.lua" />
+    <script src="CAchievements.lua" type="client" />
+    <script src="CAchievementsEvents.lua" type="client" />
+
+    <file src="img/achievement.png" />
+</meta>

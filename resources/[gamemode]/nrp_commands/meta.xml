@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="SCommands.lua" />
+
+    <script src="SCommandsPlayer.lua" />
+    <script src="SCommandsVehicle.lua" />
+    <script src="SCommandsFactions.lua" />
+    <script src="SCommandsGovernment.lua" />
+
+    <script src="SDailyLimits.lua" />
+
+</meta>

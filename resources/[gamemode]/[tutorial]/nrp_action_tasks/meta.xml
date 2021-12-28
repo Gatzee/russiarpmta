@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CActionTasks.lua" type="client" />
+    
+    <script src="SActionTasks.lua" />
+</meta>

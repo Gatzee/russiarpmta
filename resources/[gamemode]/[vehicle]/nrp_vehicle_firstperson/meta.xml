@@ -1,0 +1,4 @@
+<meta>
+	<oop>true</oop>
+	<script src="CFirstPerson.lua" type="client" />
+</meta>

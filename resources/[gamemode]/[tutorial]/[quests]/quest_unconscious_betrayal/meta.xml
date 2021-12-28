@@ -1,0 +1,10 @@
+<meta>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<file src="sfx/police.wav" />
+
+	<export function="GetQuestInfo"			type="client" />
+	<oop>true</oop>
+</meta>

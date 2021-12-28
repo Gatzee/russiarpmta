@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<script src="SRefferals.lua" />
+	<script src="CRefferals.lua" type="client" />
+</meta>

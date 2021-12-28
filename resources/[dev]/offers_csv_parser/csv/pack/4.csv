@@ -1,0 +1,19 @@
+pack_4,ninja,"""Ниндзя""",,,,,,
+,id,name,цена,зачеркнутая цена,кол-во,комментарий,,
+vehicle,521,Ninja,1800,2500,,желтый цвет,,28%
+skin,121,Скорпион,199,199,,,,0%
+tuning_case,,Фартовый кейс (класс М),0,586,2,type R,,
+цена,,,1999,3871,,скидка 49%,,
+внешние настройки,,,,,,"{
+    color = { 255, 180, 1 },
+    headlights_color = {},
+    height_level = 0,
+    hydraulics = false,
+    tuning_external = {},
+    vinyls = {},
+    wheels_camber = { 0, 0 },
+    wheels_offset = { 0, 0 },
+    wheels_width = { 0, 0 },
+    windows_color = { 0, 0, 0, 120 }
+}",,
+характеристики ТС,,,,,,используем стандартные,,

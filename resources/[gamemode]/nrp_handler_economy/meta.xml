@@ -1,0 +1,8 @@
+<meta>
+	<script src="SEconomy.lua"				type="server" />
+
+	<export function="GetEconomyJobData"	type="server" />
+
+
+	<oop>true</oop>
+</meta>

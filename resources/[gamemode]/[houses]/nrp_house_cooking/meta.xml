@@ -1,0 +1,91 @@
+<meta>
+	<script src="CCooking.lua"					type="client" />
+	<script src="CCookingUI.lua"				type="client" />
+	<script src="CCookingUI_TabRecipes.lua"		type="client" />
+	<script src="CCookingUI_TabCooking.lua"		type="client" />
+	<script src="CCookingUI_TabShopping.lua"	type="client" />
+	
+	<script src="SCooking.lua"					type="server" />
+
+	<script src="ShCooking.lua"					type="shared" />
+	
+	<file src="images/button_recharge.png"/>
+	<file src="images/button_open_cart.png"/>
+	<file src="images/button_buy_idle.png"/>
+	<file src="images/button_buy_hover.png"/>
+	<file src="images/button_select_idle.png"/>
+	<file src="images/button_select_hover.png"/>
+	<file src="images/button_cook_idle.png"/>
+	<file src="images/button_cook_hover.png"/>
+	<file src="images/button_addtocart_idle.png"/>
+	<file src="images/button_addtocart_hover.png"/>
+	<file src="images/button_order_idle.png"/>
+	<file src="images/button_order_hover.png"/>
+	<file src="images/button_delete_idle.png"/>
+	<file src="images/button_delete_hover.png"/>
+	<file src="images/button_hide_idle.png"/>
+	<file src="images/button_hide_hover.png"/>
+
+	<file src="images/icon_account.png"/>
+	<file src="images/icon_calories.png"/>
+	<file src="images/icon_timer.png"/>
+	<file src="images/item_bg.png"/>
+	<file src="images/gradient.png"/>
+	<file src="images/num_btn_minus.png"/>
+	<file src="images/num_btn_plus.png"/>
+	<file src="images/num_bg.png"/>
+
+	<file src="images/ingredients/cucumber.png" />
+	<file src="images/ingredients/tomato.png" />
+	<file src="images/ingredients/condiment.png" />
+	<file src="images/ingredients/carrot.png" />
+	<file src="images/ingredients/potato.png" />
+	<file src="images/ingredients/onion.png" />
+	<file src="images/ingredients/pasta.png" />
+	<file src="images/ingredients/egg.png" />
+	<file src="images/ingredients/spaghetti.png" />
+	<file src="images/ingredients/cheese.png" />
+	<file src="images/ingredients/cream.png" />
+	<file src="images/ingredients/bread.png" />
+	<file src="images/ingredients/meat.png" />
+	<file src="images/ingredients/fish.png" />
+
+	<file src="images/ingredients/big/cucumber.png" />
+	<file src="images/ingredients/big/tomato.png" />
+	<file src="images/ingredients/big/condiment.png" />
+	<file src="images/ingredients/big/carrot.png" />
+	<file src="images/ingredients/big/potato.png" />
+	<file src="images/ingredients/big/onion.png" />
+	<file src="images/ingredients/big/pasta.png" />
+	<file src="images/ingredients/big/egg.png" />
+	<file src="images/ingredients/big/spaghetti.png" />
+	<file src="images/ingredients/big/cheese.png" />
+	<file src="images/ingredients/big/cream.png" />
+	<file src="images/ingredients/big/bread.png" />
+	<file src="images/ingredients/big/meat.png" />
+	<file src="images/ingredients/big/fish.png" />
+
+	<file src="images/dishes/salad.png" />
+	<file src="images/dishes/soup.png" />
+	<file src="images/dishes/navy_pasta.png" />
+	<file src="images/dishes/carbonara.png" />
+	<file src="images/dishes/ukha.png" />
+	<file src="images/dishes/omelette.png" />
+	<file src="images/dishes/spaghetti_fanicini.png" />
+	<file src="images/dishes/fish_with_vegetables.png" />
+	<file src="images/dishes/cheese_sandwich.png" />
+
+	<file src="images/dishes/big/salad.png" />
+	<file src="images/dishes/big/soup.png" />
+	<file src="images/dishes/big/navy_pasta.png" />
+	<file src="images/dishes/big/carbonara.png" />
+	<file src="images/dishes/big/ukha.png" />
+	<file src="images/dishes/big/omelette.png" />
+	<file src="images/dishes/big/spaghetti_fanicini.png" />
+	<file src="images/dishes/big/fish_with_vegetables.png" />
+	<file src="images/dishes/big/cheese_sandwich.png" />
+
+	<file src="images/marker.png" />
+
+	<oop>true</oop>
+</meta>

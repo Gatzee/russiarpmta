@@ -1,0 +1,25 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="SEvent.lua"/>
+    <script src="SEventCore.lua" />
+
+    <script src="ShEvent.lua" type="shared" />
+
+    <script src="CUtils.lua"       type="client" />
+    <script src="CEvent.lua"       type="client" />
+    <script src="CEventCore.lua"   type="client" />
+    <script src="CEventReward.lua" type="client" />
+    <script src="CUIEvent.lua"     type="client" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bar_bg.png" />
+    <file src="files/img/bar_body.png" />
+    <file src="files/img/btn_finish_dialog.png" />
+    <file src="files/img/msg_bg.png" />
+
+    <file src="files/img/btn_take.png" />
+    <file src="files/img/rewards_bg.png" />
+    <file src="files/img/rewards_1.png" />
+    <file src="files/img/rewards_2.png" />
+</meta>

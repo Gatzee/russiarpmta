@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="CWheels.lua" type="client" />
+
+	<export function="UpdateVehicleWheelsStuff" type="client" />
+</meta>

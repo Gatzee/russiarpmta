@@ -1,0 +1,118 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShJobConfig.lua"                    type="shared" />
+    <script src="job_config/ShMechanic.lua"          type="shared" />
+    <script src="job_config/ShWoodcutter.lua"        type="shared" />
+    <script src="job_config/ShTrucker.lua"           type="shared" />
+    <script src="job_config/ShTaxi.lua"              type="shared" />
+    <script src="job_config/ShParkEmployee.lua"      type="shared" />
+    <script src="job_config/ShPilot.lua"             type="shared" />
+    <script src="job_config/ShLoader.lua"            type="shared" />
+    <script src="job_config/ShHcs.lua"               type="shared" />
+    <script src="job_config/ShFarmer.lua"            type="shared" />
+    <script src="job_config/ShDriver.lua"            type="shared" />
+    <script src="job_config/ShCourier.lua"           type="shared" />
+    <script src="job_config/ShTaxiPrivate.lua"       type="shared" />
+    <script src="job_config/ShCollectionBuilder.lua" type="shared" />
+
+    <script src="CJob_Core.lua"       type="client" />
+    <script src="CJob_Utils.lua"      type="client" />
+    <script src="CJob_Interface.lua"  type="client" />
+    
+    <script src="SJob_Core.lua"       type="server" />
+    <script src="SJob_Utils.lua"      type="server" />
+    <script src="SJob_DailyTasks.lua" type="server" />
+    <script src="SJob_Vehicles.lua"   type="server" />
+    <script src="SJob_Analytics.lua"  type="server" />
+
+    <script src="taxi_private/CJobTaxiPrivate_Interface.lua"   type="client" />
+    <script src="taxi_private/SJobTaxiPrivate.lua"             type="server" />
+    <script src="taxi_private/SJobTaxiPrivate_Licenses.lua"    type="server" />
+    <script src="taxi_private/SJobTaxiPrivate_VehSelector.lua" type="server" />    
+
+    <script src="database/SContextWoodcutter.lua" type="server" />
+
+    <file src="fx/circle.fx" />
+
+    <file src="img/btn_start_shift.png" />
+    <file src="img/info_icon.png" />
+    <file src="img/btn_start_shift_h.png" />
+    <file src="img/btn_end_shift.png" />
+    <file src="img/btn_end_shift_h.png" />
+    <file src="img/btn_fines.png" />
+    <file src="img/btn_fines_h.png" />
+    <file src="img/btn_more_i.png" />
+    <file src="img/btn_more_h.png" />
+    <file src="img/btn_hide.png" />
+    <file src="img/bg_fines.png" />
+    <file src="img/shift_available_icon.png" />
+    <file src="img/tmr_icon.png" />
+    <file src="img/soft_icon.png" />
+    <file src="img/tax_icon.png" />
+    <file src="img/circle_completed.png" />
+    <file src="img/circle_progress.png" />
+    <file src="img/circle_progress_value.png" />
+
+    <file src="img/levels/blocked_last.png" />
+    <file src="img/levels/blocked_next.png" />
+    <file src="img/levels/current_last.png" />
+    <file src="img/levels/current_next.png" />
+    <file src="img/levels/passed_next.png" />
+
+    <file src="img/courier/bg_main.png" />
+    <file src="img/courier/marker1.png" />
+    <file src="img/courier/marker2.png" />
+
+    <file src="img/driver/bg_main.png" />
+    <file src="img/driver/marker.png" />
+
+    <file src="img/farmer/bg_main.png" />
+    <file src="img/farmer/marker.png" />
+
+    <file src="img/hcs/bg_main.png" />
+    <file src="img/hcs/marker.png" />
+
+    <file src="img/loader/bg_main.png" />
+    <file src="img/loader/marker1.png" />
+    <file src="img/loader/marker2.png" />
+
+    <file src="img/mechanic/bg_main.png" />
+    <file src="img/mechanic/marker.png" />
+
+    <file src="img/park_employee/bg_main.png" />
+    <file src="img/park_employee/marker.png" />
+
+    <file src="img/pilot/bg_main.png" />
+    <file src="img/pilot/hint_drop.png" />
+    <file src="img/pilot/marker.png" />
+
+    <file src="img/taxi/bg_main.png" />
+    <file src="img/taxi/marker.png" />
+
+    <file src="img/trucker/bg_main.png" />
+    <file src="img/trucker/marker.png" />
+
+    <file src="img/woodcutter/bg_main.png" />
+    <file src="img/woodcutter/marker.png" />
+
+    <file src="img/taxi_private/bg_main.png" />
+    <file src="img/taxi_private/bg_purchase_license.png" />
+    <file src="img/taxi_private/btn_time_idle.png" />
+    <file src="img/taxi_private/btn_time_hover.png" />
+    <file src="img/taxi_private/btn_time_pressed.png" />
+    <file src="img/taxi_private/btn_veh_idle.png" />
+    <file src="img/taxi_private/btn_veh_hover.png" />
+    <file src="img/taxi_private/btn_veh_pressed.png" />
+    <file src="img/taxi_private/bg_select_vehicle.png" />
+    <file src="img/taxi_private/btn_license_list.png" />
+    <file src="img/taxi_private/bg_small_license.png" />
+    <file src="img/taxi_private/btn_buy.png" />
+    <file src="img/taxi_private/btn_circle.png" />
+    <file src="img/taxi_private/vehicle_icon.png" />
+    <file src="img/taxi_private/btn_select.png" />
+    <file src="img/taxi_private/btn_select_hover.png" />
+    <file src="img/taxi_private/tmr.png" />
+    <file src="img/taxi_private/money.png" />
+    <file src="img/taxi_private/donate.png" />
+    <file src="img/taxi_private/marker.png" />
+</meta>

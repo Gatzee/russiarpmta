@@ -1,0 +1,408 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShPhone.lua" type="shared" />
+    <script src="SPhone.lua" />
+    <script src="CPhone.lua" type="client" />
+    <script src="SPhoneTowtruck.lua" />
+    <script src="CPhoneTowtruck.lua" type="client" />
+    <script src="SPhoneSVehicles.lua" />
+    <script src="CPhoneSVehicles.lua" type="client" />
+    <script src="CPhoneSms.lua" type="client" />
+    <script src="CPhoneContacts.lua" type="client" />
+    <script src="SPhoneTransfer.lua" />
+    <script src="CPhoneTransfer.lua" type="client" />
+    <script src="SPhoneRequests.lua" />
+    <script src="CPhoneRequests.lua" type="client" />
+    <script src="CPhoneRadio.lua" type="client" />
+    <script src="CPhoneSettings.lua" type="client" />
+    <script src="CPhoneBets.lua" type="client" />
+    <script src="CPhoneRaces.lua" type="client" />
+    <script src="SPhoneRaces.lua" />
+    <script src="CNotifications.lua" type="client" />
+    <script src="SPhoneForbes.lua" />
+    <script src="CPhoneForbes.lua" type="client" />
+    <script src="SPhoneTaxi.lua" />
+    <script src="CPhoneTaxi.lua" type="client" />
+    <script src="CPhoneGovernment.lua"	type="client" />
+    <script src="SPhoneGovernment.lua"	type="server" />
+    <script src="CPhoneReport.lua"	type="client" />
+    <script src="CPhoneNewYear.lua"	type="client" />
+    <script src="CPhoneHalloween.lua"	type="client" />
+    <script src="CPhoneMayEvents.lua"	type="client" />
+    <script src="CPhoneInviteUser.lua"	type="client" />
+
+    <script src="CPhoneInvidualization.lua"	type="client" />
+    <script src="SPhoneInvidualization.lua"	type="server" />
+    <script src="CPhonePhotoMode.lua" type ="client" />
+    <script src="CPhoneClanWar.lua"	type="client" />
+    <script src="CStatistic.lua" type="client" />
+    <script src="CPhoneParty.lua" type="client" />
+
+    <file src="img/main.png" />
+    <file src="img/cases/case_1.png" />
+    <file src="img/backgrounds/bg_1.png" />
+    <file src="img/backgrounds/bmw.png" />
+    <file src="img/backgrounds/calmsea.png" />
+    <file src="img/backgrounds/cosmos.png" />
+    <file src="img/backgrounds/flower.png" />
+    <file src="img/backgrounds/hood.png" />
+    <file src="img/backgrounds/night_city.png" />
+    <file src="img/backgrounds/nissan.png" />
+    <file src="img/backgrounds/colors.png" />
+    <file src="img/backgrounds/palm.png" />
+    <file src="img/backgrounds/pier.png" />
+    <file src="img/backgrounds/road.png" />
+    <file src="img/backgrounds/roof.png" />
+    <file src="img/backgrounds/smoke.png" />
+    <file src="img/backgrounds/style.png" />
+    <file src="img/backgrounds/wall.png" />
+    <file src="img/backgrounds/bosow.png" />
+    <file src="img/backgrounds/bestik_1.png" />
+
+    <file src="img/elements/app_header.png" />
+    <file src="img/elements/line_horizontal.png" />
+    <file src="img/elements/steering_wheel.png" />
+    <file src="img/elements/scrollbar.png" />
+    <file src="img/elements/soft.png" />
+    <file src="img/elements/hard.png" />
+    <file src="img/elements/statusbar.png" />
+    <file src="img/elements/t_voice.png" />
+
+    <file src="img/elements/bar_bg.png" />
+    <file src="img/elements/handle.png" />
+
+    <file src="img/elements/config.png" />
+
+    <file src="img/elements/contacts/contacts_header.png" />
+    <file src="img/elements/contacts/favorites_header.png" />
+    <file src="img/elements/contacts/recent_header.png" />
+    <file src="img/elements/contacts/dial_number_header.png" />
+    <file src="img/elements/contacts/new_contact_header.png" />
+    <file src="img/elements/contacts/btn_contacts.png" />
+    <file src="img/elements/contacts/btn_favorites.png" />
+    <file src="img/elements/contacts/btn_recent.png" />
+    <file src="img/elements/contacts/btn_dial_number.png" />
+    <file src="img/elements/contacts/user.png" />
+    <file src="img/elements/contacts/add.png" />
+    <file src="img/elements/contacts/star.png" />
+    <file src="img/elements/contacts/star_hover.png" />
+    <file src="img/elements/contacts/ellipse_bg.png" />
+    <file src="img/elements/contacts/ellipse_call.png" />
+    <file src="img/elements/contacts/btn_add.png" />
+    <file src="img/elements/contacts/btn_add_hover.png" />
+    <file src="img/elements/contacts/bg_edit_add_number.png" />
+    <file src="img/elements/contacts/popup_contact.png" />
+    <file src="img/elements/contacts/btn_call.png" />
+    <file src="img/elements/contacts/btn_call_hover.png" />
+    <file src="img/elements/contacts/btn_message.png" />
+    <file src="img/elements/contacts/btn_message_hover.png" />
+    <file src="img/elements/contacts/bg_accept_call.png" />
+    <file src="img/elements/contacts/bg_talk_call.png" />
+    <file src="img/elements/contacts/bg_sel_contact.png" />
+    <file src="img/elements/contacts/btn_accept_call.png" />
+    <file src="img/elements/contacts/btn_accept_call_hover.png" />
+    <file src="img/elements/contacts/btn_ignore_call.png" />
+    <file src="img/elements/contacts/btn_ignore_call_hover.png" />
+    <file src="img/elements/contacts/btn_end_call.png" />
+    <file src="img/elements/contacts/btn_end_call_hover.png" />
+    <file src="img/elements/contacts/btn_send.png" />
+    <file src="img/elements/contacts/btn_send_hover.png" />
+    <file src="img/elements/contacts/phone_icon.png" />
+    <file src="img/elements/contacts/sel_contact.png" />
+    <file src="img/elements/contacts/sms_area.png" />
+    <file src="img/elements/contacts/contacts_online.png" />
+    <file src="img/elements/contacts/contacts_offline.png" />
+
+    <file src="img/elements/notifications/btn_show_more_i.png" />
+    <file src="img/elements/notifications/btn_show_more_h.png" />
+    <file src="img/elements/notifications/btn_show_more_c.png" />
+    
+    <file src="img/elements/notifications/btn_create_i.png" />
+    <file src="img/elements/notifications/btn_create_h.png" />
+    <file src="img/elements/notifications/btn_create_c.png" />
+
+    <file src="img/elements/notifications/btn_search_i.png" />
+    <file src="img/elements/notifications/btn_search_h.png" />
+    <file src="img/elements/notifications/btn_search_c.png" />
+
+    <file src="img/elements/checked.png" />
+    <file src="img/elements/unchecked.png" />
+
+    <file src="img/elements/radio_header.png" />
+    <file src="img/elements/radio_list_header.png" />
+    <file src="img/elements/radio/btn_radio_list.png" />
+    <file src="img/elements/radio/btn_radio_list_hover.png" />
+    <file src="img/elements/radio/btn_arrow.png" />
+    <file src="img/elements/radio/btn_play.png" />
+    <file src="img/elements/radio/btn_pause.png" />
+
+
+    <file src="img/elements/new_sms_header.png" />
+    <file src="img/elements/sms_header.png" />
+    <file src="img/elements/arrow_right.png" />
+    <file src="img/elements/arrow_back.png" />
+    <file src="img/elements/arrow_left_bold.png" />
+
+    <file src="img/elements/svehicles_header.png" />
+    <file src="img/elements/boatvehicles_header.png" />
+    <file src="img/elements/towtruck_header.png" />
+    <file src="img/elements/search.png" />
+    <file src="img/elements/btn_tow.png" />
+    <file src="img/elements/btn_tow_unavailable.png" />
+
+    <file src="img/elements/btn_order.png" />
+    <file src="img/elements/icon_plane.png" />
+    <file src="img/elements/icon_boat.png" />
+
+    <file src="img/elements/btn_cancel.png" />
+    <file src="img/elements/btn_ok.png" />
+    <file src="img/elements/btn_transfer.png" />
+    <file src="img/elements/transfer_error_bg.png" />
+    <file src="img/elements/transfer_popup_bg.png" />
+    <file src="img/elements/edit_field.png" />
+    <file src="img/elements/phone.png" />
+    <file src="img/elements/shop_header.png" />
+    <file src="img/elements/hunting.png" />
+
+
+    <file src="img/elements/body.png" />
+    <file src="img/elements/bottom_bar.png" />
+    <file src="img/elements/btn_cert.png" />
+    <file src="img/elements/btn_s_info.png" />
+    <file src="img/elements/btn_s_rating.png" />
+    <file src="img/elements/header.png" />
+    <file src="img/elements/rating_bar.png" />
+    <file src="img/elements/rating_bar_body.png" />
+    <file src="img/elements/rules.png" />
+    <file src="img/elements/s_selector.png" />
+
+    <file src="img/elements/bets/arrow.png" />
+    <file src="img/elements/bets/btn_bet.png" />
+    <file src="img/elements/bets/btn_cancel.png" />
+    <file src="img/elements/bets/edit_field.png" />
+    <file src="img/elements/bets/header.png" />
+
+    <file src="img/elements/notifications/close.png" />
+    <file src="img/elements/notifications/btn_accept.png" />
+    <file src="img/elements/notifications/btn_cancel.png" />
+    <file src="img/elements/notifications/btn_open.png" />
+    <file src="img/elements/notifications/circle.png" />
+
+    <file src="img/elements/races/arrow.png" />
+    <file src="img/elements/races/btn_accept.png" />
+    <file src="img/elements/races/btn_buy_pass.png" />
+    <file src="img/elements/races/btn_cancel.png" />
+    <file src="img/elements/races/btn_cancel_search.png" />
+    <file src="img/elements/races/btn_search.png" />
+    <file src="img/elements/races/cross.png" />
+    <file src="img/elements/races/header.png" />
+    <file src="img/elements/races/hover.png" />
+    <file src="img/elements/races/popup_bg2.png" />
+    <file src="img/elements/races/popup_bg.png" />
+
+    <file src="img/elements/forbes_header.png" />
+    <file src="img/elements/btn_forbes_shop.png" />
+    <file src="img/elements/corona.png" />
+
+    <file src="img/elements/party_header.png" />
+
+    <file src="img/elements/taxi_header.png" />
+    <file src="img/elements/btn_taxi_call.png" />
+    <file src="img/elements/btn_taxi_cancel.png" />
+    <file src="img/elements/btn_taxi_accept.png" />
+    <file src="img/elements/btn_taxi_decline.png" />
+    <file src="img/elements/btn_taxi_rate.png" />
+    <file src="img/elements/stars/1.png" />
+    <file src="img/elements/stars/2.png" />
+    <file src="img/elements/stars/3.png" />
+    <file src="img/elements/stars/4.png" />
+    <file src="img/elements/stars/5.png" />
+
+    <file src="img/elements/btn_call.png" />
+
+    <file src="img/elements/bg_white.png" />
+
+    <file src="img/elements/gov/head.png" />
+    <file src="img/elements/gov/btn_fines_i.png" />
+    <file src="img/elements/gov/btn_fines_h.png" />
+    <file src="img/elements/gov/btn_fines_c.png" />
+    <file src="img/elements/gov/btn_b_fines_i.png" />
+    <file src="img/elements/gov/btn_b_fines_h.png" />
+    <file src="img/elements/gov/btn_b_fines_c.png" />
+    <file src="img/elements/gov/btn_vote_i.png" />
+    <file src="img/elements/gov/btn_vote_h.png" />
+    <file src="img/elements/gov/btn_vote_c.png" />
+    <file src="img/elements/gov/btn_b_vote_i.png" />
+    <file src="img/elements/gov/btn_b_vote_h.png" />
+    <file src="img/elements/gov/btn_b_vote_c.png" />
+    <file src="img/elements/gov/arrow_left.png" />
+    <file src="img/elements/gov/rating.png" />
+
+    <file src="img/elements/gov/btn_fines2_i.png" />
+    <file src="img/elements/gov/btn_fines2_h.png" />
+    <file src="img/elements/gov/btn_fines2_c.png" />
+    <file src="img/elements/gov/btn_reports_i.png" />
+    <file src="img/elements/gov/btn_reports_h.png" />
+    <file src="img/elements/gov/btn_reports_c.png" />
+    <file src="img/elements/gov/btn_b_fines2_i.png" />
+    <file src="img/elements/gov/btn_b_fines2_h.png" />
+    <file src="img/elements/gov/btn_b_fines2_c.png" />
+    <file src="img/elements/gov/btn_b_reports_i.png" />
+    <file src="img/elements/gov/btn_b_reports_h.png" />
+    <file src="img/elements/gov/btn_b_reports_c.png" />
+    <file src="img/elements/gov/icon_soft_small.png" />
+    <file src="img/elements/gov/icon_soft_tiny.png" />
+    <file src="img/elements/gov/btn_pay.png" />
+    <file src="img/elements/gov/btn_pay_h.png" />
+    <file src="img/elements/gov/btn_send.png" />
+    <file src="img/elements/gov/btn_send_h.png" />
+    <file src="img/elements/gov/no_fines.png" />
+
+    <file src="img/elements/gov/btn_circle_i.png" />
+    <file src="img/elements/gov/btn_circle_h.png" />
+    <file src="img/elements/gov/btn_house_pay_i.png" />
+    <file src="img/elements/gov/btn_house_pay_h.png" />
+    <file src="img/elements/gov/btn_house_pay_c.png" />
+    <file src="img/elements/gov/btn_b_house_pay_i.png" />
+    <file src="img/elements/gov/btn_b_house_pay_h.png" />
+    <file src="img/elements/gov/btn_b_house_pay_c.png" />
+
+    <file src="img/elements/events/header/new_year.png" />
+    <file src="img/elements/events/header/halloween.png" />
+    <file src="img/elements/events/header/may_events.png" />
+    <file src="img/elements/events/btn_reg_i.png" />
+    <file src="img/elements/events/btn_reg_h.png" />
+    <file src="img/elements/events/btn_reg_c.png" />
+    <file src="img/elements/events/btn_cancel_i.png" />
+    <file src="img/elements/events/btn_cancel_h.png" />
+    <file src="img/elements/events/btn_cancel_c.png" />
+    <file src="img/elements/events/btn_start_i.png" />
+    <file src="img/elements/events/btn_start_h.png" />
+    <file src="img/elements/events/btn_start_c.png" />
+    <file src="img/elements/events/icons/new_year_gift_collection.png" />
+<!--
+    <file src="img/elements/events/icons/new_year_gift_delivery.png" />
+    <file src="img/elements/events/icons/new_year_drift.png" />
+    <file src="img/elements/events/icons/halloween_derbi.png" />
+    <file src="img/elements/events/icons/halloween_race.png" />
+    <file src="img/elements/events/icons/halloween_destruction.png" /> 
+-->
+    <file src="img/elements/events/icons/new_year_dangerous_sprint.png" />
+    <file src="img/elements/events/icons/new_year_king_mountain.png" />
+
+    <file src="img/elements/events/icons/mayevent_tank_battle.png" />
+    <file src="img/elements/events/icons/mayevent_fight_hunters.png" />
+    <file src="img/elements/events/icons/mayevent_victory_drag.png" />
+
+	<file src="img/elements/individ/btn_ringtones.png" />
+    <file src="img/elements/individ/btn_wallpaper.png" />
+
+    <file src="img/apps/contacts.png" />
+    <file src="img/apps/sms.png" />
+    <file src="img/apps/towtruck.png" />
+    <file src="img/apps/settings.png" />
+    <file src="img/apps/transfer.png" />
+    <file src="img/apps/rating.png" />
+    <file src="img/apps/bets.png" />
+    <file src="img/apps/races.png" />
+    <file src="img/apps/notifications.png" />
+    <file src="img/apps/forbes.png" />
+    <file src="img/apps/taxi.png" />
+    <file src="img/apps/svehicles.png" />
+    <file src="img/apps/government.png" />
+    <file src="img/apps/report.png" />
+    <file src="img/apps/boatvehicles.png" />
+    <file src="img/apps/businesses_sell.png" />
+    <file src="img/apps/phone_individ_shop.png" />
+    <file src="img/apps/phone_individ_setting.png" />
+    <file src="img/apps/new_year.png" />
+    <file src="img/apps/halloween.png" />
+    <file src="img/apps/may_events.png" />
+    <file src="img/apps/radio.png" />
+    <file src="img/apps/photo_mode.png" />
+    <file src="img/apps/clan.png" />
+    <file src="img/apps/clan_war.png" />
+    <file src="img/apps/statistic.png" />
+    <file src="img/apps/party.png" />
+    <file src="img/apps/invite_user.png" />
+
+    <file src="img/elements/individ/wallpaper/bmw.png" />
+    <file src="img/elements/individ/wallpaper/calmsea.png" />
+    <file src="img/elements/individ/wallpaper/cosmos.png" />
+    <file src="img/elements/individ/wallpaper/flower.png" />
+    <file src="img/elements/individ/wallpaper/hood.png" />
+    <file src="img/elements/individ/wallpaper/night_city.png" />
+    <file src="img/elements/individ/wallpaper/nissan.png" />
+    <file src="img/elements/individ/wallpaper/colors.png" />
+    <file src="img/elements/individ/wallpaper/palm.png" />
+    <file src="img/elements/individ/wallpaper/pier.png" />
+    <file src="img/elements/individ/wallpaper/rain.png" />
+    <file src="img/elements/individ/wallpaper/road.png" />
+    <file src="img/elements/individ/wallpaper/roof.png" />
+    <file src="img/elements/individ/wallpaper/sea.png" />
+    <file src="img/elements/individ/wallpaper/smoke.png" />
+    <file src="img/elements/individ/wallpaper/style.png" />
+    <file src="img/elements/individ/wallpaper/sunset.png" />
+    <file src="img/elements/individ/wallpaper/tube.png" />
+    <file src="img/elements/individ/wallpaper/wall.png" />
+    <file src="img/elements/individ/wallpaper/bosow.png" />
+    <file src="img/elements/individ/wallpaper/bestik_1.png" />
+
+    <file src="img/elements/individ/btn_buy.png" />
+    <file src="img/elements/individ/btn_buy_hover.png" />
+    <file src="img/elements/individ/btn_cancel.png" />
+    <file src="img/elements/individ/btn_cancel_hover.png" />
+    <file src="img/elements/individ/btn_install.png" />
+    <file src="img/elements/individ/btn_install_hover.png" />
+    <file src="img/elements/individ/play.png" />
+    <file src="img/elements/individ/stop.png" />
+    <file src="img/elements/individ/green_check.png" />
+
+    <file src="img/elements/clan_war/btn_cancel.png" />
+    <file src="img/elements/clan_war/btn_cancel_hover.png" />
+    <file src="img/elements/clan_war/btn_register.png" />
+    <file src="img/elements/clan_war/btn_register_hover.png" />
+    <file src="img/elements/clan_war/header.png" />
+    <file src="img/elements/clan_war/icons/deathmatch.png" />
+    <file src="img/elements/clan_war/icons/holdarea.png" />
+    <file src="img/elements/clan_war/icons/cartel_capture.png" />
+    <file src="img/elements/clan_war/icons/cartel_tax.png" />
+
+    <file src="img/elements/invite_user/btn_details.png" />
+    <file src="img/elements/invite_user/btn_invite.png" />
+    <file src="img/elements/invite_user/edit_bg.png" />
+    <file src="img/elements/invite_user/icon.png" />
+    <file src="img/elements/invite_user/btn_copy.png" />
+
+    <file src="sound/message/message_1.wav" />
+    <file src="sound/message/message_2.wav" />
+    <file src="sound/message/message_3.wav" />
+    <file src="sound/message/message_4.wav" />
+    <file src="sound/message/message_5.wav" />
+
+    <file src="sound/notification/notification_1.wav" />
+    <file src="sound/notification/notification_2.wav" />
+    <file src="sound/notification/notification_3.wav" />
+    <file src="sound/notification/notification_4.wav" />
+    <file src="sound/notification/notification_5.wav" />
+
+    <file src="sound/ringtone/ringtone_1.wav" />
+    <file src="sound/ringtone/ringtone_2.wav" />
+    <file src="sound/ringtone/ringtone_3.wav" />
+    <file src="sound/ringtone/ringtone_4.wav" />
+    <file src="sound/ringtone/ringtone_5.wav" />
+    <file src="sound/ringtone/ringtone_6.wav" />
+
+    <file src="sound/sound_call.wav" />
+    <file src="sound/not_abonent.wav" />
+    <file src="sound/call_failed.wav" />
+
+    <export function="GetCurrentRadioChannel" type="client" />
+    <export function="SaveCurrentRadioChannel" type="client" />
+
+    <export function="GetPlayerWallpapers" type="server" />
+    <export function="GiveWallpaper" type="server" />
+
+    <download_priority_group>-10</download_priority_group>
+</meta>

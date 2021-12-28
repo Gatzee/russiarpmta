@@ -1,0 +1,6 @@
+<meta>
+    <script src="CRpbkiller.lua" type="client" />
+
+    <file src="tex.jpg" />
+    <file src="shader.fx" />
+</meta>

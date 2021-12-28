@@ -1,0 +1,137 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShInventory.lua" type="shared" />
+    <script src="ShInventoryItems.lua" type="shared" />
+    <script src="SInventory.lua" />
+    <script src="SInventoryExpand.lua" />
+    <script src="CInventory.lua" type="client" />
+    <script src="CUIInventory.lua" type="client" />
+    <script src="CUIInventoryItemDragging.lua" type="client" />
+    <script src="CUIInventoryHotbar.lua" type="client" />
+
+    <export function="Inventory_Expand" type="server" />
+    <export function="Inventory_Clear" type="server" />
+    <export function="Inventory_GetById" type="shared" />
+    <export function="Inventory_GetItemCount" type="shared" />
+    <export function="Inventory_CheckWeight" type="shared" />
+    <export function="Inventory_GetDraggedItem" type="client" />
+
+    <file src="img/highlight.png" />
+    <file src="img/icon_backpack.png" />
+    <file src="img/icon_car_trunk.png" />
+    <file src="img/icon_house_box.png" />
+    <file src="img/icon_sharing.png" />
+    <file src="img/btn_delete.png" />
+    <file src="img/bg_increase_max_size.png" />
+    <file src="img/slot_hotbar.png" />
+    <file src="img/btn_details.png" />
+
+    <file src="img/items/16.png" />
+    <file src="img/items/17.png" />
+    <file src="img/items/18.png" />
+    <file src="img/items/22.png" />
+    <file src="img/items/23.png" />
+    <file src="img/items/24.png" />
+    <file src="img/items/25.png" />
+    <file src="img/items/26.png" />
+    <file src="img/items/28.png" />
+    <file src="img/items/29.png" />
+    <file src="img/items/30.png" />
+    <file src="img/items/31.png" />
+    <file src="img/items/32.png" />
+    <file src="img/items/33.png" />
+    <file src="img/items/34.png" />
+    <file src="img/items/35.png" />
+    <file src="img/items/36.png" />
+    <file src="img/items/38.png" />
+    <file src="img/items/39.png" />
+    <file src="img/items/41.png" />
+    <file src="img/items/42.png" />
+    <file src="img/items/43.png" />
+    <file src="img/items/ammo.png" />
+    <file src="img/items/bag.png" />
+    <file src="img/items/booster_exp_hour.png" />
+    <file src="img/items/booster_exp_shift.png" />
+    <file src="img/items/booster_free_fuel.png" />
+    <file src="img/items/booster_free_repair.png" />
+    <file src="img/items/canister.png" />
+    <file src="img/items/battery.png" />
+    <file src="img/items/clothes.png" />
+    <file src="img/items/firstaid.png" />
+    <file src="img/items/fuel.png" />
+    <file src="img/items/hands.png" />
+    <file src="img/items/heavyarmor.png" />
+    <file src="img/items/jailkeys.png" />
+    <file src="img/items/jailtime.png" />
+    <file src="img/items/key.png" />
+    <file src="img/items/lightarmor.png" />
+    <file src="img/items/mediumarmor.png" />
+    <file src="img/items/passport.png" />
+    <file src="img/items/repairbox.png" />
+    <file src="img/items/toner.png" />
+    <file src="img/items/unfines.png" />
+    <file src="img/items/unwanted.png" />
+    <file src="img/items/vehicle_history.png" />
+    <file src="img/items/vehprotector.png" />
+    <file src="img/items/weapon_ak.png" />
+    <file src="img/items/weapon_knuckle.png" />
+    <file src="img/items/weapon_nightstick.png" />
+    <file src="img/items/weapon_paint.png" />
+    <file src="img/items/weapon_pistol.png" />
+    <file src="img/items/weapon_shocker.png" />
+    <file src="img/items/military.png" />
+    <file src="img/items/armyfree.png" />
+    <file src="img/items/smartwatch.png" />
+    <file src="img/items/faction_history.png" />
+    <file src="img/items/cert.png" />
+    <file src="img/items/ticket_1.png" />
+    <file src="img/items/ticket_2.png" />
+    <file src="img/items/ticket_3.png" />
+    <file src="img/items/food.png" />
+    <file src="img/items/policeid.png" />
+    <file src="img/items/hdd.png" />
+
+    <file src="img/items/drug_1.png" />
+    <file src="img/items/drug_2.png" />
+    <file src="img/items/drug_3.png" />
+
+    <file src="img/items/vehpassport.png" />
+    <file src="img/items/tutorial_docs.png" />
+    <file src="img/items/tutorial_hash.png" />
+    <file src="img/items/quest_money.png" />
+
+    <file src="img/items/map.png" />
+
+    <file src="img/items/wedding_gift.png" />
+    <file src="img/items/wedding_dis.png" />
+    <file src="img/items/choco.png" />
+    <file src="img/items/diamond_bag.png" />
+    <file src="img/items/diamond_hope.png" />
+    <file src="img/items/panam_hat.png" />
+    <file src="img/items/wood_black_glasses.png" />
+    
+    <file src="img/items/medbook.png" />
+
+    <file src="img/items/weapon_license.png" />
+
+    <file src="img/items/icon_ammo_1.png" />
+    <file src="img/items/icon_rifle_1.png" />
+    <file src="img/items/icon_rod_1.png" />
+    <file src="img/items/icon_shovel_1.png" />
+    <file src="img/items/icon_worm_1.png" />
+    <file src="img/items/bug_money.png" />
+    <file src="img/items/icon_quest_case.png" />
+    <file src="img/items/taxi.png" />
+
+    <file src="img/items/bottle.png" />
+    <file src="img/items/bottle_dirty.png" />
+    <file src="img/items/alco_1.png" />
+    <file src="img/items/alco_2.png" />
+    <file src="img/items/alco_3.png" />
+
+    <file src="img/items/hash_raw.png" />
+    <file src="img/items/hash_dry.png" />
+    <file src="img/items/hash_1.png" />
+    <file src="img/items/hash_2.png" />
+    <file src="img/items/hash_3.png" />
+</meta>

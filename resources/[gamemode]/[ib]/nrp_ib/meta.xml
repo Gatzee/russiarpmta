@@ -1,0 +1,58 @@
+<meta>
+    <oop>true</oop>
+    <script src="ib.lua" type="client" />
+    <script src="ib_animate.lua" type="client" />
+    <script src="ib_textures.lua" type="client" />
+    <script src="ib_styles.lua" type="client" />
+
+    <!-- Основные элементы -->
+    <script src="elements/ibButton.lua" type="client" />
+    <script src="elements/ibImage.lua" type="client" />
+    <script src="elements/ibLabel.lua" type="client" />
+    <script src="elements/ibEdit.lua" type="client" />
+    <script src="elements/ibScrollbarV.lua" type="client" />
+    <script src="elements/ibScrollbarH.lua" type="client" />
+    <script src="elements/ibRenderTarget.lua" type="client" />
+    <script src="elements/ibArea.lua" type="client" />
+    <script src="elements/ibBrowser.lua" type="client" />
+    <script src="elements/ibLine.lua" type="client" />
+    <script src="elements/ibWebEdit.lua" type="client" />
+    <script src="elements/ibWebMemo.lua" type="client" />
+
+    <export function="ibButton" type="client" />
+    <export function="ibLabel" type="client" />
+    <export function="ibImage" type="client" />
+    <export function="ibEdit" type="client" />
+    <export function="ibScrollbarV" type="client" />
+    <export function="ibScrollbarH" type="client" />
+    <export function="ibRenderTarget" type="client" />
+    <export function="ibArea" type="client" />
+    <export function="ibBrowser" type="client" />
+    <export function="ibLine" type="client" />
+    <export function="ibWebEdit" type="client" />
+    <export function="ibWebMemo" type="client" />
+
+    <!-- Анимации -->
+    <export function="ibMove" type="client" />
+    <export function="ibResize" type="client" />
+    <export function="ibAlpha" type="client" />
+    <export function="ibRotate" type="client" />
+    <export function="ibScroll" type="client" />
+
+    <!-- Общее -->
+    <export function="ibGetData" type="client" />
+    <export function="ibSetData" type="client" />
+    <export function="ibSetBatchData" type="client" />
+    <export function="ibGetHoveredElement" type="client" />
+    <export function="ibGetStyle" type="client" />
+    <export function="ibGetAllData" type="client" />
+    <export function="ConvertToForeignFile" type="client" />
+
+    <!-- Функционал предзагрузки текстур -->
+    <script src="elements/ibPreloader.lua" type="client" />
+    <export function="ibCreatePreloader" type="client" />
+
+    <!-- Вспомогательные файлы -->
+    <file src="html/ibWebEdit.html" />
+    <file src="html/ibWebMemo.html" />
+</meta>

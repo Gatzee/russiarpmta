@@ -1,0 +1,17 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CUIClansCartel.lua" type="client" />
+    <script src="CUIClansCartel_TabGeneral.lua" type="client" />
+    <script src="CUIClansCartel_TabLogs.lua" type="client" />
+    <script src="CUIClansCartel_TabInfo.lua" type="client" />
+
+    <file src="img/btn_declare_war.png" />
+    <file src="img/btn_declare_war_hover.png" />
+    <file src="img/btn_request_tax.png" />
+    <file src="img/btn_request_tax_hover.png" />
+    <file src="img/status_1.png" />
+    <file src="img/status_2.png" />
+    <file src="img/status_3.png" />
+
+</meta>

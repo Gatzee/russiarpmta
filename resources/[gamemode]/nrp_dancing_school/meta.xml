@@ -1,0 +1,81 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="ShDancingSchool.lua" type="shared" />
+    <script src="SDancingSchool.lua" type="server" />
+    <script src="CDancingSchool.lua" type="client" />
+    <script src="CUIDancingSchool.lua" type="client" />
+    <script src="CUIDancingSchool_ItemDragging.lua" type="client" />
+
+    <export function="GetDancesList" type="server" />
+    <export function="GetDancesList" type="client" />
+    <export function="SaveUserPreset" type="client" />
+
+    <file src="files/ifp/crack.ifp" />
+    <file src="files/ifp/dancing.ifp" />
+    <file src="files/ifp/fortnite.ifp" />
+    <file src="files/ifp/parkour.ifp" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bg_radial.png" />
+    <file src="files/img/bg_selector.png" />
+    <file src="files/img/btn_arrow.png" />
+    <file src="files/img/btn_arrow_hovered.png" />
+    <file src="files/img/btn_buy.png" />
+    <file src="files/img/btn_cancel.png" />
+    <file src="files/img/btn_close.png" />
+    <file src="files/img/btn_edit.png" />
+    <file src="files/img/btn_edit_hovered.png" />
+    <file src="files/img/btn_save.png" />
+    <file src="files/img/icon_money.png" />
+    <file src="files/img/lock.png" />
+    <file src="files/img/rectangle_hovered.png" />
+    <file src="files/img/rectangle.png" />
+    <file src="files/img/tick.png" />
+    <file src="files/img/header.png" />
+    <file src="files/img/radial_core.png" />
+    <file src="files/img/new_indicator.png" />
+
+    <file src="files/img/icons/3.png" />
+    <file src="files/img/icons/4.png" />
+    <file src="files/img/icons/6.png" />
+    <file src="files/img/icons/7.png" />
+    <file src="files/img/icons/9.png" />
+    <file src="files/img/icons/10.png" />
+    <file src="files/img/icons/11.png" />
+    <file src="files/img/icons/12.png" />
+    <file src="files/img/icons/13.png" />
+    <file src="files/img/icons/14.png" />
+    <file src="files/img/icons/15.png" />
+    <file src="files/img/icons/16.png" />
+    <file src="files/img/icons/17.png" />
+    <file src="files/img/icons/18.png" />
+    <file src="files/img/icons/19.png" />
+    <file src="files/img/icons/20.png" />
+    <file src="files/img/icons/21.png" />
+    <file src="files/img/icons/22.png" />
+    <file src="files/img/icons/23.png" />
+    <file src="files/img/icons/24.png" />
+    <file src="files/img/icons/25.png" />
+    <file src="files/img/icons/26.png" />
+    <file src="files/img/icons/27.png" />
+    <file src="files/img/icons/28.png" />
+    <file src="files/img/icons/29.png" />
+    <file src="files/img/icons/30.png" />
+    <file src="files/img/icons/31.png" />
+    <file src="files/img/icons/32.png" />
+    <file src="files/img/icons/33.png" />
+    <file src="files/img/icons/34.png" />
+    <file src="files/img/icons/35.png" />
+    <file src="files/img/icons/36.png" />
+
+    <file src="files/img/sections/1.png" />
+    <file src="files/img/sections/2.png" />
+    <file src="files/img/sections/3.png" />
+    <file src="files/img/sections/4.png" />
+    <file src="files/img/sections/5.png" />
+    <file src="files/img/sections/6.png" />
+    <file src="files/img/sections/7.png" />
+    <file src="files/img/sections/8.png" />
+
+</meta>

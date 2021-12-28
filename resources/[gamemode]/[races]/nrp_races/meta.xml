@@ -1,0 +1,146 @@
+<meta>
+	<script src="ShRaces.lua" 	   type="shared" />
+	<script src="CRaces.lua" 	   type="client" />
+	<script src="CRaceHandler.lua" type="client" />
+	<script src="CRaceZone.lua"    type="client" />
+	<script src="CRaceUtils.lua"   type="client" />
+
+	<script src="CHUD.lua" 				type="client" />
+	<script src="CUIRaceResult.lua" 	type="client" />
+	<script src="CRaceWinners.lua" 		type="client" />
+	<script src="lobby/CUILobby.lua" 	type="client" />
+	<script src="lobby/CUISelector.lua" type="client" />
+
+	<script src="modes/CUIModeSelector.lua" type="client" />
+	<script src="modes/CDrift.lua"  		type="client" />
+	<script src="modes/CCircle.lua" 		type="client" />	
+	<script src="modes/CDrag.lua"   		type="client" />
+	<script src="modes/SDrag.lua"   		type="server" />
+	
+	<script src="SRaces.lua" 		  type="server" />
+	<script src="SDataBase.lua" 	  type="server" />
+	<script src="SRaceWinners.lua" 	  type="server" />
+	<script src="SVehiclePreview.lua" type="server" />
+	<script src="SUtils.lua" 		  type="server" />
+
+	<script src="STransferRaces.lua"   type="server" />
+    <export function="GetTransferData" type="server" />
+
+	<!-- Выбор мода -->
+	<file src="files/img/mode_selector/bg_lobby_create.png" />
+	<file src="files/img/mode_selector/btn_select.png" />
+	<file src="files/img/mode_selector/btn_select_hover.png" />
+	<file src="files/img/mode_selector/btn_class.png" />
+	<file src="files/img/mode_selector/btn_class_hover.png" />
+	<file src="files/img/mode_selector/btn_create_lobby.png" />
+	<file src="files/img/mode_selector/btn_start_race.png" />
+	<file src="files/img/mode_selector/btn_start_race_hover.png" />
+	<file src="files/img/mode_selector/btn_repl_acc.png" />
+	<file src="files/img/mode_selector/btn_repl_acc_hover.png" />
+	<file src="files/img/mode_selector/back.png" />
+	<file src="files/img/mode_selector/helmet.png" />
+	<file src="files/img/mode_selector/track.png" />
+	<file src="files/img/mode_selector/wheel_icon.png" />
+	<file src="files/img/mode_selector/king_case.png" />
+	<file src="files/img/mode_selector/bg_edit.png" />
+	<file src="files/img/mode_selector/soft.png" />
+	<file src="files/img/mode_selector/drag_icon.png" />
+	<file src="files/img/mode_selector/circle_icon.png" />
+	<file src="files/img/mode_selector/drift_icon.png" />
+	<file src="files/img/mode_selector/bg_reward.png" />
+	<file src="files/img/mode_selector/place_1.png" />
+	<file src="files/img/mode_selector/place_2.png" />
+	<file src="files/img/mode_selector/place_3.png" />
+	<file src="files/img/mode_selector/bg_drift.png" />
+	<file src="files/img/mode_selector/bg_drag.png" />
+	<file src="files/img/mode_selector/bg_drag_off.png" />
+	<file src="files/img/mode_selector/bg_circle.png" />
+	
+	<!-- Лобби -->
+	<file src="files/img/lobby/arrow.png" />
+	<file src="files/img/lobby/bg_upgrades.png" />
+	<file src="files/img/lobby/btn_buy.png" />
+	<file src="files/img/lobby/controls.png" />
+	<file src="files/img/lobby/header.png" />
+	<file src="files/img/lobby/icon_acceleration.png" />
+	<file src="files/img/lobby/icon_handlings.png" />
+	<file src="files/img/lobby/icon_host.png" />
+	<file src="files/img/lobby/icon_leave.png" />
+	<file src="files/img/lobby/icon_money.png" />
+	<file src="files/img/lobby/icon_reward.png" />
+	<file src="files/img/lobby/icon_speed.png" />
+	<file src="files/img/lobby/icon_search.png" />
+	<file src="files/img/lobby/btn_back.png" />
+	<file src="files/img/lobby/btn_back_hover.png" />
+	<file src="files/img/lobby/icon_ready.png" />
+	<file src="files/img/lobby/logo.png" />
+
+	<!-- Дрифт -->
+	<file src="files/img/drift/drift_bg.png" />
+	<file src="files/img/drift/drift_mul.png" />
+
+	<!-- Драг -->
+	<file src="files/img/drag/bg_tachometer.png" />
+	<file src="files/img/drag/tachometer_arrows.png" />
+	<file src="files/img/drag/hint_shift.png" />
+	<file src="files/img/drag/arrow.png" />
+	<file src="files/img/drag/podium.png" />
+	<file src="files/img/drag/timer.png" />
+	<file src="files/img/drag/gear_0.png" />
+	<file src="files/img/drag/gear_1.png" />
+	<file src="files/img/drag/gear_2.png" />
+	<file src="files/img/drag/gear_3.png" />
+	<file src="files/img/drag/gear_4.png" />
+	<file src="files/img/drag/gear_5.png" />
+
+	<!-- Результат заезда -->
+	<file src="files/img/reward/big_soft.png" />
+	<file src="files/img/reward/divided_line.png" />
+	<file src="files/img/reward/btn_ok.png" />
+	<file src="files/img/reward/btn_ok_hovered.png" />
+	<file src="files/img/reward/block_reward.png" />
+	<file src="files/img/reward/finish_icon.png" />
+	<file src="files/img/reward/reward_text_effect.png" />
+	<file src="files/img/reward/lose_text_effect.png" />
+	<file src="files/img/reward/win_text_effect.png" />
+	<file src="files/img/reward/finish_text_effect.png" />
+	<file src="files/img/reward/bg_lose.png" />
+	<file src="files/img/reward/bg_win.png" />
+	<file src="files/img/reward/bg_finish.png" />
+	<file src="files/img/reward/btn_take.png" />
+	<file src="files/img/reward/brush.png" />
+	
+	<!-- Общая хуетень -->
+	<file src="files/img/hud/bg_top.png" />
+	<file src="files/img/hud/bg_score.png" />
+	<file src="files/img/hud/wrong_side.png" />
+	<file src="files/img/hud/wrong_way_icon.png" />
+	<file src="files/img/hud/damage.png" />
+	<file src="files/img/hud/place_1.png" />
+	<file src="files/img/hud/place_2.png" />
+	<file src="files/img/hud/place_3.png" />
+	<file src="files/img/hud/icon_nitro.png" />
+	<file src="files/img/hud/icon_ram.png" />
+	<file src="files/img/hud/icon_slowmo.png" />
+	<file src="files/img/hud/icon_wave.png" />
+
+	<!-- Звуки -->
+	<file src="files/sfx/music_race_lobby.ogg" />
+	<file src="files/sfx/lobby_start.wav" />
+	<file src="files/sfx/timer_tick.wav" />
+	<file src="files/sfx/start.wav" />
+	<file src="files/sfx/finish.wav" />
+
+	<file src="files/sounds/blast_wave.wav" />
+	<file src="files/sounds/boost.wav" />
+	<file src="files/sounds/juggernaut.ogg" />
+	<file src="files/sounds/nitro.wav" />
+
+	<!-- Шрифты -->
+	<file src="files/fonts/Oxanium-Bold.ttf" />
+	<file src="files/fonts/Oxanium-Regular.ttf" />
+
+	<export function="GetDestroyDragTime" type="client" />
+
+	<oop>true</oop>
+</meta>

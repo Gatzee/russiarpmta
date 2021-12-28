@@ -1,0 +1,17 @@
+<meta>
+	<script src="CTraining.lua"				type="client"/>
+	<script src="CUIDemining.lua"			type="client"/>
+
+	<file src="images/bg.png" />
+	<file src="images/button_port_idle.png" />
+	<file src="images/button_port_active.png" />
+
+	<file src="sounds/number_false.wav" />
+	<file src="sounds/number_true.wav" />
+	<file src="sounds/port_setup.wav" />
+	<file src="sounds/port_cleanup.wav" />
+	<file src="sounds/code_error.wav" />
+	<file src="sounds/code_success.wav" />
+
+	<oop>true</oop>
+</meta>

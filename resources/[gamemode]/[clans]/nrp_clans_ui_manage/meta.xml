@@ -1,0 +1,120 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CUIClansManage.lua" type="client" />
+    <script src="CUIClansManage_TabEdit.lua" type="client" />
+    <script src="CUIClansManage_TabLogs.lua" type="client" />
+    <script src="CUIClansManage_TabMembers.lua" type="client" />
+    <script src="CUIClansManage_TabUpgrades.lua" type="client" />
+    <script src="CUIClansManage_TabShop.lua" type="client" />
+    <script src="CUIClansManage_TabHunting.lua" type="client" />
+
+    <script src="SUIClansManage.lua" type="server" />
+
+    <file src="img/members/bg_edit_add.png" />
+    <file src="img/members/bg_edit_search.png" />
+    <file src="img/members/btn_add.png" />
+    <file src="img/members/btn_add_hover.png" />
+    <file src="img/members/btn_delete.png" />
+    <file src="img/members/btn_hide.png" />
+    <file src="img/members/btn_hide_hover.png" />
+    <file src="img/members/btn_invite.png" />
+    <file src="img/members/btn_leave.png" />
+    <file src="img/members/btn_search.png" />
+    <file src="img/members/btn_search_hover.png" />
+    <file src="img/members/icon_indicator.png" />
+
+    <file src="img/shop/bg_item.png" />
+    <file src="img/shop/bg_item_hover.png" />
+    <file src="img/shop/btn_addtocart.png" />
+    <file src="img/shop/btn_addtocart_hover.png" />
+    <file src="img/shop/btn_buy.png" />
+    <file src="img/shop/btn_buy_hover.png" />
+    <file src="img/shop/btn_delete.png" />
+    <file src="img/shop/btn_delete_hover.png" />
+    <file src="img/shop/btn_hide.png" />
+    <file src="img/shop/btn_hide_hover.png" />
+    <file src="img/shop/btn_remove.png" />
+    <file src="img/shop/btn_remove_hover.png" />
+    <file src="img/shop/btn_all.png" />
+    <file src="img/shop/btn_drugs.png" />
+    <file src="img/shop/btn_weapon.png" />
+    <file src="img/shop/btn_open_cart.png" />
+    <file src="img/shop/icon_locked.png" />
+    <file src="img/shop/num_bg.png" />
+    <file src="img/shop/num_btn_minus.png" />
+    <file src="img/shop/num_btn_plus.png" />
+    
+    <file src="img/shop/items/drugs_1.png" />
+    <file src="img/shop/items/drugs_2.png" />
+    <file src="img/shop/items/drugs_3.png" />
+    <file src="img/shop/items/weapon_22.png" />
+    <file src="img/shop/items/weapon_24.png" />
+    <file src="img/shop/items/weapon_29.png" />
+    <file src="img/shop/items/weapon_30.png" />
+    <file src="img/shop/items/weapon_34.png" />
+    <file src="img/shop/items/weapon_41.png" />
+
+    <file src="img/upgrades/bg_title.png" />
+    <file src="img/upgrades/bg_upgrade_hover.png" />
+    <file src="img/upgrades/bg_upgrade_locked.png" />
+    <file src="img/upgrades/icon_locked.png" />
+    <file src="img/upgrades/icon_unlocked.png" />
+    <file src="img/upgrades/progress_bar.png" />
+    <file src="img/upgrades/btn_back.png" />
+    <file src="img/upgrades/1/bg_info.png" />
+    <file src="img/upgrades/1/block.png" />
+    <file src="img/upgrades/1/btn_buy.png" />
+    <file src="img/upgrades/1/btn_buy_hover.png" />
+    <file src="img/upgrades/2/bg_info.png" />
+    <file src="img/upgrades/2/block.png" />
+    <file src="img/upgrades/2/btn.png" />
+    <file src="img/upgrades/2/overlay/info_alco_production.png" />
+    <file src="img/upgrades/2/overlay/info_hash_production.png" />
+    <file src="img/upgrades/2/overlay/btn_upgrade.png" />
+    <file src="img/upgrades/3/bg_info.png" />
+    <file src="img/upgrades/3/block.png" />
+    <file src="img/upgrades/3/bg_buff_h.png" />
+    <file src="img/upgrades/3/link_1_1.png" />
+    <file src="img/upgrades/3/link_1_2.png" />
+    <file src="img/upgrades/3/buffs/disease_resistance.png" />
+    <file src="img/upgrades/3/buffs/drugs_discount.png" />
+    <file src="img/upgrades/3/buffs/fast_alco_fermentation.png" />
+    <file src="img/upgrades/3/buffs/fast_hash_drying.png" />
+    <file src="img/upgrades/3/buffs/group_hp_increase.png" />
+    <file src="img/upgrades/3/buffs/increase_alco_cost.png" />
+    <file src="img/upgrades/3/buffs/increase_drugs_time.png" />
+    <file src="img/upgrades/3/buffs/increase_fist_damage.png" />
+    <file src="img/upgrades/3/buffs/increase_hash_cost.png" />
+    <file src="img/upgrades/3/buffs/increase_healing.png" />
+    <file src="img/upgrades/3/buffs/increase_max_hp.png" />
+    <file src="img/upgrades/3/buffs/increase_stamina.png" />
+    <file src="img/upgrades/3/buffs/increase_stats.png" />
+    <file src="img/upgrades/3/buffs/moto_discount.png" />
+    <file src="img/upgrades/3/buffs/reduce_jail_time.png" />
+    <file src="img/upgrades/3/buffs/slowing_down_hunger.png" />
+    <file src="img/upgrades/3/buffs/tuning_discount.png" />
+    <file src="img/upgrades/3/buffs/weapon_discount.png" />
+    <file src="img/upgrades/3/change_way/block_selected.png" />
+    <file src="img/upgrades/3/change_way/blocks.png" />
+    <file src="img/upgrades/3/change_way/btn_change.png" />
+    <file src="img/upgrades/3/change_way/btn_change_h.png" />
+    <file src="img/upgrades/3/btn_change_way.png" />
+    <file src="img/upgrades/3/btn_details.png" />
+    <file src="img/upgrades/3/btn_details_h.png" />
+    <file src="img/upgrades/3/btn_upgrades.png" />
+    <file src="img/upgrades/3/btn_upgrades_h.png" />
+
+    <file src="img/editing/bg_btn.png" />
+    <file src="img/editing/btn_arrow.png" />
+    <file src="img/editing/btn_delete_clan.png" />
+    <file src="img/editing/btn_cancel_delete_clan.png" />
+    <file src="img/editing/btn_save.png" />
+    <file src="img/editing/btn_edit.png" />
+
+    <file src="img/hunting/orientation.png" />
+    <file src="img/hunting/btn_sputnik.png" />
+    <file src="img/hunting/btn_find.png" />
+    <file src="img/hunting/btn_sputnik_hover.png" />
+    <file src="img/hunting/btn_find_hover.png" />
+</meta>

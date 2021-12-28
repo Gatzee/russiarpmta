@@ -1,0 +1,5 @@
+<meta>
+	<download_priority_group>10000000000</download_priority_group>
+	<oop>true</oop>
+	<script src="CStart_Images.lua" type="client" cache="false" />
+</meta>

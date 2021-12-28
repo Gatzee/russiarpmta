@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShClansCartelGates.lua" type="shared" />
+    <script src="CClansCartelGates.lua" type="client" />
+    <script src="SClansCartelGates.lua" type="server" />
+    
+    <script src="CClansMap.lua" type="client" />
+    <file src="clans_base2.map" />
+</meta>

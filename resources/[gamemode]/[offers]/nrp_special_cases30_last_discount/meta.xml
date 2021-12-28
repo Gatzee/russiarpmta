@@ -1,0 +1,12 @@
+<meta>
+    <script src="Client.lua" type="client"/>
+    <script src="Server.lua" type="server"/>
+
+	<file src="images/bg.png"/>
+
+	<file src="images/btn_shop_i.png"/>
+	<file src="images/btn_shop_h.png"/>
+	<file src="images/btn_shop_c.png"/>
+
+    <oop>true</oop>
+</meta>

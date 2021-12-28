@@ -1,0 +1,27 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShUIClansJoin.lua" type="shared" />
+    <script src="CUIClansCreateOrJoin.lua" type="client" />
+    <script src="CUIClansCreate.lua" type="client" />
+    <script src="CUIClansJoin.lua" type="client" />
+    <script src="SUIClansJoin.lua" />
+
+    <file src="img/bg_panel.png" />
+    <file src="img/bg_panel_hover.png" />
+    <file src="img/panels.png" />
+    <file src="img/bg_select_way.png" />
+
+    <file src="img/btn_join.png" />
+    <file src="img/btn_create.png" />
+    <file src="img/btn_create_green.png" />
+    <file src="img/btn_create_green_hover.png" />
+    <file src="img/btn_select.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_recharge.png" />
+    
+    <file src="img/icon_enter.png" />
+    <file src="img/icon_lock.png" />
+    <file src="img/icon_max.png" />
+    <file src="img/triangle.png" />
+</meta>

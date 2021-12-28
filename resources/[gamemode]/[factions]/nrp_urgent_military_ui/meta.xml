@@ -1,0 +1,53 @@
+<meta>
+	<script src="CUIInfo.lua"				type="client" />
+	<script src="CUIVacation.lua"			type="client" />
+	<script src="CUICommissariat.lua"		type="client" />
+	<script src="SVacation.lua"				type="server" />
+	
+
+
+	<file src="images/button_close.png"/>
+	
+
+	<file src="images/info/bg.png"/>
+	
+	<file src="images/info/button_all_ranks.png"/>
+
+	<file src="images/info/ranks/1.png"/>
+	<file src="images/info/ranks/2.png"/>
+	<file src="images/info/ranks/3.png"/>
+
+	<file src="images/info/button_leave_idle.png"/>
+	<file src="images/info/button_leave_hover.png"/>
+
+	<file src="images/info/button_task_start_idle.png"/>
+	<file src="images/info/button_task_start_hover.png"/>
+	<file src="images/info/button_task_start_click.png"/>
+
+
+	<file src="images/vacation/bg.png"/>
+
+	<file src="images/vacation/button_get_idle.png"/>
+	<file src="images/vacation/button_get_hover.png"/>
+	<file src="images/vacation/button_get_click.png"/>
+
+	<file src="images/commissariat/vacation_bg.png"/>
+
+	<file src="images/commissariat/button_back_idle.png"/>
+	<file src="images/commissariat/button_back_hover.png"/>
+	<file src="images/commissariat/button_back_click.png"/>
+
+
+	<file src="images/commissariat/start_bg.png"/>
+
+	<file src="images/commissariat/button_start_idle.png"/>
+	<file src="images/commissariat/button_start_hover.png"/>
+	<file src="images/commissariat/button_start_click.png"/>
+
+	<file src="images/commissariat/button_cancel_idle.png"/>
+	<file src="images/commissariat/button_cancel_hover.png"/>
+	<file src="images/commissariat/button_cancel_click.png"/>
+
+
+	<oop>true</oop>
+</meta>

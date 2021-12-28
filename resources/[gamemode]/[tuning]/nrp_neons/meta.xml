@@ -1,0 +1,83 @@
+<meta>
+  <min_mta_version client="1.3.0-9.04431"/>
+  <oop>true</oop>
+  
+  <script src="ShNeonsList.lua" type="shared" />
+  <script src="CNeons.lua" type="client" />
+
+  <file src="fx/mta-helper.fx" />
+  <file src="fx/projection.fx" />
+
+  <file src="img/coronet1.dds" />
+  <file src="img/creshez.dds" />
+  <file src="img/creshez10.dds" />
+  <file src="img/creshez11.dds" />
+  <file src="img/creshez12.dds" />
+  <file src="img/creshez14.dds" />
+  <file src="img/creshez15.dds" />
+  <file src="img/creshez16.dds" />
+  <file src="img/creshez17.dds" />
+  <file src="img/creshez18.dds" />
+  <file src="img/creshez20.dds" />
+  <file src="img/creshez21.dds" />
+  <file src="img/creshez22.dds" />
+  <file src="img/creshez23.dds" />
+  <file src="img/creshez24.dds" />
+  <file src="img/creshez25.dds" />
+  <file src="img/creshez26.dds" />
+  <file src="img/creshez28.dds" />
+  <file src="img/creshez29.dds" />
+  <file src="img/creshez5.dds" />
+  <file src="img/creshez6.dds" />
+  <file src="img/creshez8.dds" />
+  <file src="img/dlf1.dds" />
+  <file src="img/dlf10.dds" />
+  <file src="img/dlf11.dds" />
+  <file src="img/dlf12.dds" />
+  <file src="img/dlf13.dds" />
+  <file src="img/dlf15.dds" />
+  <file src="img/dlf17.dds" />
+  <file src="img/dlf18.dds" />
+  <file src="img/dlf19.dds" />
+  <file src="img/dlf26.dds" />
+  <file src="img/dlf29.dds" />
+  <file src="img/dlf3.dds" />
+  <file src="img/dlf31.dds" />
+  <file src="img/dlf43.dds" />
+  <file src="img/dlf44.dds" />
+  <file src="img/dlf45.dds" />
+  <file src="img/dlf5.dds" />
+  <file src="img/dlf8.dds" />
+  <file src="img/docko1.dds" />
+  <file src="img/docko3.dds" />
+  <file src="img/flame.dds" />
+  <file src="img/gallardo.dds" />
+  <file src="img/gallardo1.dds" />
+  <file src="img/gallardo2.dds" />
+  <file src="img/gallardo4.dds" />
+  <file src="img/gallardo5.dds" />
+  <file src="img/lines.dds" />
+  <file src="img/mirage1.dds" />
+  <file src="img/mirage10.dds" />
+  <file src="img/mirage11.dds" />
+  <file src="img/mirage5.dds" />
+  <file src="img/mirage6.dds" />
+  <file src="img/pooh1.dds" />
+  <file src="img/pooh2.dds" />
+  <file src="img/puni1.dds" />
+  <file src="img/saky4.dds" />
+  <file src="img/senya1.dds" />
+  <file src="img/spectrum.dds" />
+  <file src="img/spitfire17.dds" />
+  <file src="img/spitfire18.dds" />
+  <file src="img/spitfire19.dds" />
+  <file src="img/spitfire20.dds" />
+  <file src="img/spitfire22.dds" />
+  <file src="img/spitfire23.dds" />
+  <file src="img/spitfire24.dds" />
+  <file src="img/spitfire4.dds" />
+  <file src="img/spitfire7.dds" />
+  <file src="img/spitfire9.dds" />
+  <file src="img/tremor3.dds" />
+  <file src="img/tremor5.dds" />
+</meta>

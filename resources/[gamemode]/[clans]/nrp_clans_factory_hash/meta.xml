@@ -1,0 +1,33 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShHashFactory.lua" type="shared" />
+
+    <script src="CHashFactory.lua" type="client" />
+    <script src="CHashFactoryUI.lua" type="client" />
+    <script src="CHashRawCollecting.lua" type="client" />
+    <script src="CHashPacking.lua" type="client" />
+
+    <script src="SHashFactory.lua" type="server" />
+    <script src="SHashMaking.lua" type="server" />
+
+    <file src="img/marker_dry.png" />
+    <file src="img/marker_packing.png" />
+    <file src="img/btn_start.png" />
+    <file src="img/btn_start_h.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/btn_takeall.png" />
+    <file src="img/icon_hash.png" />
+    <file src="img/icon_star.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/slot_free.png" />
+    <file src="img/slot_in_progress.png" />
+    <file src="img/slot_locked.png" />
+    <file src="img/slot_not_started.png" />
+    <file src="img/slot_ready.png" />
+
+    <file src="img/packing/bg.png" />
+    <file src="img/packing/btn_start.png" />
+    <file src="img/packing/btn_start_h.png" />
+
+</meta>

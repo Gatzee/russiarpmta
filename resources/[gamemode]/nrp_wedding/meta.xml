@@ -1,0 +1,63 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="ShWedding.lua" type="shared" />
+	<script src="SWedding.lua" type="server" />
+	<script src="SWeddingUtils.lua" type="server" />
+	<script src="SWeddingBuff.lua" type="server" />
+	<script src="CWedding.lua" type="client" cache = "false"/>
+
+	<script src="STransferWedding.lua" type="server" />
+    <export function="GetTransferData" type="server" />
+
+	<script src="client/CWedding_accept.lua" 		type="client" cache = "false"/>
+	<script src="client/CWedding_bonuslist.lua" 	type="client" cache = "false"/>
+	<script src="client/CWedding_congrat.lua"		type="client" cache = "false"/>
+	<script src="client/CWedding_context.lua" 		type="client" cache = "false"/>
+	<script src="client/CWedding_offer.lua" 		type="client" cache = "false"/>
+	<script src="client/CWedding_rename.lua" 		type="client" cache = "false"/>
+
+	<script src="client/shop/CWedding_shop.lua" 	type="client" cache = "false"/>
+	<script src="client/shop/CWedding_navbar.lua" 	type="client" cache = "false"/>
+	<script src="client/shop/CWedding_gifts.lua" 	type="client" cache = "false"/>
+	<script src="client/shop/CWedding_offers.lua" 	type="client" cache = "false"/>
+
+	<file src="files/bg_context.png" />
+	<file src="files/bg_context_info.png" />
+	<file src="files/context_but_close.png" />
+	<file src="files/bg_offer.png" />
+	<file src="files/close.png" />
+	<file src="files/btn_no.png" />
+	<file src="files/btn_yes.png" />
+
+	<file src="files/bg_congrat.png" />
+	<file src="files/congrat_locate.png" />
+	<file src="files/bg_accept.png" />
+	<file src="files/bg_rename.png" />
+	<file src="files/bg_bonus.png" />
+	<file src="files/bg_shop.png" />
+	<file src="files/icon_account.png" />
+	<file src="files/heart.png" />
+
+	<file src="files/shop/gift_light_bg.png" />
+	<file src="files/shop/choco.png" />
+	<file src="files/shop/wood_black_glasses.png" />
+	<file src="files/shop/diamond_bag.png" />
+	<file src="files/shop/diamond_hope.png" />
+	<file src="files/shop/panam_hat.png" />
+
+	<file src="files/shop/wedding.png" />
+	<file src="files/shop/divorce.png" />
+
+	<file src="files/shop/wedding_overlay.png" />
+	<file src="files/shop/divorce_overlay.png" />
+
+	<file src="files/btn_buy.png" />
+	<file src="files/btn_info.png" />
+	<file src="files/btn_hide.png" />
+
+	<file src="files/anim.ifp" />
+	<file src="files/kiss.ifp" />
+
+	<file src="files/btn_header_add.png" />
+</meta>

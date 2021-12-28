@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="SPlayingtime.lua" />
+
+    <export function="GetPlayerCurrentPlayingTime" type="server" />
+    <export function="GetPlayerTotalPlayingTime" type="server" />
+</meta>

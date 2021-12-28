@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+	<script src="CPhotoMode.lua" type="client"/>
+    <script src="CFreeCam.lua"   type="client"/>
+	<script src="SPhotoMode.lua" type="server"/>
+
+    <file src="files/img/bg.png"/>
+    <file src="files/fx/took_photo.mp3"/>
+</meta>

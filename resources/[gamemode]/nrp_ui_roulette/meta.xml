@@ -1,0 +1,64 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShWheel.lua" type="shared" />
+	<script src="SWheel.lua" />
+	<script src="SWheelConfig.lua" />
+	<script src="CUIWheel.lua" type="client" />
+
+	<file src="files/img/bg.png" />
+	<file src="files/img/btn_help.png" />
+	<file src="files/img/icon_hard.png" />
+	<file src="files/img/minus.png" />
+	<file src="files/img/plus.png" />
+	<file src="files/img/info.png" />
+	<file src="files/img/icon_coin_default.png" />
+	<file src="files/img/icon_coin_gold.png" />
+
+	<file src="files/img/point_available.png" />
+	<file src="files/img/point_available_gold.png" />
+	<file src="files/img/point_received.png" />
+	<file src="files/img/point_received_gold.png" />
+	<file src="files/img/point_win.png" />
+	<file src="files/img/reward_bg.png" />
+	<file src="files/img/reward_bg_received.png" />
+	<file src="files/img/reward_point.png" />
+	<file src="files/img/reward_received.png" />
+	<file src="files/img/progress_point.png" />
+	<file src="files/img/progress_reward.png" />
+	<file src="files/img/points.png" />
+	<file src="files/img/timer.png" />
+
+	<file src="files/img/wheel_default.png" />
+	<file src="files/img/wheel_default_plus_50.png" />
+	<file src="files/img/wheel_default_x2.png" />
+
+	<file src="files/img/wheel_gold.png" />
+	<file src="files/img/wheel_gold_plus_50.png" />
+	<file src="files/img/wheel_gold_x2.png" />
+
+	<file src="files/img/reward_inventory.png" />
+	<file src="files/img/reward_soft.png" />
+	<file src="files/img/reward_exp.png" />
+
+	<file src="files/img/wheel_rewards.png" />
+	<file src="files/img/pointer_default.png" />
+	<file src="files/img/pointer_gold.png" />
+
+	<file src="files/img/run_h.png" />
+	<file src="files/img/run_i.png" />
+
+	<file src="files/img/btn_balance_i.png" />
+	<file src="files/img/btn_balance_h.png" />
+	
+	<file src="files/img/btn_buy_h.png" />
+	<file src="files/img/btn_buy_i.png" />
+
+	<file src="files/img/btn_hide_h.png" />
+	<file src="files/img/btn_hide_i.png" />
+
+	<file src="files/img/coin_bg.png" />
+
+	<file src="files/sound/roulette.wav" />
+	<file src="files/sound/goods.mp3" />
+	<file src="files/sound/wheel_fortune.wav" />
+</meta>

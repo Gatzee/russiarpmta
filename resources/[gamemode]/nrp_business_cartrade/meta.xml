@@ -1,0 +1,24 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShCarTrade.lua" type="shared" />
+
+	<script src="CCarTrade.lua" type="client" />
+	<script src="SCarTrade.lua" />
+
+	<script src="CGovSell.lua" type="client" />
+	<script src="SGovSell.lua" />
+
+	<file src="img/bg.png" />
+	<file src="img/bg2.png" />
+	<file src="img/but_apply_sell.png" />
+	<file src="img/but_cancel_sell.png" />
+	<file src="img/but_apply_buy.png" />
+	<file src="img/price.png" />
+	<file src="img/close.png" />
+	<file src="img/info.png" />
+	<file src="img/money_small.png" />
+	<file src="img/green.png" />
+
+	<file src="img/key.png" />
+	<file src="img/sell_help.png" />
+</meta>

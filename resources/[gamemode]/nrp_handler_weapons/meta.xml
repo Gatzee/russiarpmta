@@ -1,0 +1,11 @@
+<meta>
+	<oop>true</oop>
+	<script src="SWeapons.lua" type="server" />
+	<script src="SFactionWeapons.lua" type="server" />
+	<script src="ShWeapons.lua" type="shared" />
+
+	<export function="GiveWeapon" type="server" />
+	<export function="TakeWeapon" type="server" />
+	<export function="TakeAllWeapons" type="server" />
+	<export function="GetPermanentWeapons" type="server" />
+</meta>

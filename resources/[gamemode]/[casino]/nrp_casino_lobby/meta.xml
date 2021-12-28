@@ -1,0 +1,82 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShCasinoLobby.lua"     type="shared" />
+    <script src="CCasinoLobby_Core.lua" type="client" />
+    <script src="CCasinoLobby_UI.lua"   type="client" />
+
+    <script src="SCasinoLobby.lua"          type="server" />
+    <script src="SCasinoLobby_Core.lua"     type="server" />
+    <script src="SCasinoLobby_Controls.lua" type="server" />
+    <script src="SCasinoStaticLobby.lua"    type="server" />
+    <script src="SCasinoStats.lua"          type="server" />
+
+    <export function="LobbyCreate"      type="server" />
+    <export function="LobbyDestroy"     type="server" />
+    <export function="LobbyGet"         type="server" />
+    <export function="LobbySet"         type="server" />
+    <export function="LobbyCall"        type="server" />
+    <export function="LobbyGetAll"      type="server" />
+    <export function="GetPlayerLobbyID" type="server" />
+    <export function="GetCasinoTopStatRows" type="server" />
+    <export function="GetCasinoLeavePosition" type="server" />
+
+    <file src="img/lobby_menu/icon_enter.png" />
+    <file src="img/lobby_menu/icon_enter_active.png" />
+    <file src="img/lobby_menu/icon_exit.png" />
+    <file src="img/lobby_menu/icon_soft.png" />
+    <file src="img/lobby_menu/icon_hard.png" />
+
+    <file src="img/lobby_menu/bg_lobby.png" />
+    <file src="img/lobby_menu/bg_footer.png" />
+    <file src="img/lobby_menu/lobby_main.png" />
+    <file src="img/lobby_menu/top_header.png" />
+    <file src="img/lobby_menu/lobby_header.png" />
+    <file src="img/lobby_menu/btn_enter_free_lobby.png" />
+    <file src="img/lobby_menu/btn_enter_free_lobby_hover.png" />
+    <file src="img/lobby_menu/btn_create_lobby.png" />
+    <file src="img/lobby_menu/btn_create_lobby_hover.png" />
+    <file src="img/lobby_menu/btn_find.png" />
+    <file src="img/lobby_menu/btn_find_hover.png" />
+    <file src="img/lobby_menu/btn_full_leaderboard.png" />
+    <file src="img/lobby_menu/btn_full_leaderboard_hover.png" />
+    <file src="img/lobby_menu/btn_lobby_list.png" />
+    <file src="img/lobby_menu/btn_lobby_list_hover.png" />
+    <file src="img/lobby_menu/off_voice_icon.png" />
+
+    <file src="img/lobby_menu/bg_create_lobby.png" />
+    <file src="img/lobby_menu/btn_create_nlobby.png" />
+    <file src="img/lobby_menu/btn_create_nlobby_hover.png" />
+    <file src="img/lobby_menu/btn_hide.png" />
+    <file src="img/lobby_menu/btn_hide_hover.png" />
+    <file src="img/lobby_menu/bg_create_selection.png" />
+    <file src="img/lobby_menu/bg_step_create.png" />
+    <file src="img/lobby_menu/bg_step_create_active.png" />
+    <file src="img/lobby_menu/bg_step_create_fail.png" />
+    <file src="img/lobby_menu/content_step_1.png" />
+    <file src="img/lobby_menu/icon_arrow_next.png" />
+    <file src="img/lobby_menu/icon_exit.png" />
+    <file src="img/lobby_menu/icon_exit_active.png" />
+    <file src="img/lobby_menu/icon_ok.png" />
+    <file src="img/lobby_menu/icon_user.png" />
+    <file src="img/lobby_menu/rect_r.png" />
+
+    <file src="img/rules/rules_2.png" />
+    <file src="img/rules/rules_4.png" />
+
+    <file src="img/icons/icon_game_1.png" />
+    <file src="img/icons/icon_game_2.png" />
+    <file src="img/icons/icon_game_3.png" />
+    <file src="img/icons/icon_game_4.png" />
+    <file src="img/icons/icon_game_5.png" />
+    <file src="img/icons/icon_game_7.png" />
+    <file src="img/icons/icon_game_11.png" />
+
+    <file src="img/marker/marker_icon_1.png" />
+    <file src="img/marker/marker_icon_2.png" />
+    <file src="img/marker/marker_icon_3.png" />
+    <file src="img/marker/marker_icon_4.png" />
+    <file src="img/marker/marker_icon_5.png" />
+    <file src="img/marker/marker_icon_6.png" />
+    <file src="img/marker/marker_icon_7.png" />
+    <file src="img/marker/marker_icon_11.png" />
+</meta>

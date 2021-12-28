@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+	<script src="ShVehicles.lua" type="shared" />
+	
+    <script src="CVehicles.lua" type="client" />
+    <script src="SVehicles.lua" />
+
+	<file src="images/btn_close.png" />
+	<file src="images/button_get_idle.png" />
+	<file src="images/button_get_hover.png" />
+	<file src="images/icon_car.png" />
+	<file src="images/icon_locked.png" />
+
+	<export function="GetVehicleOwner" type="server" />
+	<export function="GetVehicleMarkerPositionByFaction" type="shared" />
+</meta>

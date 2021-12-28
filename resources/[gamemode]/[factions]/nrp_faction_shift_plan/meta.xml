@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="SShiftPlan.lua" />
+    <script src="ShShiftPlan.lua" type="shared"/>
+
+    <export function="GetShiftPlanList" type="client" />
+    <export function="GetShiftPlanData" type="server" />
+</meta>

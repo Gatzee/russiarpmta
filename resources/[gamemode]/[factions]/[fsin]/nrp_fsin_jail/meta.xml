@@ -1,0 +1,23 @@
+<meta>
+
+	<script src="CFsinJobMarkers.lua"  type="client"/>
+	<script src="CFsinPrison.lua" 	   type="client"/>
+	<script src="CFsinPrisonBreak.lua" type="client"/>
+	<script src="CUIFsinPrison.lua"    type="client"/>
+
+	<script src="SFsinJobs.lua" 	   type="server"/>
+	<script src="SFsinPrison.lua" 	   type="server"/>
+	<script src="SFsinPrisonBreak.lua" type="server"/>
+	<script src="SFsinQuestFsin.lua"   type="server"/>
+
+	<script src="ShFsinPrison.lua" 	   type="shared"/>
+
+	<export function="ReleasePlayer" 	 type="server" />
+	<export function="GetFsinPlayerData" type="server" />
+	<export function="BlockGoToJobs" 	 type="server" />
+	<export function="IsPlayerInCamera" 	 type="server" />
+	<export function="GetClosestRoom" 	 type="shared" />
+
+    <oop>true</oop>
+
+</meta>

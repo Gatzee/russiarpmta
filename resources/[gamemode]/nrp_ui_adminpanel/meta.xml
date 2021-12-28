@@ -1,0 +1,14 @@
+<meta>
+	<oop>true</oop>
+	<script src="Shared.lua" type="client" />
+	<script src="Shared.lua" type="server" />
+
+	<script src="SAdminPanelFreecam.lua" />
+	<script src="SAdminPanel.lua" />
+	
+	<script src="SAdminmode.lua" type="server" />
+	
+	<script src="CUIAdminPanelFreecam.lua" type="client" />
+	<script src="CUIAdminPanel.lua" type="client" />
+	<script src="CUIAdminmode.lua" type="client" />
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<oop>true</oop>
+	<script src="CMarkerHandler.lua" type="client" />
+	<script src="SMarkerHandler.lua" />
+
+	<file src="img/point.png" />
+	<file src="img/point_small.png" />
+	<file src="img/point_mq.png" />
+	<file src="img/point_mq_small.png" />
+	<file src="img/point_sq.png" />
+	<file src="img/point_sq_small.png" />
+	<file src="img/arrow.png" />
+</meta>

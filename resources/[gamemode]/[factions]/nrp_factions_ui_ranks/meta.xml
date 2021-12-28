@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="CUIRanks.lua" type="client" />
+   	
+   	<file src="files/img/bg.png" />
+   	<file src="files/img/close.png" />
+   	<file src="files/img/scrollbar.png" />
+</meta>

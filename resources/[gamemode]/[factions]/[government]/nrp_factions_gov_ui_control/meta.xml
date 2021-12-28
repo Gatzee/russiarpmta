@@ -1,0 +1,36 @@
+<meta>
+	<script src="CUIControl.lua"	type="client"/>
+	<script src="SControl.lua"		type="server"/>
+
+	<file src="images/bg.png"/>
+	
+	<file src="images/city_bg.png"/>
+	<file src="images/btn_minus.png"/>
+	<file src="images/btn_plus.png"/>
+	<file src="images/btn_back.png"/>
+
+	<file src="images/btn_apply_i.png"/>
+	<file src="images/btn_apply_h.png"/>
+	<file src="images/btn_apply_c.png"/>
+
+	<file src="images/btn_reset_i.png"/>
+	<file src="images/btn_reset_h.png"/>
+	<file src="images/btn_reset_c.png"/>
+
+	<file src="images/btn_chg_i.png"/>
+	<file src="images/btn_chg_h.png"/>
+	<file src="images/btn_chg_c.png"/>
+
+	<file src="images/marker_icon.png"/>
+
+
+	<export function="GetFactionGovEconomyPercent"	type="server"/>
+	<export function="GetJobGovEconomyPercent"		type="server"/>
+	<export function="GetBussnessesEconomyPercent"	type="server"/>
+	<export function="GetMayorRatingEconomyPercent"	type="server"/>
+	<export function="GetAllGovPercent"				type="server"/>
+	<export function="ResetGovStateToDefault"		type="server"/>
+
+
+    <oop>true</oop>
+</meta>

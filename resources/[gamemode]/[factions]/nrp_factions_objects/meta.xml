@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="CArmytowers.lua" type="client" />
+    <file src="models/tower.txd" />
+    <file src="models/tower.dff" />
+    <file src="models/tower.col" />
+
+    <script src="CPolicegate.lua" type="client" />
+    <file src="models/gate.dff" />
+    <file src="models/gate.txd" />
+    <file src="models/gate.col" />
+</meta>

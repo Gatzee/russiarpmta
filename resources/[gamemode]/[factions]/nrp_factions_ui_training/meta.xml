@@ -1,0 +1,35 @@
+<meta>
+	<script src="CUITraining.lua"			type="client" />
+	<script src="SLobby.lua"				type="server" />
+	
+
+
+	<file src="images/button_close.png"/>
+	<file src="images/scroll_bg.png"/>
+	
+	<file src="images/bg.png"/>
+
+	<file src="images/icon_creator.png"/>
+	<file src="images/unchecked.png"/>
+	<file src="images/checked.png"/>
+
+	<file src="images/button_start_idle.png"/>
+	<file src="images/button_start_hover.png"/>
+	<file src="images/button_start_click.png"/>
+
+	<file src="images/button_select_idle.png"/>
+	<file src="images/button_select_hover.png"/>
+	<file src="images/button_select_click.png"/>
+
+	<file src="images/button_exit_idle.png"/>
+	<file src="images/button_exit_hover.png"/>
+	<file src="images/button_exit_click.png"/>
+	
+	<file src="images/button_kick_idle.png"/>
+	<file src="images/button_kick_hover.png"/>
+	<file src="images/button_kick_click.png"/>
+
+
+
+	<oop>true</oop>
+</meta>

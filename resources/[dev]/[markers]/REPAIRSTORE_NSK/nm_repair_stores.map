@@ -1,0 +1,22 @@
+<map edf:definitions="editor_main">
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="168.5" posY="-1567.6" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (2)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="299.89999" posY="-1211.7" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (3)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-487" posY="-991.59998" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (4)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="525.5" posY="-805" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (5)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="548" posY="-1191.5" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (6)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-2392.7002" posY="-772.2998" posZ="25.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (7)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-1990.2998" posY="-1123.5996" posZ="19.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (8)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="163.5" posY="-1567.4004" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (9)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="158.10001" posY="-1567.3" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (10)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="299.7998" posY="-1217.0996" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (11)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="299.79999" posY="-1222.8" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (12)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-476" posY="-991.7998" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (13)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-482.2002" posY="-991.7998" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (14)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="520.5" posY="-805" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (15)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="558.5" posY="-1191.5" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (16)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="553.2998" posY="-1191.5" posZ="19.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (17)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-2394.2" posY="-767.40002" posZ="25.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (18)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-2390.8999" posY="-777.79999" posZ="25.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (19)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-1995.1" posY="-1124.9" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (20)" type="cylinder" color="#0000FFFF" size="2" interior="0" dimension="0" alpha="255" posX="-1984.4" posY="-1122.3" posZ="19.5" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

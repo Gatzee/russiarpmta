@@ -1,0 +1,110 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShStore.lua" type="shared" />
+    <script src="SStore.lua" type="server" />
+    <script src="CStore.lua" type="client" />
+    <script src="CUIStore.lua" type="client" />
+    <script src="CUIStoreCart.lua" type="client" />
+    <script src="CGunLicense.lua" type="client" />
+
+    <script src="COffer.lua" type="client" />
+    <script src="ShOffer.lua" type="shared" />
+    <script src="SOffer.lua" type="server" />
+
+    <!--offer-->
+    <file src="img/offer/bg.png" />
+
+    <file src="img/offer/offer_gunpack_1.png" />
+    <file src="img/offer/offer_gunpack_2.png" />
+    <file src="img/offer/offer_gunpack_3.png" />
+    <file src="img/offer/offer_gunpack_4.png" />
+    <file src="img/offer/offer_gunpack_5.png" />
+    <file src="img/offer/offer_gunpack_6.png" />
+    <file src="img/offer/offer_gunpack_7.png" />
+    <file src="img/offer/offer_gunpack_8.png" />
+    <file src="img/offer/offer_gunpack_9.png" />
+
+    <file src="img/offer/icon_gunpack_1.png" />
+    <file src="img/offer/icon_gunpack_2.png" />
+    <file src="img/offer/icon_gunpack_3.png" />
+    <file src="img/offer/icon_gunpack_4.png" />
+    <file src="img/offer/icon_gunpack_5.png" />
+    <file src="img/offer/icon_gunpack_6.png" />
+    <file src="img/offer/icon_gunpack_7.png" />
+    <file src="img/offer/icon_gunpack_8.png" />
+    <file src="img/offer/icon_gunpack_9.png" />
+
+    <file src="img/offer/gunpack_1.png" />
+    <file src="img/offer/gunpack_2.png" />
+    <file src="img/offer/gunpack_3.png" />
+    <file src="img/offer/gunpack_4.png" />
+    <file src="img/offer/gunpack_5.png" />
+    <file src="img/offer/gunpack_6.png" />
+    <file src="img/offer/gunpack_7.png" />
+    <file src="img/offer/gunpack_8.png" />
+    <file src="img/offer/gunpack_9.png" />
+
+    <file src="img/offer/bg_pack.png" />
+
+    <file src="img/offer/btn_map_i.png" />
+    <file src="img/offer/btn_map_h.png" />   
+
+    <!--assets-->
+    <file src="img/main_bg.png" />
+    <file src="img/btn_close.png" />
+    <file src="img/btn_close_hover.png" />
+    <file src="img/btn_shopcart.png" />
+    <file src="img/header_overlay.png" />
+    <file src="img/marker_weapon.png" />
+
+    <!--card-->
+    <file src="img/card/card_bg.png" />
+    <file src="img/card/card_bg_hover.png" />
+    <file src="img/card/in_cart.png" />
+    <file src="img/card/btn_cart_add.png" />
+    <file src="img/card/btn_cart_add_hover.png" />
+    <file src="img/card/btn_cart_remove.png" />
+    <file src="img/card/btn_cart_remove_hover.png" />
+
+    <!--cart-->
+    <file src="img/cart/cart_bg.png" />
+    <file src="img/cart/footer_overlay.png" />
+    <file src="img/cart/border.png" />
+    <file src="img/cart/btn_buy.png" />
+    <file src="img/cart/btn_buy_hover.png" />
+    <file src="img/cart/btn_delete.png" />
+    <file src="img/cart/btn_delete_hover.png" />
+    <file src="img/cart/btn_hide.png" />
+    <file src="img/cart/btn_hide_hover.png" />
+    <file src="img/cart/btn_minus.png" />
+    <file src="img/cart/btn_minus_hover.png" />
+    <file src="img/cart/btn_plus.png" />
+    <file src="img/cart/btn_plus_hover.png" />
+    <file src="img/cart/icons/license.png" />
+    <file src="img/cart/icons/heavy_armor.png" />
+    <file src="img/cart/icons/medium_armor.png" />
+    <file src="img/cart/icons/light_armor.png" />
+    <file src="img/cart/icons/riffle.png" />
+    <file src="img/cart/icons/shotgun.png" />
+    <file src="img/cart/icons/makarov.png" />
+
+    <!--license-->
+    <file src="img/license/stamp.png" />
+    <file src="img/license/emblem.png" />
+
+    <!--items-->
+    <file src="img/items/license.png" />
+    <file src="img/items/license_phantom.png" />
+    <file src="img/items/makarov.png" />
+    <file src="img/items/makarov_phantom.png" />
+    <file src="img/items/riffle.png" />
+    <file src="img/items/riffle_phantom.png" />
+    <file src="img/items/shotgun.png" />
+    <file src="img/items/shotgun_phantom.png" />
+    <file src="img/items/heavy_armor.png" />
+    <file src="img/items/medium_armor.png" />
+    <file src="img/items/light_armor.png" />
+    <file src="img/items/armor_phantom.png" />
+
+    <file src="img/items/future.png" />
+</meta>

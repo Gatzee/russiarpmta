@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShDeathmatch.lua" type="shared" />
+    <script src="SDeathmatch.lua" />
+
+    <script src="CDeathmatch.lua" type="client" />
+    <script src="CGameZone.lua" type="client" />
+
+    <script src="CUIWasted.lua" type="client" />
+</meta>

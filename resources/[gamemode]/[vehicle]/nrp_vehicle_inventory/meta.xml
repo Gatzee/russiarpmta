@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="SVehicleInventory.lua" type="server" />
+	<script src="CVehicleInventory.lua" type="client" />
+</meta>

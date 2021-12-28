@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="CCasesDiscount.lua" type="client" />
+    <file src="img/bg_discount_window.png" />
+    <file src="img/btn_more.png" />
+</meta>

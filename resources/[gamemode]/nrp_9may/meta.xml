@@ -1,0 +1,15 @@
+<meta>
+	<script src="C9may.lua" type="client"/>
+	<script src="S9may.lua"/>
+
+	<file src="images/inv_icon.png"/>
+	<file src="images/world_icon.png"/>
+
+	<file src="models/rhino.txd"/>
+	<file src="models/rhino.dff"/>
+
+	<file src="models/swatvan.txd"/>
+	<file src="models/swatvan.dff"/>
+
+	<oop>true</oop>
+</meta>

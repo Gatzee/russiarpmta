@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShGifts.lua" type="shared" />
+    <script src="CGifts.lua" type="client" />
+    <script src="SGifts.lua" />
+</meta>

@@ -1,0 +1,32 @@
+<map edf:definitions="editor_main">
+    <ped id="ped (1)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-916.82" posY="1967.39 + 860" posZ="9.02" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-742.01" posY="2087.55 + 860" posZ="12.09" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-653.61" posY="1921.95 + 860" posZ="10.45" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-534.01" posY="1875.55 + 860" posZ="7.46" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-660.13" posY="2323.51 + 860" posZ="18.98" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-419.27" posY="2347.26 + 860" posZ="14.11" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-616.45" posY="2403.86 + 860" posZ="20.38" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-865.69" posY="2457.13 + 860" posZ="18.36" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255"  posX="-439.69" posY="2694.53 + 860" posZ="15.22" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="-319.3" posY="2417.37 + 860" posZ="16.15" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="-137.63" posY="2420.05 + 860" posZ="20.61" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="30.37" posY="2413.42 + 860" posZ="20.61" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="267.93" posY="2037.32 + 860" posZ="9.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (14)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="-6.49" posY="2744.21 + 860" posZ="13.72" rotX="0" rotY="0"></ped>
+    <ped id="ped (15)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="317.56" posY="2628.36 + 860" posZ="20.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (16)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="518.7" posY="2452.43 + 860" posZ="13.46" rotX="0" rotY="0"></ped>
+    <ped id="ped (17)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="826.38" posY="2720.57 + 860" posZ="7.46" rotX="0" rotY="0"></ped>
+    <ped id="ped (18)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="908.7" posY="2468.1 + 860" posZ="14.31" rotX="0" rotY="0"></ped>
+    <ped id="ped (19)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="768.75" posY="2255.47 + 860" posZ="13.77" rotX="0" rotY="0"></ped>
+    <ped id="ped (20)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="1582.19" posY="2750.77 + 860" posZ="7.64" rotX="0" rotY="0"></ped>
+    <ped id="ped (21)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="-633.12" posY="1879.58 + 860" posZ="10.45" rotX="0" rotY="0"></ped>
+    <ped id="ped (22)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="223" posY="2570.4 + 860" posZ="25.83" rotX="0" rotY="0"></ped>
+    <ped id="ped (23)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2071.6" posY="2614.22 + 860" posZ="7.31" rotX="0" rotY="0"></ped>
+    <ped id="ped (24)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2303.73" posY="2340.7 + 860" posZ="7.08" rotX="0" rotY="0"></ped>
+    <ped id="ped (25)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2519.45" posY="2364.21 + 860" posZ="6.88" rotX="0" rotY="0"></ped>
+    <ped id="ped (26)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2628.23" posY="2516.6 + 860" posZ="7.08" rotX="0" rotY="0"></ped>
+    <ped id="ped (27)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2534.79" posY="2800.06 + 860" posZ="7.75" rotX="0" rotY="0"></ped>
+    <ped id="ped (28)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2465.52" posY="2736.79 + 860" posZ="6.94" rotX="0" rotY="0"></ped>
+    <ped id="ped (29)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="1755.92" posY="2817.18 + 860" posZ="6.59" rotX="0" rotY="0"></ped>
+    <ped id="ped (30)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="2161.11" posY="2104.08 + 860" posZ="3.76" rotX="0" rotY="0"></ped>
+</map>

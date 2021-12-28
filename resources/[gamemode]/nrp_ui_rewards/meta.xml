@@ -1,0 +1,50 @@
+<meta>
+    <oop>true</oop>
+    <script src="CRewards.lua" type="client" />
+    <script src="CRewardsTake.lua" type="client" />
+    <script src="SRewardsTake.lua" type="server" />
+
+    <script src="items/_ShItems.lua" type="shared" />
+    <script src="items/ShAccessory.lua" type="shared" />
+    <script src="items/ShBox.lua" type="shared" />
+    <script src="items/ShCarEvac.lua" type="shared" />
+    <script src="items/ShCarSlot.lua" type="shared" />
+    <script src="items/ShCase.lua" type="shared" />
+    <script src="items/ShDance.lua" type="shared" />
+    <script src="items/ShExp.lua" type="shared" />
+    <script src="items/ShFirstaid.lua" type="shared" />
+    <script src="items/ShFuelcan.lua" type="shared" />
+    <script src="items/ShHard.lua" type="shared" />
+    <script src="items/ShJailkeys.lua" type="shared" />
+    <script src="items/ShLunchbox.lua" type="shared" />
+    <script src="items/ShNeon.lua" type="shared" />
+    <script src="items/ShNumberPlate.lua" type="shared" />
+    <script src="items/ShPhoneImg.lua" type="shared" />
+    <script src="items/ShPremium.lua" type="shared" />
+    <script src="items/ShRepairbox.lua" type="shared" />
+    <script src="items/ShSkin.lua" type="shared" />
+    <script src="items/ShSoft.lua" type="shared" />
+    <script src="items/ShTuningCase.lua" type="shared" />
+    <script src="items/ShVehicle.lua" type="shared" />
+    <script src="items/ShVinyl.lua" type="shared" />
+    <script src="items/ShVinylCase.lua" type="shared" />
+    <script src="items/ShWeapon.lua" type="shared" />
+    <script src="items/ShWeddingBox.lua" type="shared" />
+    <script src="items/ShWofCoin.lua" type="shared" />
+    <script src="items/ShGunLicense.lua" type="shared" />
+    <!-- Для акции сборки машины -->
+    <script src="items/Sh_AssemblDetail.lua" type="shared" />
+
+    <file src="img/brush.png" />
+    <file src="img/btn_take_h.png" />
+    <file src="img/btn_take_i.png" />
+
+    <file src="img/bg_reward.png" />
+    <file src="img/bg_reward_big.png" />
+    <file src="img/icon_exp.png" />
+    <file src="img/icon_soft.png" />
+    <file src="img/icon_soft_big.png" />
+    <file src="img/icon_discount.png" />
+    <file src="img/title.png" />
+    <file src="img/icon_halloween_coins.png" />
+</meta>

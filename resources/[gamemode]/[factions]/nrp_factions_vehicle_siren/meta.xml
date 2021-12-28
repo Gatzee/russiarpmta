@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShSiren.lua" type="shared" />
+    <script src="CSiren.lua" type="client" />
+    <script src="SSiren.lua" />
+
+    <file src="files/sound/siren1.wav" />
+    <file src="files/sound/siren2.wav" />
+</meta>

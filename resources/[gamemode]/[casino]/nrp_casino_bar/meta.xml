@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShBar.lua" type="shared" />
+
+    <script src="CBar.lua"    type="client" />
+    <script src="CBar_UI.lua" type="client" />
+    
+    <script src="SBar.lua" type="server" />
+
+    <file src="img/marker.png" />
+</meta>

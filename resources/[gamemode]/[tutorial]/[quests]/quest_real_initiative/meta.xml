@@ -1,0 +1,8 @@
+<meta>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<export function="GetQuestInfo"			type="client" />
+	<oop>true</oop>
+</meta>

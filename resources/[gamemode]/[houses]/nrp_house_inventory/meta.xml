@@ -1,0 +1,10 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="SHouseInventory.lua" type="server" />
+	<script src="CHouseInventory.lua" type="client" />
+
+	<file src="img/marker.png" />
+
+	<export function="CreateMarker" type="client" />
+</meta>

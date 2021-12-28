@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShTaxiTask.lua" type="shared" />   
+
+    <script src="STaxiTask.lua" />
+    <script src="STaxiTask_Utils.lua" />
+    <script src="STaxiTask_ShiftHandler.lua" />
+    <script src="STaxiTask_MoneyCounter.lua" />
+    <script src="STaxiTask_Rate.lua" />
+    <script src="STaxiTask_Waiting.lua" />
+    <script src="STaxiTask_Blips.lua" />
+    
+    <script src="CTaxiTask_Blips.lua" type="client" />
+    <script src="CTaxiTask_MoneyCounter.lua" type="client" />
+</meta>

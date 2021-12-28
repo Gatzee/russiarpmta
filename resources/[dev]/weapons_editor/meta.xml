@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShWeapons.lua" type="shared" />
+    <script src="SWeapons.lua" />
+    <script src="CWeapons.lua" type="client" />
+</meta>

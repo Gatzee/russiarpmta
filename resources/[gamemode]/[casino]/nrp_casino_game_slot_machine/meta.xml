@@ -1,0 +1,148 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="ShSlotMachine_Data.lua"     type="shared" />
+
+	<script src="CSlotMachine_Core.lua" 	 type="client" />
+	<script src="CSlotMachine_Stats.lua"     type="client" />
+	<script src="CSlotMachine_Interface.lua" type="client" />
+	
+	<script src="games/CUIGoldSkull.lua" 	 type="client" />
+	<script src="games/CUIValhalla.lua"	 	 type="client" />
+	<script src="games/CUIChicago.lua"	 	 type="client" />
+	
+	<script src="SSlotMachine_Core.lua" 	 type="server" />
+	<script src="SSlotMachine_Chances.lua" 	 type="server" />
+	<script src="SSlotMachine_Analytics.lua" type="server" />
+
+	<file src="sfx/slot_machine_bg_valhalla.mp3" />
+	<file src="sfx/slot_machine_bg_chicago.mp3" />
+	<file src="sfx/slot_machine_slot_sound.mp3" />
+	<file src="sfx/slot_machine_spin.mp3" />
+	<file src="sfx/slot_machine_win_sound.mp3" />
+	<file src="sfx/slot_machine_click.mp3" />
+	<file src="sfx/slot_machine_check.mp3" />
+	<file src="sfx/slot_machine_max_bet.mp3" />
+
+	<file src="img/soft.png" />
+	<file src="img/marker_casino.png" />
+	<file src="img/bg_rules.png" />
+	<file src="img/btn_exit.png" />
+	<file src="img/btn_rules.png" />
+	<file src="img/btn_combination.png" />
+	<file src="img/btn_music_on.png" />
+	<file src="img/btn_music_off.png" />
+
+	<file src="img/result_info/bg_green.png" />
+	<file src="img/result_info/bg_red.png" />
+	<file src="img/result_info/big_soft.png" />
+	<file src="img/result_info/block_reward.png" />
+	<file src="img/result_info/btn_ok.png" />
+	<file src="img/result_info/btn_ok_hovered.png" />
+	<file src="img/result_info/green_text_effect.png" />
+	<file src="img/result_info/reward_text_effect.png" />
+
+	<!-- Stats -->
+	<file src="img/stats/bg_stats.png" />
+	<file src="img/stats/btn_play.png" />
+	<file src="img/stats/btn_play_hover.png" />
+
+	<!-- GOLD SKULL -->
+	<file src="img/games/gold_skull/logo.png" />
+	<file src="img/games/gold_skull/buttons/autoplay_i.png" />
+	<file src="img/games/gold_skull/buttons/autoplay_h.png" />
+	<file src="img/games/gold_skull/buttons/autoplay_c.png" />
+	<file src="img/games/gold_skull/buttons/improvebet_i.png" />
+	<file src="img/games/gold_skull/buttons/improvebet_h.png" />
+	<file src="img/games/gold_skull/buttons/maxbet_i.png" />
+	<file src="img/games/gold_skull/buttons/maxbet_h.png" />
+	<file src="img/games/gold_skull/buttons/play_i.png" />
+	<file src="img/games/gold_skull/buttons/play_h.png" />
+
+	<file src="img/games/gold_skull/machine/bg_footer.png" />
+	<file src="img/games/gold_skull/machine/bg_combinations.png" />
+	<file src="img/games/gold_skull/machine/bg.png" />
+	<file src="img/games/gold_skull/machine/gradient.png" />
+	<file src="img/games/gold_skull/machine/logo.png" />
+	<file src="img/games/gold_skull/machine/selector.png" />
+	<file src="img/games/gold_skull/machine/window.png" />
+
+	<file src="img/games/gold_skull/machine/variations/1.png" />
+	<file src="img/games/gold_skull/machine/variations/2.png" />
+	<file src="img/games/gold_skull/machine/variations/3.png" />
+	<file src="img/games/gold_skull/machine/variations/4.png" />
+	<file src="img/games/gold_skull/machine/variations/5.png" />
+	<file src="img/games/gold_skull/machine/variations/6.png" />
+	<file src="img/games/gold_skull/machine/variations/7.png" />
+	<file src="img/games/gold_skull/machine/variations/8.png" />
+
+	<!-- VALHALLA -->
+	<file src="img/games/valhalla/logo.png" />
+	<file src="img/games/valhalla/buttons/autoplay_i.png" />
+	<file src="img/games/valhalla/buttons/autoplay_h.png" />
+	<file src="img/games/valhalla/buttons/autoplay_p.png" />
+	<file src="img/games/valhalla/buttons/autoplay_on.png" />
+
+	<file src="img/games/valhalla/buttons/improvebet_i.png" />
+	<file src="img/games/valhalla/buttons/improvebet_h.png" />
+	<file src="img/games/valhalla/buttons/improvebet_p.png" />
+
+	<file src="img/games/valhalla/buttons/maxbet_i.png" />
+	<file src="img/games/valhalla/buttons/maxbet_h.png" />
+	<file src="img/games/valhalla/buttons/maxbet_p.png" />
+
+	<file src="img/games/valhalla/buttons/play_i.png" />
+	<file src="img/games/valhalla/buttons/play_h.png" />
+	<file src="img/games/valhalla/buttons/play_p.png" />
+
+	<file src="img/games/valhalla/machine/bg_combinations.png" />
+	<file src="img/games/valhalla/machine/bg.png" />
+	<file src="img/games/valhalla/machine/gradient.png" />
+	<file src="img/games/valhalla/machine/selector.png" />
+	<file src="img/games/valhalla/machine/window.png" />
+	<file src="img/games/valhalla/machine/window_dcore.png" />
+
+	<file src="img/games/valhalla/machine/variations/1.png" />
+	<file src="img/games/valhalla/machine/variations/2.png" />
+	<file src="img/games/valhalla/machine/variations/3.png" />
+	<file src="img/games/valhalla/machine/variations/4.png" />
+	<file src="img/games/valhalla/machine/variations/5.png" />
+	<file src="img/games/valhalla/machine/variations/6.png" />
+	<file src="img/games/valhalla/machine/variations/7.png" />
+	<file src="img/games/valhalla/machine/variations/8.png" />
+
+	<!-- CHICAGO -->
+	<file src="img/games/chicago/logo.png" />
+	<file src="img/games/chicago/buttons/autoplay_i.png" />
+	<file src="img/games/chicago/buttons/autoplay_h.png" />
+	<file src="img/games/chicago/buttons/autoplay_p.png" />
+	<file src="img/games/chicago/buttons/autoplay_on.png" />
+
+	<file src="img/games/chicago/buttons/improvebet_i.png" />
+	<file src="img/games/chicago/buttons/improvebet_h.png" />
+	<file src="img/games/chicago/buttons/improvebet_p.png" />
+
+	<file src="img/games/chicago/buttons/maxbet_i.png" />
+	<file src="img/games/chicago/buttons/maxbet_h.png" />
+	<file src="img/games/chicago/buttons/maxbet_p.png" />
+
+	<file src="img/games/chicago/buttons/play_i.png" />
+	<file src="img/games/chicago/buttons/play_h.png" />
+	<file src="img/games/chicago/buttons/play_p.png" />
+
+	<file src="img/games/chicago/machine/bg_combinations.png" />
+	<file src="img/games/chicago/machine/bg.png" />
+	<file src="img/games/chicago/machine/gradient.png" />
+	<file src="img/games/chicago/machine/selector.png" />
+	<file src="img/games/chicago/machine/window.png" />
+	<file src="img/games/chicago/machine/window_dcore.png" />
+
+	<file src="img/games/chicago/machine/variations/1.png" />
+	<file src="img/games/chicago/machine/variations/2.png" />
+	<file src="img/games/chicago/machine/variations/3.png" />
+	<file src="img/games/chicago/machine/variations/4.png" />
+	<file src="img/games/chicago/machine/variations/5.png" />
+	<file src="img/games/chicago/machine/variations/6.png" />
+	<file src="img/games/chicago/machine/variations/7.png" />
+	<file src="img/games/chicago/machine/variations/8.png" />
+</meta>

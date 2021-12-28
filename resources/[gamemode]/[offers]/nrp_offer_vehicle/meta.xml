@@ -1,0 +1,25 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="COfferVehicle.lua"         type="client"/>
+    <script src="COfferVehicle_Browser.lua" type="client"/>
+    
+    <script src="SOfferVehicle.lua"           type="server"/>
+    <script src="SOfferVehicle_Analytics.lua" type="server"/>
+    <script src="SOfferVehicle_Segmented.lua" type="server"/>
+
+    <file src="img/bg.png"/>
+    <file src="img/btn_buy.png"/>
+    <file src="img/block_bg.png"/>
+    <file src="img/block_bg_hover.png"/>
+    <file src="img/1.png"/>
+    <file src="img/2.png"/>
+    <file src="img/3.png"/>
+    <file src="img/4.png"/>
+
+    <file src="img/btn_details_i.png"/>
+    <file src="img/btn_details_h.png"/>
+    <file src="img/btn_hide_i.png"/>
+    <file src="img/btn_hide_h.png"/>
+    <file src="img/overlay_bg.png"/>
+</meta>

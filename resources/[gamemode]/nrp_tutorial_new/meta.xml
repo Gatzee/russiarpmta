@@ -1,0 +1,69 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShTutorial.lua" type="shared" />
+
+    <script src="CTutorial_Action.lua" type="client" />
+    <script src="STutorial_Action.lua" type="server" />
+
+    <!-- Шаги -->
+    <script src="steps/ShTutorial_Step1.lua" type="shared" />
+    <script src="steps/ShTutorial_Step2.lua" type="shared" />
+    <script src="steps/ShTutorial_Step3.lua" type="shared" />
+    <script src="steps/ShTutorial_Step4.lua" type="shared" />
+    <script src="steps/ShTutorial_Step5.lua" type="shared" />
+
+    <script src="CTutorial_Main.lua" type="client" />
+    <script src="CTutorial_Register.lua" type="client" />
+    <script src="CTutorial_SkinPreview.lua" type="client" />
+    <script src="CTutorial_Dialogs.lua" type="client" />
+    <script src="CTutorial_Utils.lua" type="client" />
+
+    <script src="STutorial_Main.lua" />
+    <script src="STutorial_Utils.lua" />
+
+    <!-- Всякое говно -->
+    <file src="img/bg_register.png" />
+    <file src="img/bg_input.png" />
+    <file src="img/bg_input_small.png" />
+    <file src="img/btn_apply.png" />
+    <file src="img/icon_arrow.png" />
+    <file src="img/icon_arrow_right.png" />
+    <file src="img/icon_info.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/logo.png" />
+    <file src="img/logo_bg.png" />
+    <file src="img/gradient.png" />
+    <file src="img/bg_mafia.png" />
+    <file src="img/bg_ways.png" />
+    <file src="img/btn_more.png" />
+    <file src="img/btn_next.png" />
+
+    <!-- Подсказки -->
+    <file src="img/tips/wasd.png" />
+    <file src="img/tips/stop.png" />
+    <file src="img/tips/phone.png" />
+    <file src="img/tips/showmap.png" />
+    <file src="img/tips/map.png" />
+    <file src="img/tips/radial.png" />
+    <file src="img/tips/exit.png" />
+    <file src="img/tips/enter.png" />
+    <file src="img/tips/takemoney.png" />
+    <file src="img/tips/chat.png" />
+    <file src="img/tips/sleep.png" />
+    <file src="img/tips/nextday.png" />
+    <file src="img/tips/weeks.png" />
+    <file src="img/tips/onceuponatime.png" />
+
+    <!-- Звуки -->
+    <file src="sfx/sms.ogg" />
+    <file src="sfx/intro.wav" />
+    <file src="sfx/ambient.wav" />
+
+    <!-- Сцены и карты -->
+    <file src="map/scenes.map" />
+    <file src="records/path_50.json" />
+
+    <!-- Анимации -->
+    <file src="ifp/dead.ifp" />
+    <file src="ifp/razgovor.ifp" />
+</meta>

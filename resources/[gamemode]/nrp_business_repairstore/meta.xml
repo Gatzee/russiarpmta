@@ -1,0 +1,18 @@
+<meta>
+	<oop>true</oop>
+	<script src="shared.lua" type="shared" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" />
+
+	<file src="img/bg.png" />
+
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_buy_c.png" />
+
+	<file src="img/icon.png" />
+	<file src="img/icon_engine_and_wheels.png" />
+	<file src="img/icon_engine.png" />
+	<file src="img/icon_wheels.png" />
+	<file src="img/icon_capital_repair.png" />
+</meta>

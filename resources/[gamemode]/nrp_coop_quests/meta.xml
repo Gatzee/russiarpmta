@@ -1,0 +1,102 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="ShQuests.lua" type="shared" />
+
+	<script src="SMain.lua" />
+	<script src="SLobby.lua" />
+	<script src="SSearch.lua" />
+	<script src="SShop.lua" />
+	<script src="SQuest.lua" />
+
+	<script src="CQuests.lua" type="client" />
+	<script src="CUIQuests.lua" type="client" />
+	<script src="CRespawn.lua" type="client" />
+
+	<script src="quests/point_capture/shared.lua" type="shared" />
+	<script src="quests/point_capture/client.lua" type="client" />
+	<script src="quests/point_capture/server.lua" />
+
+	<script src="quests/drugs_collection/shared.lua" type="shared" />
+	<script src="quests/drugs_collection/client.lua" type="client" />
+	<script src="quests/drugs_collection/server.lua" />
+
+	<script src="quests/data_collection/shared.lua" type="shared" />
+	<script src="quests/data_collection/client.lua" type="client" />
+	<script src="quests/data_collection/server.lua" />
+
+	<script src="case_items/ShWofCoin.lua" type="shared" />
+	<script src="case_items/Sh_AssemblDetail.lua" type="shared" />
+	<script src="case_items/ShAccessory.lua" type="shared" />
+	<script src="case_items/ShBox.lua" type="shared" />
+	<script src="case_items/ShCarEvac.lua" type="shared" />
+	<script src="case_items/ShDance.lua" type="shared" />
+	<script src="case_items/ShExp.lua" type="shared" />
+	<script src="case_items/ShFirstaid.lua" type="shared" />
+	<script src="case_items/ShFuelcan.lua" type="shared" />
+	<script src="case_items/ShGunLicense.lua" type="shared" />
+	<script src="case_items/ShHard.lua" type="shared" />
+	<script src="case_items/ShJailkeys.lua" type="shared" />
+	<script src="case_items/ShLunchbox.lua" type="shared" />
+	<script src="case_items/ShPhoneImg.lua" type="shared" />
+	<script src="case_items/ShPremium.lua" type="shared" />
+	<script src="case_items/ShRepairbox.lua" type="shared" />
+	<script src="case_items/ShSkin.lua" type="shared" />
+	<script src="case_items/ShSoft.lua" type="shared" />
+	<script src="case_items/ShTaxi.lua" type="shared" />
+	<script src="case_items/ShTuningCase.lua" type="shared" />
+	<script src="case_items/ShVehicle.lua" type="shared" />
+	<script src="case_items/ShVehicleLicense.lua" type="shared" />
+	<script src="case_items/ShVehicleSlot.lua" type="shared" />
+	<script src="case_items/ShVinyl.lua" type="shared" />
+	<script src="case_items/ShWeapon.lua" type="shared" />
+
+	<file src="img/teams.png" />
+	<file src="img/bg.png" />
+	<file src="img/bg_edit.png" />
+	<file src="img/bg_edit_h.png" />
+	<file src="img/btn_back_h.png" />
+	<file src="img/btn_back_i.png" />
+	<file src="img/btn_delete.png" />
+	<file src="img/btn_invite_disabled.png" />
+	<file src="img/btn_invite_h.png" />
+	<file src="img/btn_invite_i.png" />
+	<file src="img/btn_invite2_h.png" />
+	<file src="img/btn_invite2_i.png" />
+	<file src="img/btn_ready_h.png" />
+	<file src="img/btn_ready_i.png" />
+	<file src="img/btn_not_ready_h.png" />
+	<file src="img/btn_not_ready_i.png" />
+	<file src="img/btn_cancel_search_h.png" />
+	<file src="img/btn_cancel_search_i.png" />
+	<file src="img/btn_leave_h.png" />
+	<file src="img/btn_leave_i.png" />
+	<file src="img/btn_search_h.png" />
+	<file src="img/btn_search_i.png" />
+	<file src="img/btn_search2_h.png" />
+	<file src="img/btn_search2_i.png" />
+	<file src="img/description.png" />
+	<file src="img/icon_leader.png" />
+	<file src="img/icon_level.png" />
+	<file src="img/icon_not_ready.png" />
+	<file src="img/icon_player.png" />
+	<file src="img/icon_ready.png" />
+	<file src="img/icon_vallet.png" />
+	<file src="img/icon_timer.png" />
+	<file src="img/info.png" />
+	<file src="img/invite_header.png" />
+	<file src="img/invite_line.png" />
+	<file src="img/shop_item_h.png" />
+	<file src="img/shop_item_i.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_plus_h.png" />
+	<file src="img/btn_plus_i.png" />
+	<file src="img/btn_minus_h.png" />
+	<file src="img/btn_minus_i.png" />
+	<file src="img/bg_items_amount.png" />
+	<file src="img/bg_quest.png" />
+	<file src="img/btn_buy_weapon_i.png" />
+	<file src="img/btn_buy_weapon_h.png" />
+	<file src="img/info_header.png" />
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+
+	<script src="CUIFsinInfo.lua" type="client"/>
+	<script src="SFsinInfo.lua" type="server"/>
+
+	<file src="assets/img/bg_info_fsin.png"/>
+	<file src="assets/img/people_icon.png"/>
+
+    <oop>true</oop>
+
+</meta>

@@ -1,0 +1,43 @@
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!----- https://vk.com/aleksander_kasyanchuk ----->
+<!------------------------------------------------>
+<!------------------------------------------------>
+<interiors>
+  <interior id="Основной" posX="-5.159179687" posY="-835.562" posZ="20.818479537964" rot="0" world="0" />
+  
+  <interior id="Мэрия г.Горки" posX="2269.01" posY="-78.3" posZ="670.99" rot="0" world="1" />
+  <interior id="Мэрия г.Новороссийск" posX="-40.936" posY="-875.974" posZ="1047.537" rot="0" world="1" />
+  <interior id="Региональный Банк\nг.Новороссийск" posX="2298.807" posY="333.343" posZ="640.999" rot="0" world="1" />
+  <interior id="Военкомат" posX="-1269.338" posY="-393.9159" posZ="1292.1307" rot="0" world="1" />
+  <interior id="Магазин одежды" posX="-230.3" posY="-389.5" posZ="1360.3" rot="-0.100006" world="1" />
+  <interior id="Школа танцев" posX="-227.9" posY="-389.9" posZ="1338.6" rot="0" world="1" />
+  <interior id="ППС НСК" posX="-359.475" posY="-791.291" posZ="1061.424" rot="320" world="1" />
+  <interior id="ППС Горки" posX="1958.373" posY="130.000" posZ="631.42" rot="0" world="1" />
+  <interior id="ДПС НСК" posX="331.971" posY="-1186.104" posZ="1021.59" rot="180" world="1" />
+  <interior id="ДПС Горки" posX="2188.850" posY="214.966" posZ="601" rot="0" world="1" />
+  <interior id="Больница НСК" posX="437.728" posY="-1600.287" posZ="1020.968" rot="0" world="1" />
+  <interior id="Больница Горки" posX="1932.039" posY="310.220" posZ="660.966" rot="0" world="1" />
+  <interior id="ФСИН" posX="-2675.1633" posY="2833.7587" posZ="1540.4593" rot="0" world="1" />
+  <interior id="Стрип" posX="-47.72" posY="-120.08" posZ="1372.66" rot="180" world="1" />
+  <interior id="Казино" posX="-87.002" posY="-470.934" posZ="913.92" rot="270" world="1" />
+  <interior id="Казино2" posX="-87.896057128906" posY="-499.42434692383" posZ="913.97216796875" rot="0" world="1" />
+  <interior id="Бункер" posX="2.64" posY="83.28553232" posZ="1267.803232328" rot="0" world="1" />
+  <interior id="Квартира" posX="195.75193786621" posY="-408.34063720703" posZ="514.54235839844" rot="0" world="1" />
+  <interior id="Квартира2" posX="250.039" posY="-450.701" posZ="467.891" rot="320" world="1" />
+  <interior id="Автошкола" posX="455.85144042969" posY="-1203.7978515625" posZ="1189.8914794922" rot="0" world="1" />
+  <interior id="Кинотеарт" posX="-295.45452880859" posY="-369.87435913086" posZ="1353.6805419922" rot="0" world="1" />
+  <interior id="Тюрьма" posX="-2687.6943359375" posY="2622.2668457031" posZ="1618.4262695313" rot="320" world="1" />
+  <interior id="Работа тюрьма" posX="-2665.3193359375" posY="2928.733398437" posZ="1572.0537109375" rot="0" world="1" />
+  <interior id="Офис" posX="-2.5520205497742" posY="0.6504100561142" posZ="915.49749755859" rot="0" world="1" />
+  <interior id="Офис2" posX="14.715877532959" posY="-657.53033447266" posZ="2267.7565917969" rot="0" world="1" />
+  <interior id="Хата" posX="-105.63043212891" posY="-1777.8306884766" posZ="3936.9812011719" rot="180" world="1" />
+  <interior id="Офис3" posX="-103.53523254395" posY="-2474.4606933594" posZ="4406.2646484375" rot="-45.3" world="1" />
+  <interior id="Хата2" posX="-112.891" posY="-2463.93" posZ="4828.09" rot="-0.100006" world="1" />
+  <interior id="Хата3" posX="224.04332" posY="-341.55719" posZ="471.689" rot="-0.100006" world="1" />
+  <interior id="Церковь" posX="183.76935" posY="-815" posZ="1146.481" rot="320" world="1" />
+  <interior id="Автошкола" posX="449.38074" posY="-1205.2419" posZ="1190.4464" rot="320" world="1" />
+  <interior id="Хата" posX="251.8095703125" posY="-450.387695312" posZ="468.54098510742" rot="320" world="1" />
+  <interior id="Хата" posX="251.51660" posY="-345.1611328125" posZ="456.42651367188" rot="0" world="1" />
+  <interior id="Хата" posX="246.49609375" posY="-444.6162109375" posZ="468.54098510742" rot="1" world="1" />
+</interiors>

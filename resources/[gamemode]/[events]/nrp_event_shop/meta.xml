@@ -1,0 +1,87 @@
+<meta>
+	<script src="ShShopItems.lua"		type="shared"/>
+	<script src="CShop.lua"				type="client"/>
+	<script src="CUIShop.lua"			type="client"/>
+	<script src="CUIBoosters.lua"		type="client"/>
+	<script src="CUIMainOffer.lua"		type="client"/>
+	<script src="SShop.lua"				type="server"/>
+
+	<file src="images/btn_balance_i.png"/>
+	<file src="images/btn_balance_h.png"/>
+	<file src="images/btn_balance_c.png"/>
+
+	<file src="images/timer.png"/>
+	<file src="images/discount.png"/>
+
+	<file src="images/btn_buy_i.png"/>
+	<file src="images/btn_buy_h.png"/>
+	<file src="images/btn_buy_c.png"/>
+
+	<file src="images/btn_gps_i.png"/>
+	<file src="images/btn_gps_h.png"/>
+	<file src="images/btn_gps_c.png"/>
+
+	<!--
+	<file src="images/new_year/description.png"/>
+	<file src="images/new_year/item_bg.png"/>
+	<file src="images/new_year/item_bg_h.png"/>
+	<file src="images/new_year/item_boost_bg.png"/>
+	<file src="images/new_year/item_boost_bg_h.png"/>
+	<file src="images/new_year/bg.png"/>
+	<file src="images/new_year/bg_boosters.png"/>
+	<file src="images/new_year/icon.png"/>
+	<file src="images/new_year/bg_main_offer.png"/>
+	<file src="images/new_year/header.png"/>
+	<file src="images/new_year/coins_icon.png"/>
+	
+	<file src="images/new_year/items/booster/lollipop_.png"/>
+	<file src="images/new_year/items/booster/lollipop_big.png"/>
+	<file src="images/new_year/items/booster/strawberry.png"/>
+	<file src="images/new_year/items/booster/strawberry_big.png"/>
+	<file src="images/new_year/items/booster/lollipop.png"/>
+	<file src="images/new_year/items/booster/lollipop_big.png"/>
+	-->
+
+	<!--
+	<file src="images/halloween/header.png"/>
+	<file src="images/halloween/bg.png"/>
+	<file src="images/halloween/bg_boosters.png"/>
+	<file src="images/halloween/bg_main_offer.png"/>
+	<file src="images/halloween/icon.png"/>
+	<file src="images/halloween/description.png"/>
+	<file src="images/halloween/item_bg.png"/>
+	<file src="images/halloween/item_bg_h.png"/>
+	<file src="images/halloween/item_boost_bg.png"/>
+	<file src="images/halloween/item_boost_bg_h.png"/>
+	<file src="images/halloween/coins_icon.png"/>
+
+	<file src="images/halloween/items/booster/gingerbread.png"/>
+	<file src="images/halloween/items/booster/gingerbread_big.png"/>
+	<file src="images/halloween/items/booster/house.png"/>
+	<file src="images/halloween/items/booster/house_big.png"/>
+	<file src="images/halloween/items/booster/cake.png"/>
+	<file src="images/halloween/items/booster/cake_big.png"/>
+	-->
+
+
+	<file src="images/may_events/header.png"/>
+	<file src="images/may_events/bg.png"/>
+	<file src="images/may_events/bg_boosters.png"/>
+	<file src="images/may_events/bg_main_offer.png"/>
+	<file src="images/may_events/icon.png"/>
+	<file src="images/may_events/description.png"/>
+	<file src="images/may_events/item_bg.png"/>
+	<file src="images/may_events/item_bg_h.png"/>
+	<file src="images/may_events/item_boost_bg.png"/>
+	<file src="images/may_events/item_boost_bg_h.png"/>
+	<file src="images/may_events/coins_icon.png"/>
+
+	<file src="images/may_events/items/booster/clove.png"/>
+	<file src="images/may_events/items/booster/clove_big.png"/>
+	<file src="images/may_events/items/booster/coat_of_arms.png"/>
+	<file src="images/may_events/items/booster/coat_of_arms_big.png"/>
+	<file src="images/may_events/items/booster/medal.png"/>
+	<file src="images/may_events/items/booster/medal_big.png"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShClansShop.lua" type="shared" />
+    <script src="SClansShop.lua" />
+    
+    <export function="GetShopAssortment" type="shared" />
+</meta>

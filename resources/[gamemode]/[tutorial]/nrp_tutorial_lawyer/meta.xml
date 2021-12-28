@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <export function="CheckPlayerLawyer" type="server" />
+
+    <script src="CTutorialLawyer.lua" type="client" />
+    <script src="STutorialLawyer.lua" />
+</meta>

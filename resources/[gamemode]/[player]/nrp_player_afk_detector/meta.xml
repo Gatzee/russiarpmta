@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShPlayerAFKDetector.lua" type="shared" />
+	<script src="SPlayerAFKDetector.lua" type="server" />
+	<script src="CPlayerAFKDetector.lua" type="client" />
+</meta>

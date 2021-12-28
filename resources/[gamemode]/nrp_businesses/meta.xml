@@ -1,0 +1,226 @@
+<meta>
+    <oop>true</oop>
+
+    <export function="GetBusinessesList" type="client" />
+    <export function="GetBusinessesList" type="server" />
+    <export function="GetOwnedBusinesses" type="server"/>
+    <export function="GetOwnedBusinessesData" type="server"/>
+    <export function="GetBusinessConfig" type="server" />
+    <export function="GetBusinessData" type="server" />
+    <export function="ResetBusiness" type="server" />
+    <export function="PlayerWantBuyBusiness" type="server" />
+    <export function="GetLocations" type="client" />
+    <export function="GetMaxSuccesValue" type="client" />
+    <export function="ShowTakeBribeOverlay" type="client" />
+
+    <!-- Позиции бизнесов -->
+    <file src="map/businesses.map" />
+
+    <!-- Оформление маркера биржи -->
+    <file src="img/marker.png" />
+
+    <!-- Окно покупки бизнеса -->
+    <file src="img/bg_purchase.png" />
+    <file src="img/btn_purchase.png" />
+
+    <!-- Основное окно бизнеса -->
+    <file src="img/bg_main.png" />
+    <file src="img/bg_main_info.png" />
+    <file src="img/rules.png" />
+    <file src="img/btn_withdraw.png" />
+    <file src="img/btn_withdraw_hover.png" />
+    <file src="img/btn_add.png" />
+    <file src="img/btn_take_bribe.png" />
+    <file src="img/btn_take_bribe_h.png" />
+    <file src="img/btn_levelup.png" />
+    <file src="img/btn_levelup_h.png" />
+    <file src="img/stroke.png" />
+
+    <file src="img/btn_add_58.png" />
+    <file src="img/btn_add_58_hover.png" />
+    <file src="img/btn_add_107.png" />
+    <file src="img/btn_add_107_hover.png" />    
+    <file src="img/btn_add_max.png" />
+    <file src="img/btn_add_max_hover.png" />
+
+    <file src="img/btn_gov_sell_i.png" />
+    <file src="img/btn_gov_sell_h.png" />
+    <file src="img/btn_gov_sell_c.png" />
+
+    <!-- Оверлей получения отката -->
+    <file src="img/bribe/bg_choice.png" />
+    <file src="img/bribe/bg_clan.png" />
+    <file src="img/bribe/bg_faction.png" />
+    <file src="img/bribe/btn_back.png" />
+    <file src="img/bribe/btn_select.png" />
+    <file src="img/bribe/btn_select_h.png" />
+    <file src="img/bribe/btn_take.png" />
+    <file src="img/bribe/btn_take_h.png" />
+
+    <!-- Селектор биржи -->
+    <file src="img/bg_selector.png" />
+    <file src="img/btn_purchase_existing.png" />
+    <file src="img/btn_purchase_existing_hover.png" />
+    <file src="img/btn_sell.png" />
+    <file src="img/btn_sell_hover.png" />
+
+    <!-- Список на бирже -->
+    <file src="img/bg_sell_purchase.png" />
+    <file src="img/btn_purchase_small.png" />
+    <file src="img/icon_lock.png" />
+
+    <!-- Выкладывание на биржу -->
+    <file src="img/bg_sell.png" />
+    <file src="img/btn_sell.png" />
+    <file src="img/btn_sell_hover.png" />
+    <file src="img/btn_confirm_sell.png" />
+    <file src="img/btn_confirm_sell_hover.png" />
+    <file src="img/btn_sell_to.png" />
+    <file src="img/btn_sell_to_hover.png" />
+    <file src="img/editbox.png" />
+    <file src="img/btn_cancel.png" />
+    <file src="img/btn_cancel_hover.png" />
+
+    <!-- Уникальный магазин (заглушка) -->
+    <file src="img/bg_unique_shop.png" />
+
+    <!-- Ебучие иконки -->
+    <file src="img/icons/128x128/carsell.png" />
+    <file src="img/icons/128x128/drugstore.png" />
+    <file src="img/icons/128x128/gasstation.png" />
+    <file src="img/icons/128x128/repairstore.png" />
+    <file src="img/icons/128x128/shop.png" />
+    <file src="img/icons/128x128/smallshop.png" />
+    <file src="img/icons/128x128/tradecentre.png" />
+    <file src="img/icons/128x128/hypermarket.png" />
+    <file src="img/icons/128x128/flowers.png" />
+    <file src="img/icons/128x128/hotel.png" />
+    <file src="img/icons/128x128/market.png" />
+    <file src="img/icons/128x128/castle.png" />
+    <file src="img/icons/128x128/circus.png"/>
+
+    <file src="img/icons/128x128/catering_restaurant_spassky.png"/>
+    <file src="img/icons/128x128/tradecentre_nikolsky_passage.png"/>
+    <file src="img/icons/128x128/tradecentre_childrens_gum.png"/>
+    <file src="img/icons/128x128/tradecentre_adult_world.png"/>
+    <file src="img/icons/128x128/catering_restaurant.png"/>
+    <file src="img/icons/128x128/bank.png"/>
+    <file src="img/icons/128x128/tradecentre_spring.png"/>
+    <file src="img/icons/128x128/catering_cafe.png"/>
+    <file src="img/icons/128x128/school_private.png"/>
+    <file src="img/icons/128x128/tradecentre_metropolis.png"/>
+    <file src="img/icons/128x128/tradecentre_tsum.png"/>
+    <file src="img/icons/128x128/school_dancing.png"/>
+    <file src="img/icons/128x128/tradecentre_book_house.png"/>
+    <file src="img/icons/128x128/catering_restaurant_inpark.png"/>
+    <file src="img/icons/128x128/tuning.png"/>
+    <file src="img/icons/128x128/cinema.png"/>
+    <file src="img/icons/128x128/tradecentre_gum.png"/>
+
+    <file src="img/icons/128x128/tuning_common.png" />
+    <file src="img/icons/128x128/apart_hotel_gorki.png" />
+    <file src="img/icons/128x128/apart_hotel_msk.png" />
+    <file src="img/icons/128x128/apart_hotel_nsk.png" />
+    <file src="img/icons/128x128/bus_depot.png" />
+    <file src="img/icons/128x128/construction.png" />
+    <file src="img/icons/128x128/grk_airport.png" />
+    <file src="img/icons/128x128/hotel_ukraine.png" />
+    <file src="img/icons/128x128/moskovsky_port.png" />
+    <file src="img/icons/128x128/nsk_airport.png" />
+    <file src="img/icons/128x128/oter_marriott.png" />
+    <file src="img/icons/128x128/plant.png" />
+    <file src="img/icons/128x128/private_dump.png" />
+    <file src="img/icons/128x128/private_parking.png" />
+    <file src="img/icons/128x128/private_warehouse.png" />
+    <file src="img/icons/128x128/strip_club.png" />
+    <file src="img/icons/128x128/transport_service.png" />
+    <file src="img/icons/128x128/hotel_gorki.png" />
+
+    <file src="img/icons/128x128/clothing_store.png" />
+    <file src="img/icons/128x128/gun_shop.png" />
+    <file src="img/icons/128x128/moscow_central_bank.png" />
+    <file src="img/icons/128x128/railway_station.png" />
+    <file src="img/icons/128x128/shipyard.png" />
+    <file src="img/icons/128x128/tretyakov_gallery.png" />
+    <file src="img/icons/128x128/workshop.png" />
+    <file src="img/icons/128x128/sawmill.png" />
+    
+    <file src="img/icons/64x64/carsell.png" />
+    <file src="img/icons/64x64/drugstore.png" />
+    <file src="img/icons/64x64/gasstation.png" />
+    <file src="img/icons/64x64/repairstore.png" />
+    <file src="img/icons/64x64/shop.png" />
+    <file src="img/icons/64x64/smallshop.png" />
+    <file src="img/icons/64x64/tradecentre.png" />
+    <file src="img/icons/64x64/hypermarket.png" />
+    <file src="img/icons/64x64/flowers.png" />
+    <file src="img/icons/64x64/hotel.png" />
+    <file src="img/icons/64x64/market.png" />
+    <file src="img/icons/64x64/castle.png" />
+    <file src="img/icons/64x64/circus.png"/>
+
+    <file src="img/icons/64x64/catering_restaurant_spassky.png"/>
+    <file src="img/icons/64x64/tradecentre_nikolsky_passage.png"/>
+    <file src="img/icons/64x64/tradecentre_childrens_gum.png"/>
+    <file src="img/icons/64x64/tradecentre_adult_world.png"/>
+    <file src="img/icons/64x64/catering_restaurant.png"/>
+    <file src="img/icons/64x64/bank.png"/>
+    <file src="img/icons/64x64/tradecentre_spring.png"/>
+    <file src="img/icons/64x64/catering_cafe.png"/>
+    <file src="img/icons/64x64/school_private.png"/>
+    <file src="img/icons/64x64/tradecentre_metropolis.png"/>
+    <file src="img/icons/64x64/tradecentre_tsum.png"/>
+    <file src="img/icons/64x64/school_dancing.png"/>
+    <file src="img/icons/64x64/tradecentre_book_house.png"/>
+    <file src="img/icons/64x64/catering_restaurant_inpark.png"/>
+    <file src="img/icons/64x64/tuning.png"/>
+    <file src="img/icons/64x64/cinema.png"/>
+    <file src="img/icons/64x64/tradecentre_gum.png"/>
+
+    <file src="img/icons/64x64/tuning_common.png" />
+    <file src="img/icons/64x64/apart_hotel_gorki.png" />
+    <file src="img/icons/64x64/apart_hotel_msk.png" />
+    <file src="img/icons/64x64/apart_hotel_nsk.png" />
+    <file src="img/icons/64x64/bus_depot.png" />
+    <file src="img/icons/64x64/construction.png" />
+    <file src="img/icons/64x64/grk_airport.png" />
+    <file src="img/icons/64x64/hotel_ukraine.png" />
+    <file src="img/icons/64x64/moskovsky_port.png" />
+    <file src="img/icons/64x64/nsk_airport.png" />
+    <file src="img/icons/64x64/oter_marriott.png" />
+    <file src="img/icons/64x64/plant.png" />
+    <file src="img/icons/64x64/private_dump.png" />
+    <file src="img/icons/64x64/private_parking.png" />
+    <file src="img/icons/64x64/private_warehouse.png" />
+    <file src="img/icons/64x64/strip_club.png" />
+    <file src="img/icons/64x64/transport_service.png" />
+    <file src="img/icons/64x64/hotel_gorki.png" />
+
+    <file src="img/icons/64x64/clothing_store.png" />
+    <file src="img/icons/64x64/gun_shop.png" />
+    <file src="img/icons/64x64/moscow_central_bank.png" />
+    <file src="img/icons/64x64/railway_station.png" />
+    <file src="img/icons/64x64/shipyard.png" />
+    <file src="img/icons/64x64/tretyakov_gallery.png" />
+    <file src="img/icons/64x64/workshop.png" />
+    <file src="img/icons/64x64/sawmill.png" />
+
+    <!-- Быдлокод -->
+    <script src="ShBusinesses.lua" type="shared" />
+
+    <script src="SBusinesses.lua" />
+    <script src="SBusinesses_Blips.lua" />
+    <script src="SBusinesses_Controls.lua" />
+    <script src="SBusinesses_Payments.lua" />
+    <script src="SBusinesses_PaymentsDaily.lua" />
+    <script src="SBusinesses_Sell.lua" />
+
+    <!-- Клиентский быдлокод -->
+    <script src="CBusinesses.lua" type="client" />
+    <script src="CBusinesses_Interface.lua" type="client" />
+    <script src="CBusinesses_Purchase.lua" type="client" />
+    <script src="CBusinesses_SellChooser.lua" type="client" />
+    <script src="CBusinesses_Sell.lua" type="client" />
+    <script src="CBusinesses_SellPurchase.lua" type="client" />
+    <script src="CBusinesses_Shop.lua" type="client" />
+</meta>

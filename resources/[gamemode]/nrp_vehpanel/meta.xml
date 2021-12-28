@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <script src="SVehpanel.lua" />
+    <script src="CVehpanel.lua" type="client" />
+</meta>

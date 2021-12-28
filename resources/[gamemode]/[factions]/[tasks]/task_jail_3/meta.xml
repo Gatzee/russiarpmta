@@ -1,0 +1,42 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<script src="CMinigamUI.lua"			type="client"/>
+	<script src="CMinigameCore.lua"			type="client"/>
+
+	<script src="tabs/CMinigameTab_main.lua" type="client"/>	
+	<script src="tabs/CMinigameTab_info.lua" type="client"/>
+
+	<file src="assets/img/bg_minigame.png"/>
+	<file src="assets/img/tab_main.png"/>
+	<file src="assets/img/tab_info.png"/>
+	<file src="assets/img/star_icon.png"/>
+	<file src="assets/img/btn_reset.png"/>
+	<file src="assets/img/btn_reset_hovered.png"/>
+	<file src="assets/img/btn_play.png"/>
+	<file src="assets/img/btn_play_hovered.png"/>
+	
+
+	<file src="assets/img/port_line.png"/>
+	<file src="assets/img/port_line_hovered.png"/>
+	<file src="assets/img/port.png"/>
+	<file src="assets/img/port_active.png"/>
+	<file src="assets/img/block.png"/>
+	<file src="assets/img/block_active.png"/>
+	<file src="assets/img/block_fail.png"/>
+	<file src="assets/img/h_line.png"/>
+	<file src="assets/img/h_line_hovered.png"/>
+	<file src="assets/img/v_line.png"/>
+	<file src="assets/img/v_line_hovered.png"/>
+	<file src="assets/img/popup_ok.png"/>
+	<file src="assets/img/popup_fail.png"/>
+	<file src="assets/img/popup_fail_attempts.png"/>
+
+	<file src="assets/fx/circle.fx" />
+
+	<export function="GetQuestInfo" type="client" />
+
+	<oop>true</oop>
+</meta>

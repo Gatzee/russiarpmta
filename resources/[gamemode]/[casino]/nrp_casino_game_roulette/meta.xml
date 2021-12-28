@@ -1,0 +1,36 @@
+<meta>
+    <oop>true</oop>
+    <script src="SRoulette.lua" />
+    <script src="SRoulette_Utils.lua" />
+    <script src="SRoulette_Actions.lua" />
+    <script src="SRoulette_Analytics.lua" />
+
+    <script src="CRoulette.lua" type="client" />
+    <script src="CShoot.lua" type="client" />
+    <script src="CUIRoulette.lua" type="client" />
+
+    <script src="CModels.lua" type="client" />
+    <script src="CAnim.lua" type="client" />
+
+    <file src="img/bg_user.png" />
+    <file src="img/corner_hints.png" />
+    <file src="img/notification_bg.png" />
+    <file src="img/shoot_hint.png" />
+
+    <file src="models/revolver.dff" />
+    <file src="models/revolver.txd" />
+
+    <file src="animation/suicide.ifp" />
+
+    <file src="sfx/bg1.ogg" />
+    <file src="sfx/bell1.wav" />
+    <file src="sfx/bell2.wav" />
+    <file src="sfx/bell3.wav" />
+    <file src="sfx/click1.wav" />
+    <file src="sfx/click2.wav" />
+    <file src="sfx/click3.wav" />
+    <file src="sfx/shot1.wav" />
+    <file src="sfx/shot2.wav" />
+    <file src="sfx/youdied.wav" />
+    <file src="img/font.ttf" />
+</meta>

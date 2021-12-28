@@ -1,0 +1,15 @@
+<meta>
+	<oop>true</oop>
+	<script src="CVoiceHandler.lua" type="client" />
+	<script src="SVoiceHandler.lua" type="server" />
+	<script src="SVoiceMuted.lua"   type="server" />
+
+
+	<file src="img/SoundOff.png" />
+	<file src="img/voice_small.png" />
+	<file src="img/voice_small_faction.png" />
+	<file src="img/voice_small_phone.png" />
+	<file src="img/voice_small_muted.png" />
+	
+	<file src="sfx/noise.ogg" />
+</meta>

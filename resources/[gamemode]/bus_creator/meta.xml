@@ -1,0 +1,9 @@
+<meta>
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	<oop>true</oop>
+	
+	<!-- Utils -->
+	
+	<script src="server.lua" type="server" protected="true" />
+	<script src="client.lua" type="client" protected="true" />
+</meta>

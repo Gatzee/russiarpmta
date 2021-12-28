@@ -1,0 +1,74 @@
+<meta>
+	<script src="CApartments.lua"			type="client" />
+	<script src="CUIList.lua"				type="client" />
+	<script src="CUIInfo.lua"				type="client" />
+
+	<script src="ShApartments.lua"			type="shared" />
+
+	<script src="SApartments.lua"			type="server" />
+	<script src="SControlApartments.lua"	type="server" />
+	<script src="SVehiclesApartments.lua"	type="server" />
+	<script src="SMarkersApartments.lua"	type="server" />
+	<script src="SApartment_HouseSale.lua"	type="server" />
+
+
+	<file src="images/button_close.png"/>
+	<file src="images/icon_money.png"/>
+	<file src="images/scroll_bg.png"/>
+	<file src="images/scrollbar.png"/>
+	<file src="images/button_back.png"/>
+	<file src="images/marker.png"/>
+	<file src="images/marker_spawn_vehicle.png"/>
+
+	<file src="images/list/bg.png"/>
+
+	<file src="images/list/free_bg.png"/>
+	<file src="images/list/owned_bg.png"/>
+	<file src="images/list/my_bg.png"/>
+	<file src="images/list/wedded_bg.png"/>
+
+
+	<file src="images/info/bg.png"/>
+
+	<file src="images/info/button_back_idle.png"/>
+	<file src="images/info/button_back_active.png"/>
+
+	<file src="images/info/button_buy_idle.png"/>
+	<file src="images/info/button_buy_hover.png"/>
+	<file src="images/info/button_buy_click.png"/>
+
+	<file src="images/info/button_prev_idle.png"/>
+	<file src="images/info/button_prev_hover.png"/>
+	<file src="images/info/button_prev_click.png"/>
+
+	<file src="images/info/button_enter_idle.png"/>
+	<file src="images/info/button_enter_hover.png"/>
+	<file src="images/info/button_enter_click.png"/>
+
+	<file src="images/info/button_call_idle.png"/>
+	<file src="images/info/button_call_hover.png"/>
+	<file src="images/info/button_call_click.png"/>
+
+	<file src="images/info/class/1.png"/>
+	<file src="images/info/class/2.png"/>
+	<file src="images/info/class/3.png"/>
+	<file src="images/info/class/4.png"/>
+	<file src="images/info/class/8.png"/>
+
+	
+	<export function="GetPlayerHaveVehiclesSlots"	type="server" />
+	<export function="GetApartmentPlayerIsInside"	type="shared" />
+	
+	<export function="HasApartmentRentalDebt" type="server" />
+	<export function="HasPlayerAnyApartmentRentalDebt" type="server" />
+	<export function="GetPlayerApartmentsData" type="server" />
+	<export function="GetPlayerApartmentList" type="server" />
+	<export function="GetApartmentListByUserId" type="server" />
+	<export function="ResetApartments" type="server" />
+	<export function="GetApartmentsData" type="server" />
+	<export function="SetApartmentsData" type="server" />
+
+	<export function="CheckPlayerWeddingAtApartOwner" type="server" />
+
+	<oop>true</oop>
+</meta>

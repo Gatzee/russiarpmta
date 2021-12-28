@@ -1,0 +1,15 @@
+<meta>
+	<script src="SLevels.lua"				type="server"/>
+	<script src="CUILevels.lua"				type="client"/>
+
+	<file src="images/info.png"/>
+
+	<file src="images/button_okey_idle.png"/>
+	<file src="images/button_okey_hover.png"/>
+	<file src="images/button_okey_click.png"/>
+
+
+	<file src="sounds/level_up.wav"/>
+
+	<oop>true</oop>
+</meta>

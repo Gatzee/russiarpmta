@@ -1,0 +1,57 @@
+<meta>
+	<oop>true</oop>
+	<script src="CNumberPlates.lua" type="client" />
+	<script src="SNumberPlates.lua" />
+
+	<export function="GenerateRandomNumberPlate" type="server" />
+	<export function="GenerateNumberPlateByCategory" type="server" />
+	<export function="SetNumberLocked" type="server" />
+	<export function="GetNumberType" type="server" />
+	<export function="GetVehicleNumberCost" type="server" />
+	<export function="OnPlayerTryBuyNumberPlate" type="server" />
+
+	<file src="files/font.ttf" />
+	<file src="files/img/plates/number_arm.png" />
+	<file src="files/img/plates/number_black.png" />
+	<file src="files/img/plates/number_bus.png" />
+	<file src="files/img/plates/number_by.png" />
+	<file src="files/img/plates/number_kz.png" />
+	<file src="files/img/plates/number_moto.png" />
+	<file src="files/img/plates/number_motop.png" />
+	<file src="files/img/plates/number_police.png" />
+	<file src="files/img/plates/number_ru.png" />
+	<file src="files/img/plates/number_ru2.png" />
+	<file src="files/img/plates/number_ru3.png" />
+	<file src="files/img/plates/number_tr.png" />
+	<file src="files/img/plates/number_ua.png" />
+
+	<file src="files/img/plates/number_flag_CH.png" />
+	<file src="files/img/plates/number_flag_GE.png" />
+	<file src="files/img/plates/number_flag_KZ.png" />
+	<file src="files/img/plates/number_flag_RU.png" />
+	<file src="files/img/plates/number_flag_UK.png" />
+
+    <file src="files/img/bg_search.png" />
+    <file src="files/img/btn_close.png" />
+	<file src="files/img/btn_find.png" />
+	<file src="files/img/btn_find_h.png" />
+	<file src="files/img/btn_select.png" />
+	<file src="files/img/btn_select_h.png" />
+	<file src="files/img/icon_car.png" />
+	<file src="files/img/icon_region.png" />
+	<file src="files/img/region_hover.png" />
+
+	<file src="files/img/icon_number.png" />
+	<file src="files/img/icon_number_CH.png" />
+	<file src="files/img/icon_number_GE.png" />
+	<file src="files/img/icon_number_KZ.png" />
+	<file src="files/img/icon_number_RU.png" />
+	<file src="files/img/icon_number_UK.png" />
+
+
+	<file src="files/img/icon_region_CH.png" />
+	<file src="files/img/icon_region_GE.png" />
+	<file src="files/img/icon_region_KZ.png" />
+	<file src="files/img/icon_region_RU.png" />
+	<file src="files/img/icon_region_UK.png" />
+</meta>

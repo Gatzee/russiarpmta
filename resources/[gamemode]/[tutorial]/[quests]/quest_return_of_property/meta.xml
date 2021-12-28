@@ -1,0 +1,13 @@
+<meta>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<file src="sfx/siren.mp3" />
+	<file src="sfx/Ksusha_phrase1.wav" />
+	<file src="sfx/Ksusha_phrase2.wav" />
+	<file src="sfx/Sekretarsha3.wav" />
+
+	<export function="GetQuestInfo"			type="client" />
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+    <script src="CPremiumGiveaway.lua" type="client"/>
+    <script src="SPremiumGiveaway.lua" type="server"/>
+
+    <oop>true</oop>
+</meta>

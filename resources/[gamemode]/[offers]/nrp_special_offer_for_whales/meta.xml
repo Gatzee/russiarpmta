@@ -1,0 +1,25 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOffer.lua" type="shared"/>
+    <script src="COffer.lua" type="client"/>
+    <script src="CGoods.lua" type="client"/>
+    <script src="Server.lua" type="server"/>
+
+    <file src="images/account.png"/>
+    <file src="images/btn_buy.png"/>
+    <file src="images/btn_buy_h.png"/>
+    <file src="images/btn_hide.png"/>
+    <file src="images/btn_hide_h.png"/>
+    <file src="images/btn_detail.png"/>
+    <file src="images/btn_detail_h.png"/>
+    <file src="images/btn_details.png"/>
+    <file src="images/btn_details_h.png"/>
+    <file src="images/card_bg.png"/>
+    <file src="images/card_hover.png"/>
+    <file src="images/deposit.png"/>
+    <file src="images/goods_bg.png"/>
+    <file src="images/offer_bg.png"/>
+    <file src="images/overlay_bg.png"/>
+    <file src="images/automobile_info.png"/>
+</meta>

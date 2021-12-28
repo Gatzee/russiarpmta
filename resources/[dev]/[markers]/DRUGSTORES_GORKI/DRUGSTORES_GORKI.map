@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2499.6699" posY="86.62" posZ="60.76" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (2)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="2299.645" posY="306.066" posZ="62.415" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (4)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="1928.28" posY="340.60001" posZ="60.8" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

@@ -1,0 +1,31 @@
+<meta>
+    <oop>true</oop>
+    <script src="CAdmin.lua" type="client" />
+    <script src="CAdmin_TabAdmins.lua" type="client" />
+    <script src="CAdmin_TabClans.lua" type="client" />
+    <script src="CAdmin_TabEvents.lua" type="client" />
+    <script src="CAdmin_TabBanListSerial.lua" type="client" />
+    <script src="CAdmin_TabWorkInfo.lua" type="client" />
+    <script src="CReportLogic.lua" type="client" />
+
+    <script src="SAdmin.lua" />
+    <script src="SAdminData.lua" />
+    <script src="SAdminPayout.lua" />
+    <script src="SAdminBanListSerial.lua" />
+    <script src="SAdminRating.lua" />
+    <script src="SAdminWorkedTime.lua" />
+    <script src="SAdminReports.lua" />
+    <script src="SAdminTasks.lua" />
+    <script src="SAdminEvents.lua" />
+
+    <script src="ShAdmin.lua" type="shared" />
+
+    <script src="ShActions.lua" type="shared" />
+    <script src="CActions.lua" type="client" />
+    <script src="SActions.lua" />
+
+    <export function="GetPlayerBanDataBySerial" type="server" />
+
+    <file src="img/icons/icon1.png" />
+    <file src="img/icons/icon2.png" />
+</meta>

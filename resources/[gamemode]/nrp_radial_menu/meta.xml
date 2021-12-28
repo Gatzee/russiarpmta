@@ -1,0 +1,48 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShRadialMenu.lua" type="shared" />
+	<script src="SRadialMenu.lua" />
+	<script src="CRadialMenu.lua" type="client" />
+
+	<file src="files/img/Circle.png" />
+	<file src="files/img/Circle1.png" />
+	<file src="files/img/bg.png" />
+	<file src="files/img/radial_core.png" />
+	<file src="files/img/hint_1.png" />
+	<file src="files/img/hint_2.png" />
+
+	<file src="files/img/sections/1.png" />
+	<file src="files/img/sections/2.png" />
+	<file src="files/img/sections/3.png" />
+	<file src="files/img/sections/4.png" />
+	<file src="files/img/sections/5.png" />
+	<file src="files/img/sections/6.png" />
+	<file src="files/img/sections/7.png" />
+	<file src="files/img/sections/8.png" />
+
+	<file src="files/img/icons/GarageGate.png" />
+	<file src="files/img/icons/Lock.png" />
+	<file src="files/img/icons/PlayerHandcuffs.png" />
+	<file src="files/img/icons/PlayerMedic.png" />
+	<file src="files/img/icons/PlayerInteract.png" />
+	<file src="files/img/icons/VehicleInteract.png" />
+	<file src="files/img/icons/VehicleCruise.png" />
+	<file src="files/img/icons/VehicleEngine.png" />
+	<file src="files/img/icons/VehicleHood.png" />
+	<file src="files/img/icons/VehicleLamp.png" />
+	<file src="files/img/icons/VehicleLights.png" />
+	<file src="files/img/icons/VehicleLock.png" />
+	<file src="files/img/icons/VehicleSignal.png" />
+	<file src="files/img/icons/VehicleTrunk.png" />
+	<file src="files/img/icons/Documents.png" />
+	<file src="files/img/icons/food.png" />
+	<file src="files/img/icons/AddFine.png" />
+	<file src="files/img/icons/Cruise.png" />
+	<file src="files/img/icons/TowtruckCall.png" />
+	<file src="files/img/icons/wedding.png" />
+	<file src="files/img/icons/kiss.png" />
+	<file src="files/img/icons/PlayerTreat.png" />
+	<file src="files/img/icons/Drag.png" />
+	<file src="files/img/icons/Invite.png" />
+	<file src="files/img/icons/AddMute.png" />
+</meta>

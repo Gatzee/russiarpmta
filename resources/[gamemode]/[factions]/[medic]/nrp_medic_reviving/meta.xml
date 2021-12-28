@@ -1,0 +1,11 @@
+<meta>
+    <script src="CDefibrillator.lua" 		type="client" />
+    <script src="SDefibrillator.lua" 		type="server" />
+
+	<script src="SMedicReviveCall.lua" 		type="server" />
+	<script src="CMedicReviveCall.lua"		type="client" />
+
+    <file src="files/img/defibrillator.png" />
+
+	<oop>true</oop>
+</meta>

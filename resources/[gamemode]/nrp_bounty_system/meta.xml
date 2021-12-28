@@ -1,0 +1,41 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShBountySystem.lua" type="shared" />
+
+    <script src="SBountySystem.lua" />
+    <script src="SBountySystemEvents.lua" />
+
+    <script src="CBountySystem.lua" type="client" />
+    <script src="CBountySystemUIComponents.lua" type="client" />
+    <script src="CBountySystemUI.lua" type="client" />
+    <script src="CBountySystemMarkers.lua" type="client" />
+
+    <script src="SSputnik.lua" />
+    <script src="CSputnik.lua" type="client" />
+
+    <script src="SHideNickName.lua" />
+
+	<script src="STransferBounty.lua"  type="server" />
+    <export function="GetTransferData" type="server" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_cash.png" />
+    <file src="img/bg_fail.png" />
+    <file src="img/bg_arrest.png" />
+    <file src="img/bg_death.png" />
+    <file src="img/bg_result.png" />
+    <file src="img/order_by_clan.png" />
+    <file src="img/order_by_faction.png" />
+    <file src="img/selected_bg.png" />
+    <file src="img/unselected_bg.png" />
+    <file src="img/orientation.png" />
+    <file src="img/btn_pay.png" />
+    <file src="img/btn_find.png" />
+    <file src="img/btn_select.png" />
+    <file src="img/btn_pay_hover.png" />
+    <file src="img/btn_find_hover.png" />
+    <file src="img/btn_select_hover.png" />
+    <file src="img/btn_ok_i.png" />
+    <file src="img/btn_ok_h.png" />
+    <file src="img/btn_ok_c.png" />
+</meta>

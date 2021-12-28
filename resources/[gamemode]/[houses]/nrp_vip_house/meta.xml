@@ -1,0 +1,49 @@
+<meta>
+    <oop>true</oop>
+
+    <export function="IsPlayerInsideVilla" type="server" />
+    <export function="GetPlayerVipHouseList" type="server" />
+    <export function="GetVipHouseListByUserId" type="server" />
+    <export function="GetPlayerAllVipHouseCarSlotInfo" type="server" />
+    <export function="GetVipHousePlayerIsInside" type="shared" />
+    <export function="SetViphouseData" type="server" />
+    <export function="ResetViphouse" type="server" />
+    <export function="GetVipHouseCarslots" type="server" />
+    <export function="GetVipHouseKeyByID" type="server" />
+    <export function="PlayerHasAccesToVipHouse" type="server" />
+    <export function="HasVipHouseRentalDebt" type="server" />
+    <export function="HasPlayerAnyVipHouseRentalDebt" type="server" />
+    <export function="GetVipHouseByOwnerId" type="server" />
+
+    <script src="SVipHouse.lua" />
+    <script src="SVipHouse_Purchase.lua" />
+    <script src="SVipHouse_Garage.lua" />
+    <script src="SVipHouse_Markers.lua" />
+    <script src="SVipHouse_HouseSale.lua" type="server" />
+    <script src="SHouseAnalytics.lua" />
+
+    <script src="ShVipHouse.lua" type="shared" />
+
+    <script src="CVipHouse.lua" type="client" />
+    <script src="CVipHouse_Purchase.lua" type="client" />
+    <script src="CVipHouse_Control.lua" type="client" />
+
+    <file src="img/bg_purchase.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_purchase.png" />
+    <file src="img/marker.png" />
+
+    <file src="img/icons/vh1.png" />
+    <file src="img/icons/vh2.png" />
+    <file src="img/icons/vh3.png" />
+    <file src="img/icons/cottage1.png" />
+    <file src="img/icons/cottage2.png" />
+    <file src="img/icons/cottage3.png" />
+    <file src="img/icons/cottage4.png" />
+    <file src="img/icons/cottage5.png" />
+    <file src="img/icons/cottage6.png" />
+    <file src="img/icons/cottage4_2.png" />
+    <file src="img/icons/cottage5_2.png" />
+    <file src="img/icons/cottage6_2.png" />
+    <file src="img/icons/country_1.png" />
+</meta>

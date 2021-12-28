@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShMarket.lua" type="shared" />
+    <script src="CMarket.lua" type="client" />
+    <script src="CUIMarket.lua" type="client" />
+    <script src="SMarket.lua" type="server" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/btn_buy.png" />
+    <file src="files/img/circle.png" />
+    <file src="files/img/arrow.png" />
+    <file src="files/img/icon_money_big.png" />
+
+    <file src="files/img/icon_marker.png" />
+</meta>

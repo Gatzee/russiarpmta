@@ -1,0 +1,71 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOffer8March.lua" type="shared" />
+    <script src="SOffer8March.lua" type="server" />
+    <script src="COffer8March.lua" type="client" />
+
+    <script src="items/ShCase.lua" type="shared" />
+    <script src="items/ShSkin.lua" type="shared" />
+    <script src="items/ShSoft.lua" type="shared" />
+    <script src="items/ShVehicle.lua" type="shared" />
+    <script src="items/ShVinyl.lua" type="shared" />
+
+    <file src="img/bg.png" />
+    <file src="img/all_items_bg.png" />
+    <file src="img/all_items_info.png" />
+    <file src="img/bg.png" />
+    <file src="img/btn_details.png" />
+    <file src="img/btn_details_h.png" />
+    <file src="img/btn_info.png" />
+    <file src="img/btn_close.png" />
+    <file src="img/item_bg.png" />
+    <file src="img/item_locked_bg.png" />
+    <file src="img/pack.png" />
+    <file src="img/pack_selected.png" />
+    <file src="img/pack_bought.png" />
+    <file src="img/pack_lines_locked.png" />
+    <file src="img/pack_lines_unlocked.png" />
+    <file src="img/star.png" />
+    <file src="img/star_h.png" />
+    <file src="img/star_unavailable.png" />
+    <file src="img/star_unavailable_h.png" />
+
+    <file src="img/packs/revolution/1.png" />
+    <file src="img/packs/revolution/2.png" />
+    <file src="img/packs/revolution/3.png" />
+    <file src="img/packs/revolution/4.png" />
+    <file src="img/packs/biker/1.png" />
+    <file src="img/packs/biker/2.png" />
+    <file src="img/packs/biker/3.png" />
+    <file src="img/packs/biker/4.png" />
+    <file src="img/packs/godmother/1.png" />
+    <file src="img/packs/godmother/2.png" />
+    <file src="img/packs/godmother/3.png" />
+    <file src="img/packs/godmother/4.png" />
+    <file src="img/packs/racer/1.png" />
+    <file src="img/packs/racer/2.png" />
+    <file src="img/packs/racer/3.png" />
+    <file src="img/packs/racer/4.png" />
+
+    <file src="img/vinyl_case/block_locked.png" />
+    <file src="img/vinyl_case/block_unlocked.png" />
+    <file src="img/vinyl_case/discount.png" />
+    <file src="img/vinyl_case/lock_chains.png" />
+    <file src="img/vinyl_case/overlay.png" />
+    <file src="img/vinyl_case/rivet_locked.png" />
+    <file src="img/vinyl_case/rivet_unlocked.png" />
+    <file src="img/vinyl_case/icon_locked.png" />
+
+
+    <file src="img/buy_overlay/bg.png" />
+    <file src="img/buy_overlay/btn_back.png" />
+    <file src="img/buy_overlay/btn_buy.png" />
+    <file src="img/buy_overlay/item_bg.png" />
+    <file src="img/buy_overlay/item_small_bg.png" />
+    <file src="img/buy_overlay/plus.png" />
+    <file src="img/buy_overlay/other_item_bg.png" />
+    <file src="img/buy_overlay/other_pack_name_bg.png" />
+    <file src="img/buy_overlay/separator_line.png" />
+    <file src="img/buy_overlay/vinyl_case_img.png" />
+</meta>

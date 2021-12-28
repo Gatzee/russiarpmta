@@ -1,0 +1,11 @@
+<meta>
+    <script src="CFirstCaseGift.lua" type="client" />
+    <script src="SFirstCaseGift.lua" type="server" />
+
+	<file src="img/bg_clothes_info.png" />
+	<file src="img/bg_gift.png" />
+	<file src="img/btn_details_h.png" />
+	<file src="img/btn_show_on_map_h.png" />
+
+    <oop>true</oop>
+</meta>

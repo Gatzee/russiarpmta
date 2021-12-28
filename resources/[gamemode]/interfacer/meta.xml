@@ -1,0 +1,171 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>10000000</download_priority_group>
+
+	<script src="SInterfacer.lua" type="server" />
+	<script src="Extend/Interfacer.lua" type="shared" />
+	<script src="shared.lua" type="shared" />
+
+	<export function="extend" type="server" />
+	<export function="extend" type="client" />
+
+	<export function="WriteLog" type="server" />
+	<export function="WriteLog" type="client" />
+
+	<export function="getConfig" type="client" />
+	<export function="getConfig" type="server" />
+	
+	<export function="setConfig" type="client" />
+	<export function="setConfig" type="server" />
+
+	<!-- Важные -->
+	<script src="Extend/ShUtils.lua" type="shared" />
+	<script src="Extend/Globals.lua" type="shared" />
+
+	<!-- Клиентские -->
+	<script src="Extend/CPlayer.lua" type="client" />
+	<script src="Extend/CVehicle.lua" type="client" />
+	<script src="Extend/CInterior.lua" type="client" />
+	<script src="Extend/CSound.lua" type="client" />
+	<script src="Extend/CBusiness.lua" type="client" />
+	<script src="Extend/CUI.lua" type="client" />
+	<script src="Extend/CQuest.lua" type="client" />
+	<script src="Extend/CQuestCoop.lua" type="client" />
+	<script src="Extend/CChat.lua" type="client" />
+	<script src="Extend/CActionTasks.lua" type="client" />
+	<script src="Extend/CActionTasksUtils.lua" type="client" />
+	<script src="Extend/CAI.lua" type="client" />
+	<script src="Extend/CBezierPaths.lua" type="client" />
+	<script src="Extend/CPayments.lua" type="client" />
+	<script src="Extend/ib.lua" type="client" />
+	<script src="Extend/ib/dropdown.lua" type="client" />
+	<script src="Extend/ib/navbar.lua" type="client" />
+	<script src="Extend/ib/tabPanel.lua" type="client" />
+
+	<!-- Общие клиентские и серверные -->
+	<script src="Extend/ShAsync.lua" type="shared" />
+	<script src="Extend/ShElement.lua" type="shared" />
+	<script src="Extend/ShPlayer.lua" type="shared" />
+	<script src="Extend/ShVehicle.lua" type="shared" />
+	<script src="Extend/ShVehicleConfig.lua" type="shared" />
+	<script src="Extend/ShBusiness.lua" type="shared" />
+	<script src="Extend/ShProperty.lua" type="shared" />
+	<script src="Extend/ShApartments.lua" type="shared" />
+	<script src="Extend/ShVipHouses.lua" type="shared" />
+	<script src="Extend/ShActionTasks.lua" type="shared" />
+	<script src="Extend/ShFood.lua" type="shared" />
+	<script src="Extend/ShDiseases.lua" type="shared" />
+	<script src="Extend/ShDailyQuestList.lua" type="shared" />
+	<script src="Extend/ShClans.lua" type="shared" />
+	<script src="Extend/ShSocialRating.lua" type="shared" />
+	<script src="Extend/ShSkin.lua" type="shared" />
+	<script src="Extend/ShAccessories.lua" type="shared" />
+	<script src="Extend/ShBounty.lua" type="shared" />
+	<script src="Extend/ShHelmet.lua" type="shared" />
+	<script src="Extend/ShHouseSale.lua" type="shared" />
+	<script src="Extend/ShNeons.lua" type="shared" />
+	<script src="Extend/ShVinyls.lua" type="shared" />
+	<script src="Extend/ShRace.lua" type="shared" />
+	<script src="Extend/ShPhone.lua" type="shared" />
+	<script src="Extend/ShClothesShops.lua" type="shared" />
+	<script src="Extend/ShDances.lua" type="shared" />
+	<script src="Extend/ShFactionsInteriors.lua" type="shared" />
+	<script src="Extend/ShHobby.lua" type="shared" />
+	<script src="Extend/ShWedding.lua" type="shared" />
+	<script src="Extend/ShWebshop.lua" type="shared" />
+	<script src="Extend/ShGpsNodes.lua" type="shared" />
+	<script src="Extend/ShAchievements.lua" type="shared" />
+	<script src="Extend/csv.lua" type="shared" />
+	<script src="Extend/ShTimelib.lua" type="shared" />
+	<script src="Extend/ShInventoryConfig.lua" type="shared" />
+	<script src="Extend/race_tracks/track_drag_track.lua" type="shared" />
+	<script src="Extend/race_tracks/track_sochi_drift.lua" type="shared" />
+	<script src="Extend/race_tracks/track_sochi_track.lua" type="shared" />
+
+	<!-- Серверные -->
+	<script src="Extend/SInterfacer.lua" type="server" />
+	<script src="Extend/SInterior.lua" type="server" />
+	<script src="Extend/SPlayer.lua" type="server" />
+	<script src="Extend/SPlayerCommon.lua" type="server" />
+	<script src="Extend/SPlayerOffline.lua" type="server" />
+	<script src="Extend/SUtils.lua" type="server" />
+	<script src="Extend/SVehicle.lua" type="server" />
+	<script src="Extend/SQuest.lua" type="server" />
+	<script src="Extend/SQuestCoop.lua" type="server" />
+	<script src="Extend/SWebshop.lua" type="server" />
+	<script src="Extend/SActionTasks.lua" type="server" />
+	<script src="Extend/SActionTasksUtils.lua" type="server" />
+	<script src="Extend/SBusiness.lua" type="server" />
+	<script src="Extend/SCasino.lua" type="server" />
+	<script src="Extend/SChat.lua" type="server" />
+	<script src="Extend/SClans.lua" type="server" />
+	<script src="Extend/SDB.lua" type="server" />
+	<script src="Extend/SElement.lua" type="server" />
+
+	<!-- Награды -->
+	<script src="Extend/rewards/Server.lua" type ="server" />
+	<script src="Extend/rewards/Client.lua" type ="client" />
+	<script src="Extend/rewards/_ShItems.lua" type="shared" />
+	<script src="Extend/rewards/Sh_AssemblDetail.lua" type="shared" />
+	<script src="Extend/rewards/ShAccessory.lua" type="shared" />
+	<script src="Extend/rewards/ShBox.lua" type="shared" />
+	<script src="Extend/rewards/ShCarEvac.lua" type="shared" />
+	<script src="Extend/rewards/ShCarSlot.lua" type="shared" />
+	<script src="Extend/rewards/ShCase.lua" type="shared" />
+	<script src="Extend/rewards/ShDance.lua" type="shared" />
+	<script src="Extend/rewards/ShExp.lua" type="shared" />
+	<script src="Extend/rewards/ShFirstaid.lua" type="shared" />
+	<script src="Extend/rewards/ShFuelcan.lua" type="shared" />
+	<script src="Extend/rewards/ShGunLicense.lua" type="shared" />
+	<script src="Extend/rewards/ShHard.lua" type="shared" />
+	<script src="Extend/rewards/ShJailkeys.lua" type="shared" />
+	<script src="Extend/rewards/ShLunchbox.lua" type="shared" />
+	<script src="Extend/rewards/ShNeon.lua" type="shared" />
+	<script src="Extend/rewards/ShNumberPlate.lua" type="shared" />
+	<script src="Extend/rewards/ShPhoneImg.lua" type="shared" />
+	<script src="Extend/rewards/ShPremium.lua" type="shared" />
+	<script src="Extend/rewards/ShRepairbox.lua" type="shared" />
+	<script src="Extend/rewards/ShSkin.lua" type="shared" />
+	<script src="Extend/rewards/ShSoft.lua" type="shared" />
+	<script src="Extend/rewards/ShTaxi.lua" type="shared" />
+	<script src="Extend/rewards/ShTuningCase.lua" type="shared" />
+	<script src="Extend/rewards/ShVehicle.lua" type="shared" />
+	<script src="Extend/rewards/ShVehicleLicense.lua" type="shared" />
+	<script src="Extend/rewards/ShVinyl.lua" type="shared" />
+	<script src="Extend/rewards/ShVinylCase.lua" type="shared" />
+	<script src="Extend/rewards/ShWeapon.lua" type="shared" />
+	<script src="Extend/rewards/ShWeddingBox.lua" type="shared" />
+	<script src="Extend/rewards/ShWofCoin.lua" type="shared" />
+	<script src="Extend/rewards/ShPack.lua" type="shared" />
+	<script src="Extend/rewards/ShInventoryExpand.lua" type="shared" />
+
+	<!-- Кейсы -->
+	<script src="Extend/cases/Server.lua" type ="server" />
+	<script src="Extend/cases/Client.lua" type ="client" />
+	<script src="Extend/cases/_ShItems.lua" type="shared" />
+	<script src="Extend/cases/ShWofCoin.lua" type="shared" />
+	<script src="Extend/cases/Sh_AssemblDetail.lua" type="shared" />
+	<script src="Extend/cases/ShAccessory.lua" type="shared" />
+	<script src="Extend/cases/ShBox.lua" type="shared" />
+	<script src="Extend/cases/ShCarEvac.lua" type="shared" />
+	<script src="Extend/cases/ShDance.lua" type="shared" />
+	<script src="Extend/cases/ShExp.lua" type="shared" />
+	<script src="Extend/cases/ShFirstaid.lua" type="shared" />
+	<script src="Extend/cases/ShFuelcan.lua" type="shared" />
+	<script src="Extend/cases/ShGunLicense.lua" type="shared" />
+	<script src="Extend/cases/ShHard.lua" type="shared" />
+	<script src="Extend/cases/ShJailkeys.lua" type="shared" />
+	<script src="Extend/cases/ShLunchbox.lua" type="shared" />
+	<script src="Extend/cases/ShPhoneImg.lua" type="shared" />
+	<script src="Extend/cases/ShPremium.lua" type="shared" />
+	<script src="Extend/cases/ShRepairbox.lua" type="shared" />
+	<script src="Extend/cases/ShSkin.lua" type="shared" />
+	<script src="Extend/cases/ShSoft.lua" type="shared" />
+	<script src="Extend/cases/ShTaxi.lua" type="shared" />
+	<script src="Extend/cases/ShTuningCase.lua" type="shared" />
+	<script src="Extend/cases/ShVehicle.lua" type="shared" />
+	<script src="Extend/cases/ShVehicleLicense.lua" type="shared" />
+	<script src="Extend/cases/ShVehicleSlot.lua" type="shared" />
+	<script src="Extend/cases/ShVinyl.lua" type="shared" />
+	<script src="Extend/cases/ShWeapon.lua" type="shared" />
+</meta>

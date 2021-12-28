@@ -1,0 +1,20 @@
+<meta>
+	<oop>true</oop>
+	<script src="SSound.lua" />
+	<script src="CSound.lua" type="client" />
+
+	<export function="SoundCreateSource" />
+	<export function="SoundDestroySource" />
+
+	<export function="SoundBandCreate" type="client" />
+	<export function="SoundCreateSource" type="client" />
+	<export function="SoundDestroySource" type="client" />
+	<export function="SoundSetBand" type="client" />
+	<export function="SoundGetBand" type="client" />
+	<export function="SoundSetVolume" type="client" />
+	<export function="SoundGetVolume" type="client" />
+	<export function="SoundBandSetVolume" type="client" />
+	<export function="SoundBandGetVolume" type="client" />
+	<export function="SoundMasterSetVolume" type="client" />
+	<export function="SoundMasterGetVolume" type="client" />
+</meta>

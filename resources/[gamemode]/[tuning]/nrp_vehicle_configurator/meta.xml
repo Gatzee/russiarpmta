@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShVehicleConfigurator.lua" type="shared" />
+    <script src="SVehicleConfigurator.lua" />
+    <script src="CVehicleConfigurator.lua" type="client" />
+    <script src="CVehicleAcceleration.lua" type="client" />
+</meta>

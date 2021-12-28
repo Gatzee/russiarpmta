@@ -1,0 +1,5 @@
+local texture = dxCreateTexture( "tex.jpg" )
+local shader = dxCreateShader( "shader.fx" )
+dxSetShaderValue( shader, "gTexture", texture )
+engineApplyShaderToWorldTexture( shader, "rpbox_logo" )
+engineApplyShaderToWorldTexture( shader, "logo" )

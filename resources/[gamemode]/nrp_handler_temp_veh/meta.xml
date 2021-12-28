@@ -1,0 +1,5 @@
+<meta>
+	<script src="STempVehicle.lua"		type="server"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,42 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShTuningParts.lua" type="shared" />
+    <script src="STuningParts.lua" />
+    <script src="STuningPartsEvents.lua" />
+    <script src="CTuningParts.lua" type="client" />
+
+    <export function="getInternalTuningPartByID" type="shared" />
+    <export function="getTuningPartsIDByParams" type="shared" />
+    <export function="getTuningPartsForPurchase" type="server" />
+
+    <file src="img/bg_part_1.png" />
+    <file src="img/bg_part_2.png" />
+    <file src="img/bg_part_3.png" />
+    <file src="img/bg_part_4.png" />
+    <file src="img/bg_part_5.png" />
+
+    <file src="img/brakes.png" />
+    <file src="img/ecu.png" />
+    <file src="img/engine.png" />
+    <file src="img/suspension.png" />
+    <file src="img/tires.png" />
+    <file src="img/transmission.png" />
+    <file src="img/turbo.png" />
+
+    <file src="img/200x200/brakes.png" />
+    <file src="img/200x200/ecu.png" />
+    <file src="img/200x200/engine.png" />
+    <file src="img/200x200/suspension.png" />
+    <file src="img/200x200/tires.png" />
+    <file src="img/200x200/transmission.png" />
+    <file src="img/200x200/turbo.png" />
+
+    <file src="img/engine_m.png" />
+    <file src="img/tires_m.png" />
+    <file src="img/transmission_m.png" />
+
+    <file src="img/200x200/engine_m.png" />
+    <file src="img/200x200/tires_m.png" />
+    <file src="img/200x200/transmission_m.png" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="CParking.lua" type="client" />
+    <script src="SParking.lua" />
+    
+    <file src="files/img/not_parking.png" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="CCasinoEntrance.lua" type="client" />
+    <script src="SCasinoEntrance.lua" />
+
+    <file src="files/img/marker_1.png" />
+    <file src="files/img/marker_2.png" />
+</meta>

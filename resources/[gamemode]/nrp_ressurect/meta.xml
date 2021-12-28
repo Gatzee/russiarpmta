@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="CRessurect.lua" type="client" />
+    <script src="SRessurect.lua" />
+
+    <file src="img/bg.png" />
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<script src="CConstructor.lua" type="client" />
+	<script src="SConstructor.lua" type="server" />
+
+	<script src="CWalls.lua" type="client" />
+
+	<file src="files/models/kubik.dff" />
+	<file src="files/models/kubik.txd" />
+	<file src="files/models/kubik.col" />
+	<file src="files/fx/shader.fx" />
+	<file src="files/fx/blue.dds" />
+
+	<oop>true</oop>
+</meta>

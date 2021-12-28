@@ -1,0 +1,25 @@
+<meta>
+    <oop>true</oop>
+    <script src="SDice.lua" />
+    <script src="SDice_Utils.lua" />
+    <script src="SDice_Actions.lua" />
+    <script src="SDice_Analytics.lua" />
+
+    <script src="CDice.lua" type="client" />
+    <script src="CThrowDices.lua" type="client" />
+    <script src="CUIDice.lua" type="client" />
+
+    <script src="CModels.lua" type="client" />
+
+    <file src="img/corner_hints.png" />
+    <file src="img/notification_bg.png" />
+    <file src="img/throw_hint.png" />
+
+    <file src="models/cube.dff" />
+    <file src="models/cube.txd" />
+
+    <file src="sfx/hit1.wav" />
+    <file src="sfx/hit2.wav" />
+    <file src="sfx/yourturn.ogg" />
+    <file src="sfx/bg1.ogg" />
+</meta>

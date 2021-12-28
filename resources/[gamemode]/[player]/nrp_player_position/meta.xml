@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="SPlayerPosition.lua" />
+    <script src="CPlayerPosition.lua" type="client" />
+</meta>

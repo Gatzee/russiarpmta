@@ -1,0 +1,75 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShParty.lua" type="shared" />
+    <script src="SPlayer.lua" type="server" />
+    <script src="SParty.lua" type="server" />
+    <script src="SPartyEvents.lua" type="server" />
+    <script src="CPartyUI.lua" type="client" />
+    <script src="CParty.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_creation.png" />
+    <file src="img/bg_bottom.png" />
+    <file src="img/bg_prize.png" />
+    <file src="img/btn_invite.png" />
+    <file src="img/edit_bg.png" />
+    <file src="img/edit_bg2.png" />
+    <file src="img/edit_bg3.png" />
+    <file src="img/btn_rename.png" />
+    <file src="img/btn_save.png" />
+    <file src="img/on.png" />
+    <file src="img/off.png" />
+    <file src="img/btn_accept.png" />
+    <file src="img/btn_accept_hover.png" />
+    <file src="img/btn_decline.png" />
+    <file src="img/btn_decline_hover.png" />
+    <file src="img/btn_delete.png" />
+    <file src="img/top_title.png" />
+    <file src="img/prize_title.png" />
+    <file src="img/winners_title.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/btn_play.png" />
+    <file src="img/btn_play_hover.png" />
+    <file src="img/btn_party_end_i.png" />
+    <file src="img/btn_party_end_h.png" />
+    <file src="img/btn_party_end_c.png" />
+    <file src="img/btn_send_noti_i.png" />
+    <file src="img/btn_send_noti_h.png" />
+    <file src="img/btn_send_noti_c.png" />
+    <file src="img/btn_start_party_i.png" />
+    <file src="img/btn_start_party_h.png" />
+    <file src="img/btn_start_party_c.png" />
+    <file src="img/btn_start_play_i.png" />
+    <file src="img/btn_start_play_h.png" />
+    <file src="img/btn_start_play_c.png" />
+    <file src="img/btn_send_invite_i.png" />
+    <file src="img/btn_send_invite_h.png" />
+    <file src="img/btn_send_invite_c.png" />
+    <file src="img/btn_hide_i.png" />
+    <file src="img/btn_hide_h.png" />
+    <file src="img/btn_hide_c.png" />
+    <file src="img/btn_info_i.png" />
+    <file src="img/btn_info_h.png" />
+    <file src="img/btn_info_c.png" />
+    <file src="img/btn_leave_party_i.png" />
+    <file src="img/btn_leave_party_h.png" />
+    <file src="img/btn_leave_party_c.png" />
+    <file src="img/btn_send_request_i.png" />
+    <file src="img/btn_send_request_h.png" />
+    <file src="img/btn_send_request_c.png" />
+    <file src="img/btn_send_i.png" />
+    <file src="img/btn_send_h.png" />
+    <file src="img/btn_send_c.png" />
+    <file src="img/btn_create_party_i.png" />
+    <file src="img/btn_create_party_h.png" />
+    <file src="img/btn_create_party_c.png" />
+    <file src="img/btn_close_i.png" />
+    <file src="img/btn_close_h.png" />
+    <file src="img/btn_close_c.png" />
+    <file src="img/btn_accept_all_i.png" />
+    <file src="img/btn_accept_all_h.png" />
+    <file src="img/btn_accept_all_c.png" />
+    <file src="img/overlay_info.png" />
+    <file src="img/info_radial.png" />
+</meta>

@@ -1,0 +1,153 @@
+<meta>
+    <export function="GetEventListByGroup"	type="client"/>
+
+
+	<script src="ShEvents.lua"				type="shared"/>
+	<script src="ShBoosts.lua"				type="shared"/>
+
+	<script src="CUI.lua"					type="client"/>
+	<script src="CEvents.lua"				type="client"/>
+	<script src="CStamina.lua"				type="client"/>
+	<script src="CBoosts.lua"				type="client"/>
+	<script src="SEvents.lua"				type="server"/>
+	<script src="SLobby.lua"				type="server"/>
+	<script src="SBoosts.lua"				type="server"/>
+
+
+	<script src="events/new_year_gift_collection.lua"	type="shared"/>
+	<script src="events/new_year_dangerous_sprint.lua"	type="shared"/>
+	<script src="events/new_year_king_mountain.lua"	    type="shared"/>
+	
+	<!--
+	<script src="events/new_year_gift_delivery.lua"		type="shared"/>
+	<script src="events/new_year_drift.lua"				type="shared"/>
+	-->
+
+	<!-- 
+	<script src="events/halloween_derbi.lua"			type="shared"/>
+	<script src="events/halloween_destruction.lua"		type="shared"/>
+	<script src="events/halloween_race.lua"				type="shared"/> 
+	-->
+	<file src="sfx/bg_drag.ogg"/>
+	<file src="sfx/roll_click.ogg"/>
+	<file src="sfx/roll_stop.ogg"/>
+
+	<script src="events/may_events/mayevent_fight_hunters.lua" type="shared"/>
+	<script src="events/may_events/mayevent_tank_battle.lua"   type="shared"/>
+	<script src="events/may_events/mayevent_victory_drag.lua"  type="shared"/>
+
+	<file src="img/may_events/btn_more_coins_i.png"/>
+	<file src="img/may_events/btn_more_coins_h.png"/>
+	<file src="img/may_events/btn_more_coins_c.png"/>
+
+	<file src="img/may_events/bg_heli_tutorial.png"/>
+	<file src="img/may_events/btn_ok.png"/>
+	<file src="img/may_events/btn_ok_h.png"/>
+
+	<file src="img/may_events/bg_drag_item_locked.png"/>
+	<file src="img/may_events/bg_drag_item_installed.png"/>
+	<file src="img/may_events/bg_drag_item_installed_fill.png"/>
+	<file src="img/may_events/engine_icon.png"/>
+	<file src="img/may_events/turbo_icon.png"/>
+	<file src="img/may_events/ecu_icon.png"/>
+	<file src="img/may_events/flag.png"/>
+
+	<file src="img/may_events/bg_glow.png"/>
+	<file src="img/may_events/tank_battle_rocket_bg.png"/>
+	<file src="img/may_events/tank_aim.png"/>
+	<file src="img/may_events/tank_aim_reload.png"/>
+	<file src="img/may_events/fight_hunters_rocket_bg.png"/>
+	<file src="img/may_events/fight_hunters_minigun_bg.png"/>
+	<file src="img/may_events/bg_drag_result.png"/>
+	<file src="img/may_events/bg_result_drag_place_lose.png"/>
+	<file src="img/may_events/bg_result_drag_place_win.png"/>
+	<file src="img/may_events/bg_drag_result_round.png"/>
+	<file src="img/may_events/bg_result_round_left_lose.png"/>
+	<file src="img/may_events/bg_result_round_left_win.png"/>
+	<file src="img/may_events/bg_result_round_right_lose.png"/>
+	<file src="img/may_events/bg_result_round_right_win.png"/>
+	<file src="img/may_events/lose_stroke.png"/>
+	<file src="img/may_events/win_stroke.png"/>
+	<file src="img/may_events/bg_drag_item.png"/>
+
+	<file src="img/may_events/vs_icon.png"/>
+	<file src="img/may_events/circle_round_lose.png"/>
+	<file src="img/may_events/circle_round_win.png"/>
+	<file src="img/may_events/circle_round_next.png"/>
+	<file src="img/may_events/circle_round_blocked.png"/>
+	<file src="img/may_events/continue.png"/>
+	<file src="img/may_events/continue_h.png"/>
+	<file src="img/may_events/bg_drag_select_detail.png"/>
+	<file src="img/may_events/header.png"/>
+	<file src="img/may_events/timer_select.png"/>
+	<file src="img/may_events/btn_select.png"/>
+	<file src="img/may_events/btn_select_h.png"/>
+	
+	<file src="img/may_events/ecu_1.png"/>
+	<file src="img/may_events/ecu_2.png"/>
+	<file src="img/may_events/ecu_3.png"/>
+	<file src="img/may_events/engine_1.png"/>
+	<file src="img/may_events/engine_2.png"/>
+	<file src="img/may_events/engine_3.png"/>
+	<file src="img/may_events/turbo_1.png"/>
+	<file src="img/may_events/turbo_2.png"/>
+	<file src="img/may_events/turbo_3.png"/>
+
+	<file src="fx/mta-helper.fx"/>
+	<file src="fx/recolor.fx"/>
+	<file src="fx/tint.fx"/>
+	<file src="fx/lava.fx"/>
+	<file src="fx/circle.fx"/>
+
+	<file src="models/1222.col"/>
+	<file src="models/1222.txd"/>
+	<file src="models/1222.dff"/>
+
+	<file src="models/643.col"/>
+	<file src="models/643.txd"/>
+	<file src="models/643.dff"/>
+
+	<file src="models/642.col"/>
+	<file src="models/642.txd"/>
+	<file src="models/642.dff"/>
+
+	<file src="img/weapons_hud_bg.png"/>
+	<file src="img/scoreboard_item_bg.png"/>
+	<file src="img/user_icon.png"/>
+	<file src="img/minigun_bg.png"/>
+	<file src="img/rocket_bg.png"/>
+	<file src="img/gift_icon.png"/>
+	<file src="img/damage.png"/>
+	<file src="img/drift_bg.png"/>
+	<file src="img/drift_mul.png"/>
+	<file src="img/wrong_way.png"/>
+	<file src="img/success_bg.png"/>
+	<file src="img/text_success_effect.png"/>
+	<file src="img/reward_tittle_bg.png"/>
+	<file src="img/reward_item_bg.png"/>
+	<file src="img/reward_coins_icon.png"/>
+	<file src="img/reward_booster_icon.png"/>
+	<file src="img/btn_more_coins_i.png"/>
+	<file src="img/btn_more_coins_h.png"/>
+	<file src="img/btn_more_coins_c.png"/>
+	<file src="img/btn_ok_i.png"/>
+	<file src="img/btn_ok_h.png"/>
+	<file src="img/btn_ok_c.png"/>
+	<file src="img/wrong_side.png"/>
+
+	<file src="img/icon_nitro.png"/>
+	<file src="img/icon_ram.png"/>
+	<file src="img/icon_slowmo.png"/>
+	<file src="img/icon_wave.png"/>
+
+	<!-- <file src="img/lava.png"/> -->
+	<file src="img/snow.png"/>
+
+	<file src="sounds/ammo_box_pickup.wav"/>
+	<file src="sounds/minigun_shot.wav"/>
+	<file src="sounds/timer_tick.wav"/>
+	<file src="sounds/start.wav"/>
+	<!-- <file src="sounds/lava.mp3"/> -->
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,36 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="CMiniGame.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+	<file src="routes/nsk_1.txt" />
+	<file src="routes/nsk_2.txt" />
+	<file src="routes/gorki_1.txt" />
+	<file src="routes/gorki_2.txt" />
+	<file src="img/marker.png" />
+
+	<file src="img/bets.png" />
+	<file src="img/bet_active.png" />
+	<file src="img/bet_hover.png" />
+	<file src="img/bet_passive.png" />
+	<file src="img/bg.png" />
+	<file src="img/bg_wnd.png" />
+	<file src="img/examples.png" />
+	<file src="img/cashbox.png" />
+	<file src="img/minus_i.png" />
+	<file src="img/minus_h.png" />
+	<file src="img/plus_i.png" />
+	<file src="img/plus_h.png" />
+	<file src="img/pay_i.png" />
+	<file src="img/pay_h.png" />
+	<file src="img/timer.png" />
+	<file src="img/error_text.png" />
+
+	<file src="fonts/a_LCDNova.ttf" />
+
+
+	<oop>true</oop>
+</meta>

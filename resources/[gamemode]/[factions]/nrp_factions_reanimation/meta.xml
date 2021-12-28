@@ -1,0 +1,9 @@
+<meta>
+	<script src="CUIReanimation.lua"			type="client"/>
+
+	<file src="images/bg.png" />
+	<file src="images/gradient_bg.png" />
+	<file src="images/heart.png" />
+
+	<oop>true</oop>
+</meta>

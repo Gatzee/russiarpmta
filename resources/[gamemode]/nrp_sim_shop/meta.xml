@@ -1,0 +1,43 @@
+<meta>
+    <oop>true</oop>
+    <script src="SPhoneSimShop.lua" />
+    <script src="SPhoneNumbersCore.lua" />
+    <script src="SPhoneNumbersDataBase.lua" />
+    <script src="SPhoneContacts.lua" />
+    <script src="SPhoneCall.lua" />
+    <script src="SPhoneSms.lua" />
+
+    <script src="CPhoneSimShop.lua" type="client" />
+    <script src="CPhoneSimShop_Interface.lua" type="client" />
+    <script src="CPhoneSimShop_Plan.lua" type="client" />
+
+    <script src="ShPhoneSimShop.lua" type="shared" />
+
+    <file src="img/bg.png" />
+    <file src="img/btn_buy.png" />
+    <file src="img/btn_buy_big.png" />
+    <file src="img/premium.png" />
+    <file src="img/sim_normal.png" />
+    <file src="img/sim_premium.png" />
+
+    <file src="img/bg_plan.png" />
+    <file src="img/btn_open_plan.png" />
+    <file src="img/brush.png" />
+    <file src="img/reward_info.png" />
+
+    <file src="img/marker_icon.png" />
+
+    <export function="GetPlayerByPhoneNumber" type="server" />
+    <export function="GetAbonentByPlayer" type="server" />
+    <export function="StopCall" type="server" />
+    <export function="GetStatusPhoneCallPlayer" type="server" />
+
+    <export function="GetSIMShopPositions"    type="client" />
+
+    <export function="IsPhoneNumberIsOrdinary" type="server" />
+    <export function="IsPhoneNumberIsStandard" type="server" />
+    <export function="IsPhoneNumberIsLux" type="server" />
+    <export function="IsPhoneNumberIsPremium" type="server" />
+    <export function="IsPhoneNumberIsUnique" type="server" />
+    <export function="FreePhoneNumber" type="server" />
+</meta>

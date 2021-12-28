@@ -1,0 +1,8 @@
+<meta>
+    <script src="Client.lua" type="client"/>
+    <script src="Server.lua" type="server"/>
+
+	<file src="images/bg.png"/>
+
+    <oop>true</oop>
+</meta>

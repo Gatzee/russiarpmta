@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="CWanted.lua" type="client" />
+    <script src="CPreWanted.lua" type="client" />
+    <script src="SWanted.lua" />
+    <script src="SPreWanted.lua" />
+
+    <file src="img/circle.png" />
+</meta>

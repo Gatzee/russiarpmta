@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="police_door_9" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17287" doublesided="false" scale="1" dimension="1" posX="1943.1" posY="130.406" posZ="631.6" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="police_door_10" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17286" doublesided="false" scale="1" dimension="1" posX="1967.9" posY="129.911" posZ="631.65" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="police_door_11" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1974.935" posY="129.941" posZ="631.65" rotX="0.0" rotY="0.0" rotZ="-90.0"></object>
+
+    <object id="police_door_12" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1959.946" posY="128.325" posZ="635.45" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="police_door_13" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17287" doublesided="false" scale="1" dimension="1" posX="1967.9" posY="129.9" posZ="635.45" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="police_door_14" property="{'type':2, 'fact_list': '2','rotate_obj_z': -90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17288" doublesided="false" scale="1" dimension="1" posX="1974.932" posY="129.82" posZ="635.45" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="police_door_15" property="{'type':2, 'fact_list': '2','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17288" doublesided="false" scale="1" dimension="1" posX="1960.1" posY="132.1" posZ="631.65" rotX="0.0" rotY="0.0" rotZ="-90.0"></object>
+</map>

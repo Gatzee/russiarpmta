@@ -1,0 +1,33 @@
+<meta>
+	<download_priority_group>99999</download_priority_group>
+		<!-- Fonts -->
+	<script src="client.lua" type="client" />
+	<export function="DXFont" type="client" />
+	
+	<file src="Resources/Fonts/NeoSansProBold.ttf" />
+	<file src="Resources/Fonts/NeoSansProBoldItalic.ttf" />
+
+	<file src="Resources/Fonts/OpenSans/OpenSans-Bold.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-BoldItalic.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-ExtraBold.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-Italic.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-Light.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-LightItalic.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-Regular.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-Semibold.ttf" />
+	<file src="Resources/Fonts/OpenSans/OpenSans-SemiboldItalic.ttf" />
+
+	<file src="Resources/Fonts/Pricedown/Pricedown.ttf" />
+
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-Bold.ttf" />
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-BoldItalic.ttf" />
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-Italic.ttf" />
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-Light.ttf" />
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-LightItalic.ttf" />
+	<file src="Resources/Fonts/RobotoCondensed/RobotoCondensed-Regular.ttf" />
+
+	<file src="Resources/Fonts/Oxanium/Oxanium-Bold.ttf" />
+	<file src="Resources/Fonts/Oxanium/Oxanium-ExtraBold.ttf" />
+	<file src="Resources/Fonts/Oxanium/Oxanium-Regular.ttf" />
+</meta>

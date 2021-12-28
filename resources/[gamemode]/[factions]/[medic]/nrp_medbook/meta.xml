@@ -1,0 +1,19 @@
+<meta>
+	<script src="ShMedbook.lua" 		type="shared" />
+
+	<script src="SMedbook.lua" 			type="server" />
+	<script src="SMedbookBuy.lua" 		type="server" />
+
+	<script src="CMedbook.lua"			type="client" />
+	<script src="CMedbookBuy.lua"		type="client" />
+
+	<script src="STransferMedbook.lua" type="server" />
+    <export function="GetTransferData" type="server" />
+
+    <file src="img/medbook_bg.png" />
+    <file src="img/medbook_info.png" />
+    <file src="img/button_info.png" />
+    <file src="img/button_hide.png" />
+
+	<oop>true</oop>
+</meta>

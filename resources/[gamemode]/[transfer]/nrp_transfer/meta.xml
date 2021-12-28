@@ -1,0 +1,29 @@
+<meta>
+    <oop>true</oop>
+    <script src="STransfer.lua" />
+    <script src="STransfer_Utils.lua" />
+    <script src="STransfer_UtilsClear.lua" />
+    <script src="STransfer_Controller.lua" />
+
+    <script src="CTransfer.lua" type="client" />
+    <script src="CTransferInfo.lua" type="client" />
+    <script src="CTransferInfoClan.lua" type="client" />
+    <script src="CTransferFinished.lua" type="client" />
+
+    <file src="img/bg_info.png" />
+    <file src="img/bg_info_clan.png" />
+    <file src="img/bg_list.png" />
+    <file src="img/btn_thanks.png" />
+    <file src="img/btn_transfer.png" />
+    <file src="img/btn_transfer_big.png" />
+    <file src="img/finished_north.png" />
+    <file src="img/sold_total.png" />
+    <file src="img/icon_clan_honor.png" />
+    <file src="img/icon_clan_members.png" />
+    <file src="img/btn_apply.png" />
+    <file src="img/edit_bg.png" />
+
+    <export function="AddTransferDataHandler" type="server" />
+    <export function="TestRecieverAvailability" http="true" />
+    <export function="TransferData" http="true" />
+</meta>

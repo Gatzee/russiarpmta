@@ -1,0 +1,41 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOfferIngameDraw.lua" type="shared"/>
+
+    <script src="COfferIngameDraw_Core.lua" type="client"/>
+    <script src="COfferIngameDraw_UI.lua"   type="client"/>
+
+    <script src="SOfferIngameDraw_Core.lua"      type="server"/>
+    <script src="SOfferIngameDraw_Utils.lua"     type="server"/>
+    <script src="SOfferIngameDraw_Analytics.lua" type="server"/>
+
+    <file src="img/bg.png"/>
+    <file src="img/btn_details.png"/>
+    <file src="img/btn_details_hover.png"/>
+    <file src="img/btn_back.png"/>
+    <file src="img/btn_participate.png"/>
+    <file src="img/btn_participate_hover.png"/>
+    <file src="img/overlay_rewards.png"/>
+    <file src="img/timer.png"/>
+    <file src="img/info_icon.png"/>
+    <file src="img/bg_computer_details.png"/>
+    <file src="img/bg_condition_1.png"/>
+    <file src="img/bg_condition_2.png"/>
+    <file src="img/bg_condition_3.png"/>
+    <file src="img/bg_condition_4.png"/>
+
+    <file src="img/bg_contact.png"/>
+    <file src="img/bg_contact_list.png"/>
+    <file src="img/btn_select_contact_type.png"/>
+    <file src="img/btn_send.png"/>
+    <file src="img/btn_send_hover.png"/>
+    <file src="img/btn_select.png"/>
+    <file src="img/btn_select_hover.png"/>
+    <file src="img/arrow_selected.png"/>
+    <file src="img/email_icon.png"/>
+    <file src="img/discord_icon.png"/>
+    <file src="img/whatsapp_icon.png"/>
+    <file src="img/telegram_icon.png"/>
+    <file src="img/vk_icon.png"/>
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+    <script src="CTestOverlay.lua" type="client" />
+
+    <file src="fx/replace.fx" />
+    <file src="fx/colorize.fx" />
+    <file src="fx/mta-helper.fx" />
+
+    <file src="img/1.jpg" />
+    <file src="img/2.jpg" />
+    <file src="img/3.png" />
+    <file src="img/4.png" />
+    <file src="img/6.png" />
+</meta>

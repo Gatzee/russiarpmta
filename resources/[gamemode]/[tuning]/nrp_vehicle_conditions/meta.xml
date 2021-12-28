@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShVehicleConditions.lua" type="shared" />
+    <script src="CVehicleConditions.lua" type="client" />
+    <script src="SVehicleConditions.lua" />
+
+    <export function="GetVehicleTuningLevels" />
+</meta>

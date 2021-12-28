@@ -1,0 +1,16 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+
+	<file src="files/fx/mta-helper.fx" />
+	<file src="files/fx/grass.fx" />
+	<file src="files/img/texture1.png" />
+	<file src="files/img/texture2.png" />
+
+
+	<oop>true</oop>
+</meta>

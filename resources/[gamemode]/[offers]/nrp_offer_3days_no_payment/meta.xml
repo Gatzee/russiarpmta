@@ -1,0 +1,35 @@
+<meta>
+    <oop>true</oop>
+    <script src="S3days.lua" />
+    <script src="S3days_Parser.lua" />
+
+    <script src="C3days.lua" type="client" />
+    <script src="C3days_Details.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_case_info.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_back_hover.png" />
+    <file src="img/btn_back_big.png" />
+    <file src="img/cases_bg_hover.png" />
+    <file src="img/icon_sale.png" />
+    <file src="img/btn_buy.png" />
+
+    <file src="img/headers/bg.png" />
+    <file src="img/headers/btn.png" />
+
+    <file src="img/cases/1.png" />
+    <file src="img/cases/2.png" />
+    <file src="img/cases/3.png" />
+    <file src="img/cases/4.png" />
+
+    <file src="img/cases/1_info.png" />
+    <file src="img/cases/2_info.png" />
+    <file src="img/cases/3_info.png" />
+    <file src="img/cases/4_info.png" />
+
+    <file src="img/cases_info/1.png" />
+    <file src="img/cases_info/2.png" />
+    <file src="img/cases_info/3.png" />
+    <file src="img/cases_info/4.png" />
+</meta>

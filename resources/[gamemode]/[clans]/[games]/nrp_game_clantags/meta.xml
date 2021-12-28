@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShGameClantags.lua" type="shared" />
+    
+    <script src="SGameClantags.lua" />
+    <script src="CGameClantags.lua" type="client" />
+    <script src="CCartelClantags.lua" type="client" />
+</meta>

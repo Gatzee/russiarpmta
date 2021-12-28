@@ -1,0 +1,29 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShBusinessGasstation.lua" type="shared" />
+	<script src="SBusinessGasstation.lua" />
+	<script src="CBusinessGasstation.lua" type="client" cache = "false"/>
+
+	<file src="img/green.png" />
+	<file src="img/red.png" />
+	<file src="img/blue.png" />
+	<file src="img/yellow.png" />
+
+	<file src="img/bg.png" />
+	<file src="img/bg_e.png" />
+	<file src="img/btn_buy.png" />
+	<file src="img/close.png" />
+	<file src="img/rectangle.png" />
+
+	<file src="img/shop/bg.png" />
+	<file src="img/shop/btn_buy.png" />
+	<file src="img/shop/minus.png" />
+	<file src="img/shop/plus.png" />
+	<file src="img/shop/oil.png" />
+	<file src="img/shop/battery.png" />
+	<file src="img/shop/stroke.png" />
+
+	<file src="sfx/fuel_up_get.wav" />
+	<file src="sfx/fuel_up_pour.wav" />
+	<file src="sfx/fuel_up_placed.wav" />
+</meta>

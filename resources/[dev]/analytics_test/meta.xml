@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShAnalyticsTestFunctions.lua" type="shared" />
+    <script src="ShAnalyticsTest.lua" type="shared" />
+
+    <script src="CAnalyticsTest.lua" type="client" />
+    <script src="SAnalyticsTest.lua" />
+</meta>

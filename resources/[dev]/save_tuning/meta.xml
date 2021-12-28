@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <script src="SSaveTuning.lua" type="server" />
+    <script src="CSaveTuning.lua" type="client" />
+</meta>

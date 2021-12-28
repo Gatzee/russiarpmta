@@ -1,0 +1,44 @@
+<meta>
+    <oop>true</oop>
+    <script src="SDocuments.lua" />
+    <script src="CDocuments.lua" type="client" />
+
+    <script src="SDocuments_Passport.lua" />
+    <script src="CDocuments_Passport.lua" type="client" />
+
+    <script src="SDocuments_Military.lua" />
+    <script src="CDocuments_Military.lua" type="client" />
+
+    <script src="SDocuments_Armyfree.lua" />
+    <script src="CDocuments_Armyfree.lua" type="client" />
+
+    <script src="SDocuments_FCTicket.lua" />
+    <script src="CDocuments_FCTicket.lua" type="client" />
+
+    <script src="SDocuments_PoliceID.lua" />
+    <script src="CDocuments_PoliceID.lua" type="client" />
+
+    <script src="CDocuments_FactionHistory.lua" type="client" />
+    <script src="CDocuments_Medbook.lua" type="client" />
+    <script src="CDocuments_VehiclePassport.lua" type="client" />
+    <script src="CDocuments_GunLicense.lua" type="client" />
+
+    <file src="img/passport_bg.png" />
+    <file src="img/military_bg.png" />
+    <file src="img/armyfree_bg.png" />
+    <file src="img/cert_bg.png" />
+    <file src="img/fcticket_bg.png" />
+    <file src="img/policeid_bg.png" />
+    
+    <file src="img/button_close.png" />
+
+    <file src="img/skins/117.png" />
+    <file src="img/skins/118.png" />
+    <file src="img/skins/120.png" />
+    <file src="img/skins/139.png" />
+    <file src="img/skins/141.png" />
+    <file src="img/skins/145.png" />
+    <file src="img/skins/156.png" />
+    <file src="img/skins/157.png" />
+    <file src="img/skins/82.png" />
+</meta>

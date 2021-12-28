@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="ibtest.lua" type="client" />
+    
+    <file src="scroll_bg.png" />
+</meta>

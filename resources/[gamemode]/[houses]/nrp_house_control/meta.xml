@@ -1,0 +1,28 @@
+<meta>
+	<script src="CUIControl.lua"			type="client" />
+
+
+	<file src="images/button_close.png"/>
+
+	<file src="images/button_recharge.png"/>
+	<file src="images/button_upgrade_idle.png"/>
+	<file src="images/button_upgrade_hover.png"/>
+	<file src="images/icon_pay.png"/>
+	<file src="images/icon_upgrade_1.png"/>
+	<file src="images/icon_upgrade_2.png"/>
+	<file src="images/icon_upgrade_3.png"/>
+
+	<file src="images/button_pay_idle.png"/>
+	<file src="images/button_pay_hover.png"/>
+
+	<file src="images/button_sell_idle.png"/>
+	<file src="images/button_sell_hover.png"/>
+	<file src="images/marker.png"/>
+
+	<file src="images/btn_gov_sell.png"/>
+	<file src="images/btn_gov_sell_hover.png"/>
+	<file src="images/btn_shared_sell.png"/>
+	<file src="images/btn_shared_sell_hover.png"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,52 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShBusinessCarsell.lua" type="shared" />
+	<script src="SBusinessCarsell.lua" />
+	<script src="CBusinessCarsell.lua" type="client" />
+	<script src="CBusinessCarsell_VehicleZOffsets.lua" type="client" />
+	<script src="CBusinessCarsellUI.lua" type="client" />
+	<script src="CBusinessCarsellUI_Confirmation.lua" type="client" />
+	<script src="CBusinessCarsellUI_NotEnoughSlots.lua" type="client" />
+
+	<file src="img\bg.png" /> 
+	<file src="img\bg_cost.png" /> 
+	<file src="img\bg_counter.png" /> 
+	<file src="img\bg_left_panel.png" /> 
+	<file src="img\bg_need_lvl.png" /> 
+	<file src="img\bg_vehicle.png" /> 
+	<file src="img\bg_vehicle_locked_top_layer.png" /> 
+	<file src="img\bg_vehicle_selected.png" /> 
+	<file src="img\btn_arrow_left.png" /> 
+	<file src="img\btn_arrow_right.png" /> 
+	<file src="img\btn_color.png" /> 
+	<file src="img\btn_color_selected.png" /> 
+	<file src="img\green.png" /> 
+	<file src="img\hint.png" /> 
+	<file src="img\icon_blocked.png" /> 
+	<file src="img\icon_color.png" /> 
+	<file src="img\icon_soft_big.png" /> 
+	<file src="img\icon_trunk.png" /> 
+	<file src="img\moto_shop_icon.png" /> 
+	<file src="img\header\bg_lvl.png" /> 
+	<file src="img\header\btn_buy_slot.png" /> 
+	<file src="img\header\btn_buy_slot_h.png" /> 
+	<file src="img\header\btn_exit.png" /> 
+	<file src="img\header\btn_recharge.png" /> 
+	<file src="img\header\icon_soft.png" /> 
+	<file src="img\header\lbl_slots.png" /> 
+	<file src="img\logo\1.png" /> 
+	<file src="img\logo\2.png" /> 
+	<file src="img\logo\3.png" /> 
+	<file src="img\logo\4.png" /> 
+	<file src="img\logo\5.png" /> 
+	<file src="img\logo\8.png" /> 
+	<file src="img\not_enough_slots_window\bg.png" /> 
+	<file src="img\not_enough_slots_window\button_buy_slot_c.png" /> 
+	<file src="img\not_enough_slots_window\button_buy_slot_h.png" /> 
+	<file src="img\not_enough_slots_window\button_buy_slot_i.png" /> 
+	<file src="img\not_enough_slots_window\button_okey_c.png" /> 
+	<file src="img\not_enough_slots_window\button_okey_h.png" /> 
+	<file src="img\not_enough_slots_window\button_okey_i.png" /> 
+
+	<file src="sounds\music_car_showroom.ogg" /> 
+</meta>

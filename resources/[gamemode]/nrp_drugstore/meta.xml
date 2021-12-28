@@ -1,0 +1,23 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShDrugstore.lua" type="shared" />
+
+    <script src="SDrugstore.lua" />
+
+    <script src="CDrugstore.lua" type="client" />
+
+    <export function="GetLocations" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/block.png" />
+    <file src="img/btn_buy.png" />
+    <file src="img/light.png" />
+    <file src="img/marker.png" />
+
+    <file src="img/meds/1.png" />
+    <file src="img/meds/2.png" />
+    <file src="img/meds/3.png" />
+    <file src="img/meds/4.png" />
+    <file src="img/meds/5.png" />
+
+</meta>

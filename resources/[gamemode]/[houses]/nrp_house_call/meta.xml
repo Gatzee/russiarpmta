@@ -1,0 +1,8 @@
+<meta>
+	<script src="CCall.lua"			type="client" />	
+	<script src="SCall.lua"			type="server" />	
+	
+	<file src="files/door_bell.mp3"/>
+
+	<oop>true</oop>
+</meta>

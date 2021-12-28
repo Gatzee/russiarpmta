@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="CAudiozones.lua" type="client" />
+    <script src="CChimingClock.lua" type="client" />
+    <file src="sfx/amb_casino.ogg" />
+    <file src="sfx/amb_casino_moscow.ogg" />
+    <file src="sfx/ambient_city.ogg" />
+    <file src="sfx/ambient_suburb.ogg" />
+    <file src="sfx/chiming_clock.mp3" />
+</meta>

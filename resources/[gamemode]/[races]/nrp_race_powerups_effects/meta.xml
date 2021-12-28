@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="CPowerupsEffects.lua" type="client" />
+
+    <file src="fx/blastwave.fx" />
+    <file src="fx/juggernaut.fx" />
+    <file src="fx/nitro.fx" />
+    <file src="fx/speedbreak.fx" />
+
+    <file src="fx/mta-helper.fx" />
+    <file src="fx/neon.fx" />
+
+    <file src="img/blast.png" />
+    <file src="img/speedbreak.png" />
+</meta>

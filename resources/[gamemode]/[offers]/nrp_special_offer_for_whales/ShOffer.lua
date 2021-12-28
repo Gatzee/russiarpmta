@@ -1,0 +1,3 @@
+GROUND = 1
+AIR = 2
+WATER = 3

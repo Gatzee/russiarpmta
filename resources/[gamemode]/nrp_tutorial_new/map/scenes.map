@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <vehicle id="vehicle (Previon) (1)" sirens="false" paintjob="2" interior="0" alpha="255" model="436" plate="UYOK L1N" dimension="0" posX="2255.7002" posY="260.09961" posZ="60.25" rotX="0" rotY="0" rotZ="338" color="254,254,254,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Previon) (3)" sirens="false" paintjob="2" interior="0" alpha="255" model="436" plate="33ZC 784" dimension="0" posX="2259.6001" posY="265.89999" posZ="60.25" rotX="0" rotY="0" rotZ="117.999" color="254,254,254,245,245,245,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="167" interior="0" rotZ="142.003" alpha="255" posX="2256" posY="265.89999" posZ="60.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="117" interior="0" rotZ="328.005" frozen="false" alpha="255" posX="2255.2" posY="264.70001" posZ="60.6" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Taxi) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="420" plate="ECDD 3FY" dimension="0" posX="2211.8999" posY="289.70001" posZ="60.2" rotX="0" rotY="0" rotZ="305.996" color="173,154,0,245,245,245,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (3)" dimension="0" model="141" interior="0" rotZ="350" alpha="255" posX="2211.8999" posY="287.89999" posZ="60.7" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Huntley) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="579" plate="F159 YOR" dimension="0" posX="2309.1001" posY="283.20001" posZ="61.4" rotX="0" rotY="0" rotZ="46" color="0,0,0,124,28,42,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Elegant) (2)" sirens="false" paintjob="3" interior="0" alpha="255" model="507" plate="XGKS RF9" dimension="0" posX="2304.3999" posY="288.70001" posZ="60.9" rotX="0" rotY="0" rotZ="46" color="0,0,0,22,34,72,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Huntley) (2)" sirens="false" paintjob="3" interior="0" alpha="255" model="579" plate="41S2 ZOK" dimension="0" posX="2299.7002" posY="292.09961" posZ="61.4" rotX="0" rotY="0" rotZ="46" color="0,0,0,124,28,42,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (4)" dimension="0" model="118" interior="0" rotZ="90.003" alpha="255" posX="2305.3" posY="290.89999" posZ="61.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" dimension="0" model="120" interior="0" rotZ="356.004" alpha="255" posX="2342.8999" posY="247.7" posZ="61.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="139" interior="0" rotZ="112.005" alpha="255" posX="2343.3999" posY="249" posZ="61.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="145" interior="0" rotZ="270.007" alpha="255" posX="2208.8999" posY="302.5" posZ="60.6" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Coach) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="437" plate="CG68 OZH" dimension="0" posX="2207.7998" posY="309.7002" posZ="60.8" rotX="0" rotY="0" rotZ="219.249" color="177,212,103,254,254,254,0,0,0,0,0,0"></vehicle>
+</map>

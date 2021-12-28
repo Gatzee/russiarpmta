@@ -1,0 +1,8 @@
+<meta>
+	<script src="client.lua" type="client" />
+
+	<file src="images/warning_bg.png" />
+	<file src="images/error_bg.png" />
+
+	<oop>true</oop>
+</meta>

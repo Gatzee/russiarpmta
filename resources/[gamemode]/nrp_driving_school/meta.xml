@@ -1,0 +1,110 @@
+<meta>
+	<oop>true</oop>
+    <script src="CSchoolMarkers.lua" type="client"/>
+	<script src="ShSchoolRoutes.lua" type="shared"/>
+	
+	<script src="CAutoSchool.lua" type="client"/>
+    <script src="CUIAutoSchool.lua" type="client"/>
+    <script src="CAutoSchoolQuestions.lua" type="client"/>	
+    <script src="SAutoSchool.lua" type="server"/>
+    <script src="CAirSchool.lua" type="client"/>
+	<script src="CUIAirSchool.lua" type="client"/>
+	<script src="SAirSchool.lua" type="server"/>
+
+	<file src="img/auto/green.png" />
+	<file src="img/auto/close.png" />
+	<file src="img/auto/btn_close.png" />
+	<file src="img/auto/exam/bg.png" />
+	<file src="img/auto/exam/answer.png" />
+	<file src="img/auto/exam/answer_h.png" />
+	<file src="img/auto/exam/icon_flags.png" />
+	<file src="img/auto/exam/icon_timer.png" />
+
+	<file src="img/auto/popup/btn.png" />
+	<file src="img/auto/popup/bg.png" />
+
+	<file src="img/auto/exam/moto/1.png" />
+	<file src="img/auto/exam/moto/2.png" />
+	<file src="img/auto/exam/moto/3.png" />
+	<file src="img/auto/exam/moto/4.png" />
+	<file src="img/auto/exam/moto/5.png" />
+	<file src="img/auto/exam/moto/6.png" />
+	<file src="img/auto/exam/moto/7.png" />
+	<file src="img/auto/exam/moto/8.png" />
+	<file src="img/auto/exam/moto/9.png" />
+	<file src="img/auto/exam/moto/10.png" />
+	<file src="img/auto/exam/moto/11.png" />
+
+	<file src="img/auto/exam/auto/1.png" />
+	<file src="img/auto/exam/auto/2.png" />
+	<file src="img/auto/exam/auto/3.png" />
+	<file src="img/auto/exam/auto/4.png" />
+	<file src="img/auto/exam/auto/5.png" />
+	<file src="img/auto/exam/auto/6.png" />
+	<file src="img/auto/exam/auto/7.png" />
+	<file src="img/auto/exam/auto/8.png" />
+	<file src="img/auto/exam/auto/9.png" />
+	<file src="img/auto/exam/auto/10.png" />
+
+	<file src="img/auto/exam/bus/1.png" />
+	<file src="img/auto/exam/bus/2.png" />
+	<file src="img/auto/exam/bus/3.png" />
+	<file src="img/auto/exam/bus/4.png" />
+	<file src="img/auto/exam/bus/5.png" />
+	<file src="img/auto/exam/bus/6.png" />
+	<file src="img/auto/exam/bus/7.png" />
+	<file src="img/auto/exam/bus/8.png" />
+	<file src="img/auto/exam/bus/9.png" />
+	<file src="img/auto/exam/bus/10.png" />
+	<file src="img/auto/exam/bus/11.png" />
+
+	<file src="img/auto/exam/truck/1.png" />
+	<file src="img/auto/exam/truck/2.png" />
+	<file src="img/auto/exam/truck/3.png" />
+	<file src="img/auto/exam/truck/4.png" />
+	<file src="img/auto/exam/truck/5.png" />
+	<file src="img/auto/exam/truck/6.png" />
+	<file src="img/auto/exam/truck/7.png" />
+	<file src="img/auto/exam/truck/8.png" />
+	<file src="img/auto/exam/truck/9.png" />
+	<file src="img/auto/exam/truck/10.png" />
+
+	<file src="img/auto/items/1.png" />
+	<file src="img/auto/items/2.png" />
+	<file src="img/auto/items/3.png" />
+	<file src="img/auto/items/4.png" />
+	<file src="img/auto/items/1_h.png" />
+	<file src="img/auto/items/2_h.png" />
+	<file src="img/auto/items/3_h.png" />
+	<file src="img/auto/items/4_h.png" />
+	<file src="img/auto/items/categories_bg.png" />
+	<file src="img/auto/items/category_selected.png" />
+
+	<file src="img/auto/stages/bg.png" />
+	<file src="img/auto/stages/driving.png" />
+	<file src="img/auto/stages/driving_h.png" />
+	<file src="img/auto/stages/theory.png" />
+	<file src="img/auto/stages/theory_h.png" />
+	<file src="img/auto/stages/passed.png" />
+	<file src="img/auto/stages/not_passed.png" />
+	<file src="img/auto/stages/info.png" />
+	<file src="img/auto/stages/info_h.png" />
+
+	<file src="img/auto/theory/btn_navigate.png" />
+
+	<file src="img/air/bg.png" />
+	<file src="img/air/btn_close.png" />
+	<file src="img/air/box.png" />
+	<file src="img/air/box_hovered.png" />
+
+	<file src="img/air/icon_money.png" />
+	<file src="img/air/icon_airplane.png" />
+	<file src="img/air/icon_helicopter.png" />
+
+	<file src="img/air/bg_theory_airplane.png" />
+	<file src="img/air/bg_theory_helicopter.png" />
+	<file src="img/air/btn_start_exam.png" />
+	<file src="img/air/btn_start_exam_hovered.png" />
+
+	<file src="img/air/icon_marker.png" />
+</meta>

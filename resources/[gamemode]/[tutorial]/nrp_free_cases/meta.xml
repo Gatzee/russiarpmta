@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CFreeCases.lua" type="client" />
+    <file src="img/bg_platinum.png" />
+    <file src="img/bg_titan.png" />
+    <file src="img/btn_desc.png" />
+    <file src="img/btn_desc_hover.png" />
+</meta>

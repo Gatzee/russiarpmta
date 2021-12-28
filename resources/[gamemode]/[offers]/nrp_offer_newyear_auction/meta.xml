@@ -1,0 +1,31 @@
+<meta>
+    <oop>true</oop>
+
+     <script src="ShOfferNewYearAuction.lua"         type="shared"/>
+
+    <script src="COfferNewYearAuction_Core.lua"      type="client"/>
+    <script src="COfferNewYearAuction_UI.lua"        type="client"/>
+
+    <script src="SOfferNewYearAuction_Core.lua"      type="server"/>
+    <script src="SOfferNewYearAuction_Finish.lua"    type="server"/>
+    <script src="SOfferNewYearAuction_Utils.lua"     type="server"/>
+    <script src="SOfferNewYearAuction_Analytics.lua" type="server"/>
+
+    <file src="img/bg.png"/>
+    <file src="img/bg_first_rate.png"/>
+    <file src="img/bg_rerate.png"/>
+    <file src="img/bg_rerate_overlay.png"/>
+    <file src="img/bg_rules.png"/>
+    <file src="img/btn_help.png"/>
+    <file src="img/btn_help_hover.png"/>
+    <file src="img/btn_hide.png"/>
+    <file src="img/btn_hide_hover.png"/>
+    <file src="img/btn_rate.png"/>
+    <file src="img/btn_rate_hover.png"/>
+    <file src="img/btn_rerate.png"/>
+    <file src="img/btn_rerate_hover.png"/>
+    <file src="img/btn_skip.png"/>
+    <file src="img/btn_skip_hover.png"/>
+    <file src="img/hard.png"/>
+    <file src="img/timer_icon.png"/>
+</meta>

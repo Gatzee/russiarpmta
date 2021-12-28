@@ -1,0 +1,20 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOffer.lua" type="shared" />
+    <script src="COffer.lua" type="client" />
+    <script src="SOffer.lua" type="server" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_2.png" />
+    <file src="img/btn_buy_i.png" />
+    <file src="img/btn_buy_h.png" />
+    <file src="img/btn_buy_c.png" />
+    <file src="img/btn_more_i.png" />
+    <file src="img/btn_more_h.png" />
+    <file src="img/btn_more_c.png" />
+    <file src="img/icon_vehicle.png" />
+    <file src="img/btn_select.png" />
+    <file src="img/btn_select_hover.png" />
+    <file src="img/btn_notification_hide.png" />
+</meta>

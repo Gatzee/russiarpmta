@@ -1,0 +1,7 @@
+<meta>
+	<download_priority_group>-1</download_priority_group>
+    <oop>true</oop>
+    <script src="ShClansEnterMarkers.lua" type="shared" />
+    <script src="SClansEnterMarkers.lua" type="server" />
+    <script src="CClansEnterMarkers.lua" type="client" />
+</meta>

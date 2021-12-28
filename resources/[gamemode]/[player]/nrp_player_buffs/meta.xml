@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CPlayerBuffs.lua" type="client" />
+    <script src="SPlayerBuffs.lua" type="server" />
+
+    <export function="SetBuff" type="shared" />
+</meta>

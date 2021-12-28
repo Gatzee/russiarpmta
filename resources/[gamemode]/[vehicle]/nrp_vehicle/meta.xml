@@ -1,0 +1,22 @@
+<meta>
+	<oop>true</oop>
+	<script src="SVehicles.lua" />
+	<script src="SHandlings.lua" />
+	<script src="CVehicles.lua" type="client" />
+	<script src="ShVehicles.lua" type="shared" />
+
+	<script src="SSpecialVehicles.lua" />
+	<script src="CSpecialVehicles.lua" type="client" />
+
+	<export function="CreateVehicle" type="server" />
+	<export function="AddVehicle" type="server" />
+	<export function="DestroyVehicle" type="server" />
+	<export function="DestroyForever" type="server" />
+	<export function="VGetPermanentData" type="server" />
+	<export function="VGetAllPermanentData" type="server" />
+
+	<export function="GetSavedHandlingValue" type="server" />
+	<export function="SetSavedHandlingValue" type="server" />
+	<export function="GetVariantHandling" type="server" />
+	<export function="SetVariantHandling" type="server" />
+</meta>

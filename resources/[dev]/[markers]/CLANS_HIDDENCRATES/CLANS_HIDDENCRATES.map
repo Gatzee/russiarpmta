@@ -1,0 +1,20 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmilitary_crate) (1)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="2594.1201" posY="-1657.42" posZ="10.75" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (2)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="2722.71" posY="-1251.24" posZ="0.09" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (3)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="2781.1899" posY="-804.32001" posZ="73.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (4)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="2747.79" posY="-229.89999" posZ="128.59" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (5)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="2159.3501" posY="796.92999" posZ="105.85" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (6)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="1022.83" posY="-360.70999" posZ="18.01" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (7)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="1427.7803" posY="534.21973" posZ="30.55" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (8)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1736.22" posY="149.46001" posZ="11.52" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (9)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="443.42969" posY="-195.87012" posZ="6.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (10)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1357.7002" posY="31.87988" posZ="12.63" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (11)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-2088.95" posY="656.81" posZ="19.22" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (12)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-2791.78" posY="1104.12" posZ="14.25" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (13)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1653" posY="1355.52" posZ="20.69" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (14)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1958.6895" posY="1620.6797" posZ="16.27" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (15)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1364.91" posY="1195.9" posZ="18.01" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (16)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1260.59" posY="570.65002" posZ="25.03" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (17)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1786.67" posY="-227.94" posZ="17.78" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_crate) (18)" breakable="true" interior="0" alpha="255" model="2977" doublesided="false" scale="1" dimension="0" posX="-1747.83" posY="893.34003" posZ="74.32" rotX="0" rotY="0" rotZ="0"></object>
+</map>

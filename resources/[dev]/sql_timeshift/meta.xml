@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="SSQLTimeshift.lua" />
+
+    <script src="SSQLTimeshift_Animations.lua" />
+</meta>

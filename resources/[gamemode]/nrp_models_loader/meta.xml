@@ -1,0 +1,21 @@
+<meta>
+	<script src="CLoader.lua"	type="client"/>
+	<script src="SLoader.lua"	type="server"/>
+
+	<file src="files/1455/model.dff"/>
+	<file src="files/1455/model.txd"/>
+
+	<file src="files/408/model.dff"/>
+	<file src="files/408/model.txd"/>
+
+	<file src="files/283/model.dff"/>
+	<file src="files/283/model.txd"/>
+
+	<file src="files/40/model.dff"/>
+	<file src="files/40/model.txd"/>
+
+	<file src="files/227/model.dff"/>
+	<file src="files/227/model.txd"/>
+
+	<oop>true</oop>
+</meta>

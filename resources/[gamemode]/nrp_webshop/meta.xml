@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <script src="SWebshop.lua" />
+    <export function="onPackRecieve" type="server" http="true" />
+</meta>

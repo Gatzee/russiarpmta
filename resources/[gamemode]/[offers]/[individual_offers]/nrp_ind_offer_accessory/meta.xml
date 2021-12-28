@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShIndOffer.lua" type="shared" />
+    <script src="SIndOffer.lua" type="server" />
+    <script src="CIndOffer.lua" type="client" />
+
+    <file src="img/bg.png" />
+</meta>

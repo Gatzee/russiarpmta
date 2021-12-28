@@ -1,0 +1,460 @@
+<meta>
+	<download_priority_group>100000</download_priority_group>
+	<!-- Зимняя рамка окон -->
+	<file src="img/newyear_border/520/img.png" />
+	<file src="img/newyear_border/600/img.png" />
+	<file src="img/newyear_border/800/img.png" />
+	<file src="img/newyear_border/1024/img.png" />
+
+	<!-- Для маркеров -->
+	<file src="img/dropimage.png" />
+	
+	<!-- Окно подтверждения -->
+	<file src="img/confirm_bg.png" />
+    <file src="img/confirm_btn_ok.png" />
+    <file src="img/confirm_btn_cancel.png" />
+    <file src="img/confirm_btn_close.png" />
+
+	<!-- Окно ввода данных -->
+	<file src="img/input_bg.png" />
+    <file src="img/btn_bg.png" />
+    <file src="img/btn_bg_hover.png" />
+
+	<!-- Скроллы -->
+	<file src="img/scroll_bg.png" />
+	<file src="img/scroll_bg_small.png" />
+	<file src="img/scroll_bg_slim.png" />
+	<file src="img/scroll_bg_slim_small.png" />
+
+	<!-- Горизонтальные скроллы -->
+	<file src="img/bg_h_tuning.png" />
+	<file src="img/handle_h_tuning.png" />
+	<file src="img/handle_h.png" />
+	<file src="img/scroll_h_bg_slim.png" />
+
+	<!-- Аккаунт -->
+	<file src="img/icon_account.png" />
+	<file src="img/btn_header_add.png" />
+
+	<!-- Платежные системы -->
+	<file src="img/payments/change.png" />
+	<file src="img/payments/change_hover.png" />
+	<file src="img/payments/methods_selector/bg.png" />
+	<file src="img/payments/methods_selector/other_options.png" />
+	<file src="img/payments/methods_selector/other_options_hover.png" />
+
+	<file src="img/payments/methods_selector/item_bg.png" />
+	<file src="img/payments/methods_selector/item_bg_hover.png" />
+
+	<file src="img/payments/methods_selector/mastercard.png" />
+	<file src="img/payments/methods_selector/visa.png" />
+	<file src="img/payments/methods_selector/qiwi.png" />
+	<file src="img/payments/methods_selector/mts.png" />
+	<file src="img/payments/methods_selector/tele2.png" />
+	<file src="img/payments/methods_selector/megafon.png" />
+	<file src="img/payments/methods_selector/beeline.png" />
+	<file src="img/payments/methods_selector/umoney.png" />
+	<file src="img/payments/methods_selector/alfabank.png" />
+	<file src="img/payments/methods_selector/webmoney.png" />
+	<file src="img/payments/methods_selector/promsviazbank.png" />
+	<file src="img/payments/methods_selector/kassa24.png" />
+	<file src="img/payments/methods_selector/advcash.png" />
+	<file src="img/payments/methods_selector/ecopayz.png" />
+	<file src="img/payments/methods_selector/applepay.png" />
+	<file src="img/payments/methods_selector/googlepay.png" />
+	<file src="img/payments/methods_selector/samsungpay.png" />
+	<file src="img/payments/methods_selector/mc.png" />
+	<file src="img/payments/methods_selector/mir.png" />
+
+	<!-- Иконки наград -->
+	<file src="img/money_icon.png" />
+	<file src="img/hard_money_icon.png" />
+	<file src="img/next_plus_icon.png" />
+	<file src="img/icon_premium.png" />
+	<file src="img/exp_faction.png" />
+	<file src="img/exp_military.png" />
+	<file src="img/business_coin_icon.png" />
+
+	<!-- Работы -->
+	<file src="img/btn_fines.png" />
+    <file src="img/btn_fire.png" />
+    <file src="img/btn_join.png" />
+    <file src="img/btn_shift_end.png" />
+    <file src="img/btn_shift_start.png" />
+    <file src="img/icon_available.png" />
+    <file src="img/icon_locked.png" />
+    <file src="img/icon_passed.png" />
+    <file src="img/btn_fines_ok.png" />
+	<file src="img/icon_tick.png" />
+	<file src="img/account.png" />
+
+
+	<!-- Анимация загрузки -->
+	<file src="img/loading/l1.png" />
+	<file src="img/loading/l2.png" />
+	<file src="img/loading/l3.png" />
+
+	<!-- Слайдер ib -->
+	<file src="img/slider/big/bg.png" />
+	<file src="img/slider/big/on.png" />
+	<file src="img/slider/big/off.png" />
+
+	<file src="img/slider/small/bg.png" />
+	<file src="img/slider/small/on.png" />
+	<file src="img/slider/small/off.png" />
+
+	<!-- Мини игра удержание стрелки -->
+	<file src="img/arrow_hold/bg.png" />
+	<file src="img/arrow_hold/region.png" />
+	<file src="img/arrow_hold/center.png" />
+	<file src="img/arrow_hold/arrow.png" />
+
+
+	<file src="img/icon_mouse_left.png" />
+	<file src="img/icon_mouse_middle.png" />
+	<file src="img/icon_mouse_right.png" />
+	<file src="img/good.png" />
+	<file src="img/bad.png" />
+	<file src="img/circle_click_bg.png" />
+	<file src="img/circle_click_line.png" />
+
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_buy_c.png" />
+
+	<file src="img/icon_timer.png" />
+	<file src="img/icon_indicator_new.png" />
+    <file src="img/icon_triangle.png" />
+    <file src="img/btn_dropdown.png" />
+    <file src="img/btn_type.png" />
+    <file src="img/btn_type_selected.png" />
+
+	<file src="img/stroke.png" />
+	<file src="img/btn_min.png" />
+	<file src="img/btn_plus.png" />
+
+	<!-- Диалоги ActionTasks -->
+	<file src="img/action_tasks/bg_dialog_contents.png" />
+	<file src="img/action_tasks/bg_dialog_edges.png" />
+	<file src="img/action_tasks/btn_skip_dialog.png" />
+
+	<!-- Голосовые вставки -->
+	<file src="sfx/voice/Alexandr_1.wav" />
+	<file src="sfx/voice/Alexandr_10.wav" />
+	<file src="sfx/voice/Alexandr_2.wav" />
+	<file src="sfx/voice/Alexandr_3.wav" />
+	<file src="sfx/voice/Alexandr_4.wav" />
+	<file src="sfx/voice/Alexandr_5.wav" />
+	<file src="sfx/voice/Alexandr_6_1.wav" />
+	<file src="sfx/voice/Alexandr_6_2.wav" />
+	<file src="sfx/voice/Alexandr_7.wav" />
+	<file src="sfx/voice/Alexandr_8.wav" />
+	<file src="sfx/voice/Alexandr_9.wav" />
+	<file src="sfx/voice/Alexandr_24a.wav" />
+	<file src="sfx/voice/Alexandr_24b.wav" />
+	<file src="sfx/voice/Alexandr_24c.wav" />
+	<file src="sfx/voice/Alexandr_24d.wav" />
+	<file src="sfx/voice/Angela_1.wav" />
+	<file src="sfx/voice/Angela_10.wav" />
+	<file src="sfx/voice/Angela_2.wav" />
+	<file src="sfx/voice/Angela_3.wav" />
+	<file src="sfx/voice/Angela_4.wav" />
+	<file src="sfx/voice/Angela_5.wav" />
+	<file src="sfx/voice/Angela_6.wav" />
+	<file src="sfx/voice/Angela_7.wav" />
+	<file src="sfx/voice/Angela_8.wav" />
+	<file src="sfx/voice/Angela_9.wav" />
+	<file src="sfx/voice/Angela_19.wav" />
+	<file src="sfx/voice/Asian_1.wav" />
+	<file src="sfx/voice/Asian_2.wav" />
+	<file src="sfx/voice/Cop_1_1.wav" />
+	<file src="sfx/voice/Cop_1_2.wav" />
+	<file src="sfx/voice/Cop_1_3.wav" />
+	<file src="sfx/voice/Cop_2_1.wav" />
+	<file src="sfx/voice/Cop_2_2.wav" />
+	<file src="sfx/voice/Cop_2_3.wav" />
+	<file src="sfx/voice/Dominic_1.wav" />
+	<file src="sfx/voice/Dominic_2.wav" />
+	<file src="sfx/voice/Ex.wav" />
+	<file src="sfx/voice/Jeka_1.wav" />
+	<file src="sfx/voice/Jeka_2.wav" />
+	<file src="sfx/voice/Jeka_3.wav" />
+	<file src="sfx/voice/Jeka_4.wav" />
+	<file src="sfx/voice/Ksenia_1.wav" />
+	<file src="sfx/voice/Ksenia_2.wav" />
+	<file src="sfx/voice/Ksusha_20.wav" />
+	<file src="sfx/voice/Ksusha_21.wav" />
+	<file src="sfx/voice/Oleg_1.wav" />
+	<file src="sfx/voice/Oleg_2.wav" />
+	<file src="sfx/voice/Oleg_3.wav" />
+	<file src="sfx/voice/Oleg_4.wav" />
+	<file src="sfx/voice/Oleg_5.wav" />
+	<file src="sfx/voice/Oleg_6.wav" />
+	<file src="sfx/voice/Lawyer_1.wav" />
+	<file src="sfx/voice/Priest_1.wav" />
+	<file src="sfx/voice/Priest_2.wav" />
+	<file src="sfx/voice/Ohrannik_monolog15.wav" />
+	<file src="sfx/voice/Roman_monolog14.wav" />
+	<file src="sfx/voice/Ohrannik_monolog16.wav" />
+	<file src="sfx/voice/Glava_Zapadnogo_Kartelya_monolog17.wav" />
+	<file src="sfx/voice/Roman_monolog18.wav" />
+	<file src="sfx/voice/Roman_22.wav" />
+	<file src="sfx/voice/Roman_23.wav" />
+	<file src="sfx/voice/Roman_24a.wav" />
+	<file src="sfx/voice/Roman_24b.wav" />
+	<file src="sfx/voice/Roman_24c.wav" />
+
+	<file src="sfx/voice/Roman_return_of_history_monolog_1.wav" />
+	<file src="sfx/voice/Roman_return_of_history_monolog_2.wav" />
+	<file src="sfx/voice/Guard_return_of_history_monolog_1.wav" />
+
+	<file src="sfx/voice/Guard_monolog_4.wav" />
+	<file src="sfx/voice/Closeman_monolog_5.wav" />
+	<file src="sfx/voice/Closeman_monolog_6.wav" />
+	
+	<file src="sfx/voice/Angela_problems_monolog_8.wav" />
+	<file src="sfx/voice/Angela_problems_monolog_10.wav" />
+	<file src="sfx/voice/Lawyer_problems_monolog_8.wav" />
+
+	<file src="sfx/voice/Inspector_problems_monolog_8.wav" />
+	<file src="sfx/voice/Inspector_problems_monolog_9.wav" />
+
+	<file src="sfx/voice/Anna_monolog_7.wav" />
+	<file src="sfx/voice/Anna_monolog_9a.wav" />
+	<file src="sfx/voice/Anna_monolog_9b.wav" />
+	
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_1.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_2.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_3a.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_3b.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_3c.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_3d.wav" />
+	<file src="sfx/voice/Ksusha_long_awaited_monolog_3e.wav" />
+	<file src="sfx/voice/Roman_long_awaited_monolog_1a.wav" />
+	<file src="sfx/voice/Roman_long_awaited_monolog_1b.wav" />
+	<file src="sfx/voice/Roman_long_awaited_monolog_1c.wav" />
+	<file src="sfx/voice/Roman_long_awaited_monolog_1d.wav" />
+
+	<file src="sfx/voice/Roman_real_initiative_1.wav" />
+	<file src="sfx/voice/Roman_real_initiative_2.wav" />
+
+	<file src="sfx/voice/Alexandr_beginning_proceedings_01.wav" />
+	<file src="sfx/voice/Alexandr_beginning_proceedings_02.wav" />
+	<file src="sfx/voice/Glava_ohrani_beginning_proceedings.wav" />
+	<file src="sfx/voice/Sledovatel_beginning_proceedings.wav" />
+
+	<file src="sfx/voice/Angela_good_game_01.wav" />
+	<file src="sfx/voice/Angela_good_game_02.wav" />
+	<file src="sfx/voice/Angela_good_game_03.wav" />
+
+	<file src="sfx/voice/Roman_murderous_setup_03.wav" />
+	<file src="sfx/voice/Roman_murderous_setup_04.wav" />
+
+	<file src="sfx/voice/Angela_crazy_vacation_04.wav" />
+
+	<file src="sfx/voice/Alexander_the_inevitable_path_01.wav" />
+	<file src="sfx/voice/Roman_the_inevitable_path_01.wav" />
+
+	<file src="sfx/voice/Ksusha_possible_exposure_1.wav" />
+	<file src="sfx/voice/Roman_possible_exposure_1.wav" />
+	<file src="sfx/voice/Roman_possible_exposure_2.wav" />
+	<file src="sfx/voice/Roman_possible_exposure_3.wav" />
+
+	<file src="sfx/voice/Roman_bloody_forest_1.wav" />
+
+	<file src="sfx/voice/Huckster_long_awaited_revenge_1.wav" />
+	<file src="sfx/voice/Alexander_long_awaited_revenge_1.wav" />
+
+	<file src="sfx/fx/buy.wav" />
+	<file src="sfx/fx/buy_product.wav" />
+	<file src="sfx/fx/interface_open.wav" />
+	<file src="sfx/fx/overlay_open.wav" />
+	<file src="sfx/fx/reward_get.wav" />
+	<file src="sfx/fx/waist_zone.wav" />
+	<file src="sfx/fx/windows_open.wav" />
+
+	<file src="sfx/fx/crash_auto.wav" />
+	<file src="sfx/fx/crash_glass.wav" />
+	<file src="sfx/fx/crash_splash.wav" />
+	<file src="sfx/fx/crash_wind.wav" />
+
+	<file src="sfx/fx/click1.wav" />
+	<file src="sfx/fx/taxi.wav" />
+	<file src="sfx/fx/notification.wav" />
+	<file src="sfx/fx/error1.wav" />
+
+	<file src="img/skins/33.png" />
+	<file src="img/skins/139.png" />
+	<file src="img/skins/293.png" />
+	<file src="img/skins/39.png" />
+	<file src="img/skins/163.png" />
+	<file src="img/skins/45.png" />
+	<file src="img/skins/47.png" />
+	<file src="img/skins/49.png" />
+	<file src="img/skins/203.png" />
+	<file src="img/skins/57.png" />
+	<file src="img/skins/61.png" />
+	<file src="img/skins/262.png" />
+	<file src="img/skins/70.png" />
+	<file src="img/skins/294.png" />
+	<file src="img/skins/78.png" />
+	<file src="img/skins/82.png" />
+	<file src="img/skins/94.png" />
+	<file src="img/skins/98.png" />
+	<file src="img/skins/106.png" />
+	<file src="img/skins/110.png" />
+	<file src="img/skins/114.png" />
+	<file src="img/skins/118.png" />
+	<file src="img/skins/122.png" />
+	<file src="img/skins/132.png" />
+	<file src="img/skins/140.png" />
+	<file src="img/skins/295.png" />
+	<file src="img/skins/156.png" />
+	<file src="img/skins/164.png" />
+	<file src="img/skins/196.png" />
+	<file src="img/skins/204.png" />
+	<file src="img/skins/212.png" />
+	<file src="img/skins/280.png" />
+	<file src="img/skins/296.png" />
+	<file src="img/skins/312.png" />
+	<file src="img/skins/141.png" />
+	<file src="img/skins/297.png" />
+	<file src="img/skins/157.png" />
+	<file src="img/skins/165.png" />
+	<file src="img/skins/189.png" />
+	<file src="img/skins/197.png" />
+	<file src="img/skins/205.png" />
+	<file src="img/skins/213.png" />
+	<file src="img/skins/67.png" />
+	<file src="img/skins/71.png" />
+	<file src="img/skins/79.png" />
+	<file src="img/skins/83.png" />
+	<file src="img/skins/91.png" />
+	<file src="img/skins/95.png" />
+	<file src="img/skins/103.png" />
+	<file src="img/skins/7.png" />
+	<file src="img/skins/115.png" />
+	<file src="img/skins/123.png" />
+	<file src="img/skins/127.png" />
+	<file src="img/skins/134.png" />
+	<file src="img/skins/9.png" />
+	<file src="img/skins/11.png" />
+	<file src="img/skins/182.png" />
+	<file src="img/skins/190.png" />
+	<file src="img/skins/198.png" />
+	<file src="img/skins/214.png" />
+	<file src="img/skins/14.png" />
+	<file src="img/skins/15.png" />
+	<file src="img/skins/17.png" />
+	<file src="img/skins/19.png" />
+	<file src="img/skins/20.png" />
+	<file src="img/skins/21.png" />
+	<file src="img/skins/22.png" />
+	<file src="img/skins/23.png" />
+	<file src="img/skins/27.png" />
+	<file src="img/skins/30.png" />
+	<file src="img/skins/143.png" />
+	<file src="img/skins/151.png" />
+	<file src="img/skins/46.png" />
+	<file src="img/skins/48.png" />
+	<file src="img/skins/50.png" />
+	<file src="img/skins/207.png" />
+	<file src="img/skins/54.png" />
+	<file src="img/skins/56.png" />
+	<file src="img/skins/58.png" />
+	<file src="img/skins/60.png" />
+	<file src="img/skins/62.png" />
+	<file src="img/skins/64.png" />
+	<file src="img/skins/68.png" />
+	<file src="img/skins/72.png" />
+	<file src="img/skins/76.png" />
+	<file src="img/skins/80.png" />
+	<file src="img/skins/84.png" />
+	<file src="img/skins/92.png" />
+	<file src="img/skins/96.png" />
+	<file src="img/skins/100.png" />
+	<file src="img/skins/112.png" />
+	<file src="img/skins/120.png" />
+	<file src="img/skins/124.png" />
+	<file src="img/skins/136.png" />
+	<file src="img/skins/287.png" />
+	<file src="img/skins/303.png" />
+	<file src="img/skins/160.png" />
+	<file src="img/skins/168.png" />
+	<file src="img/skins/176.png" />
+	<file src="img/skins/184.png" />
+	<file src="img/skins/192.png" />
+	<file src="img/skins/200.png" />
+	<file src="img/skins/272.png" />
+	<file src="img/skins/288.png" />
+	<file src="img/skins/129.png" />
+	<file src="img/skins/137.png" />
+	<file src="img/skins/145.png" />
+	<file src="img/skins/153.png" />
+	<file src="img/skins/161.png" />
+	<file src="img/skins/177.png" />
+	<file src="img/skins/185.png" />
+	<file src="img/skins/193.png" />
+	<file src="img/skins/209.png" />
+	<file src="img/skins/301.png" />
+	<file src="img/skins/258.png" />
+	<file src="img/skins/69.png" />
+	<file src="img/skins/77.png" />
+	<file src="img/skins/81.png" />
+	<file src="img/skins/85.png" />
+	<file src="img/skins/89.png" />
+	<file src="img/skins/300.png" />
+	<file src="img/skins/97.png" />
+	<file src="img/skins/269.png" />
+	<file src="img/skins/105.png" />
+	<file src="img/skins/291.png" />
+	<file src="img/skins/117.png" />
+	<file src="img/skins/121.png" />
+	<file src="img/skins/290.png" />
+	<file src="img/skins/130.png" />
+	<file src="img/skins/138.png" />
+	<file src="img/skins/146.png" />
+	<file src="img/skins/178.png" />
+	<file src="img/skins/186.png" />
+	<file src="img/skins/202.png" />
+	<file src="img/skins/279.png" />
+	<file src="img/skins/218.png" />
+	<file src="img/skins/278.png" />
+	<file src="img/skins/277.png" />
+	<file src="img/skins/271.png" />
+	<file src="img/skins/260.png" />
+	<file src="img/skins/270.png" />
+	<file src="img/skins/292.png" />
+	<file src="img/skins/263.png" />
+	<file src="img/skins/259.png" />
+	<file src="img/skins/199.png" />
+	<file src="img/skins/195.png" />
+	<file src="img/skins/191.png" />
+	<file src="img/skins/183.png" />
+	<file src="img/skins/159.png" />
+	<file src="img/skins/155.png" />
+	<file src="img/skins/142.png" />
+	<file src="img/skins/135.png" />
+	<file src="img/skins/111.png" />
+	<file src="img/skins/16.png" />
+	<file src="img/skins/24.png" />
+	<file src="img/skins/73.png" />
+	<file src="img/skins/113.png" />
+	<file src="img/skins/187.png" />
+	<file src="img/skins/188.png" />
+	<file src="img/skins/245.png" />
+	<file src="img/skins/256.png" />
+	<file src="img/skins/281.png" />
+	<file src="img/skins/282.png" />
+	<file src="img/skins/283.png" />
+	<file src="img/skins/284.png" />
+	<file src="img/skins/6712.png" />
+	<file src="img/skins/6713.png" />
+	<file src="img/skins/6714.png" />
+	<file src="img/skins/6715.png" />
+	<file src="img/skins/6716.png" />
+	<file src="img/skins/6717.png" />
+	<file src="img/skins/6718.png" />
+	<file src="img/skins/6719.png" />
+	<file src="img/skins/6720.png" />
+</meta>

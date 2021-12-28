@@ -1,0 +1,37 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOfferDiscountGift.lua"          type="shared"/>
+
+    <script src="COfferDiscounGift_Core.lua"       type="client"/>
+    <script src="COfferDiscountGift_UI.lua"        type="client"/>
+    <script src="COfferDiscountGift_Browser.lua"   type="client"/>
+
+    <script src="SOfferDiscountGift_Core.lua"      type="server"/>
+    <script src="SOfferDiscountGift_Utils.lua"     type="server"/>
+    <script src="SOfferDiscountGift_Analytics.lua" type="server"/>
+    
+    <file src="img/bg.png"/>
+    <file src="img/bg_item_1.png"/>
+    <file src="img/bg_item_1_h.png"/>
+    <file src="img/bg_item_2.png"/>
+    <file src="img/bg_item_2_h.png"/>
+    <file src="img/bg_item_3.png"/>
+    <file src="img/bg_item_3_h.png"/>
+    <file src="img/bg_item_4.png"/>
+    <file src="img/bg_item_4_h.png"/>
+    <file src="img/bg_item_5.png"/>
+    <file src="img/bg_item_5_h.png"/>
+    <file src="img/bg_item_6.png"/>
+    <file src="img/bg_item_6_h.png"/>
+
+    <file src="img/bg_info_overlay.png"/>
+    <file src="img/bg_last_ticket_blocked.png"/>
+    <file src="img/bg_last_ticket_opened.png"/>
+    <file src="img/btn_back.png"/>
+    <file src="img/btn_back_h.png"/>
+    <file src="img/btn_desc.png"/>
+    <file src="img/btn_desc_h.png"/>
+    <file src="img/btn_help.png"/>
+    <file src="img/timer_hours.png"/>
+</meta>

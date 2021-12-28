@@ -1,0 +1,49 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShInventory.lua" type="shared" />
+    <script src="ShPlayer.lua" type="shared" />
+    <script src="SInventory.lua" type="server" />
+    <script src="SPlayer.lua" type="server" />
+    <script src="CInventory.lua" type="client" />
+    <script src="CUIEquipment.lua" type="client" />
+
+    <export function="GetPlayerEquippedTool" type="server" />
+
+    <file src="files/img/bg_reward.png" />
+    <file src="files/img/btn_take.png" />
+    <file src="files/img/icon_money_big.png" />
+    <file src="files/img/items/icon_fish_1.png" />
+    <file src="files/img/items/icon_fish_2.png" />
+    <file src="files/img/items/icon_fish_3.png" />
+    <file src="files/img/items/icon_fur.png" />
+    <file src="files/img/items/icon_horns.png" />
+    <file src="files/img/items/icon_meat.png" />
+    <file src="files/img/items/icon_box_1.png" />
+    <file src="files/img/items/icon_box_2.png" />
+    <file src="files/img/items/icon_box_3.png" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bg_fishing.png" />
+    <file src="files/img/bg_hunting.png" />
+    <file src="files/img/bg_digging.png" />
+    <file src="files/img/btn_back.png" />
+    <file src="files/img/btn_buy.png" />
+    <file src="files/img/btn_fix.png" />
+    <file src="files/img/btn_equipment.png" />
+    <file src="files/img/btn_sell.png" />
+    <file src="files/img/btn_take.png" />
+    <file src="files/img/btn_unlock.png" />
+    <file src="files/img/btn_select.png" />
+    <file src="files/img/close.png" />
+    <file src="files/img/icon_backpack.png" />
+    <file src="files/img/icon_check.png" />
+    <file src="files/img/icon_lock.png" />
+    <file src="files/img/icon_rod_1.png" />
+    <file src="files/img/icon_worm_1.png" />
+
+    <file src="files/img/icon_rifle_1.png" />
+    <file src="files/img/icon_ammo_1.png" />
+
+    <file src="files/img/icon_map_1.png" />
+    <file src="files/img/icon_shovel_1.png" />
+</meta>

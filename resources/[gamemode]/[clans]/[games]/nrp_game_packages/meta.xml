@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="CGamePackages.lua" type="client" />
+    <script src="SGamePackages.lua" type="server" />
+    <script src="ShGamePackages.lua" type="shared" />
+</meta>

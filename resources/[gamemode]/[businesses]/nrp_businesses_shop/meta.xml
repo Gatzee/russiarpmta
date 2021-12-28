@@ -1,0 +1,26 @@
+<meta>
+	<script src="ShShop.lua"		type="shared" />
+	<script src="CUIShop.lua"		type="client" />
+	<script src="SShop.lua"			type="server" />
+
+	<file src="img/bg.png" />
+
+	<file src="img/item_bg.png" />
+	<file src="img/item_bg_h.png" />
+
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_buy_c.png" />
+
+
+	<file src="img/items/secretary/1.png" />
+	<file src="img/items/secretary/2.png" />
+	<file src="img/items/secretary/3.png" />
+	<file src="img/items/secretary/4.png" />
+
+	<file src="img/items/skins/71.png" />
+	<file src="img/items/skins/312.png" />
+	<file src="img/items/skins/95.png" />
+
+	<oop>true</oop>
+</meta>

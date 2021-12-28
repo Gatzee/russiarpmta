@@ -1,0 +1,17 @@
+<meta>
+	<script src="ShJobQuest.lua" type="shared"/>
+	
+	<script src="CJob_Quest.lua" type="client"/>
+	<script src="CDriverRole_Quest.lua" type="client"/>
+	<script src="CCoordinatorRole_Quest.lua" type="client"/>
+	<script src="SJob_Quest.lua" type="server"/>
+	
+	<script src="ShJobData.lua" type="shared"/>
+	<script src="SJob_Utils.lua" type="server"/>
+	<script src="SJobAnalytics.lua" type="server"/>
+
+	<export function="GetQuestInfo" type="shared" />
+	<export function="GetQuestData" type="shared" />
+
+	<oop>true</oop>
+</meta>

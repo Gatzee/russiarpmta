@@ -1,0 +1,9 @@
+<meta>
+	<script src="c_main.lua"  type="client"  />
+	<script src="c_helper_functions.lua"  type="client"  />
+
+	<file src="fx/fx_pre_ped_noMRT.fx" type="client" />
+	
+	<export function="createObjectPreview" type="client" />
+	<export function="destroyObjectPreview" type="client" />
+</meta>

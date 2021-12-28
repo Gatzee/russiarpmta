@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="CSignals.lua" type="client" />
+	<script src="SSignals.lua" />
+	<file src="files/sound.wav" />
+</meta>

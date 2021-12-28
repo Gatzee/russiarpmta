@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShDamage.lua" type="shared" />
+	<script src="SDamage.lua" />
+	<script src="CDamage.lua" type="client" />
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShCapturePoints.lua" type="shared" />
+    <script src="SCapturePoints.lua" />
+    <script src="SPoint.lua" />
+    <script src="SVehicle.lua" />
+    
+    <script src="CCapturePoints.lua" type="client" />
+    <script src="CUIMain.lua" type="client" />
+    <script src="CUIWasted.lua" type="client" />
+    <script src="CVehicle.lua" type="client" />
+
+    <file src="files/img/icon_green.png" />
+    <file src="files/img/icon_purple.png" />
+</meta>

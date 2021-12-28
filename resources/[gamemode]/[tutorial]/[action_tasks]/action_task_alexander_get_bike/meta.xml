@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="Shared.lua" type="shared" />
+    <script src="Client.lua" type="client" />
+    <script src="Server.lua" />
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShSchool.lua" type="shared" />
+    <script src="SSchool.lua" type="server" />
+    <script src="CSchool.lua" type="client" />
+    <script src="CUISchool.lua" type="client" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/btn_close.png" />
+
+    <file src="files/img/btn_start_exam.png" />
+    <file src="files/img/btn_start_exam_hovered.png" />
+
+    <file src="files/img/icon_marker.png" />
+</meta>

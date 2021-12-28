@@ -1,0 +1,25 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShEvent.lua" type="shared" />
+    <script src="CEvent.lua" type="client" />
+    <script src="SEvent.lua" />
+
+    <script src="CUIEvent.lua" type="client" />
+
+    <file src="packages_0.map" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bar_bg.png" />
+    <file src="files/img/bar_body.png" />
+    <file src="files/img/btn_close.png" />
+    <file src="files/img/inv_icon.png" />
+    <file src="files/img/rose.png" />
+
+    <file src="files/img/rewards_bg.png" />
+    <file src="files/img/rewards.png" />
+    <file src="files/img/btn_take.png" />
+
+    <file src="files/img/msg_bg.png" />
+    <file src="files/img/btn_finish_dialog.png" />
+</meta>

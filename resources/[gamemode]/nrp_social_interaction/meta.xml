@@ -1,0 +1,128 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShSocial.lua" type="shared" />
+
+    <script src="SSocial.lua" />
+    <script src="SSocialEvents.lua" />
+    <script src="SSocialTop.lua" />
+    <script src="SSocialStatistic.lua" />
+    <script src="SSocialBuffs.lua" />
+
+    <script src="CSocial.lua" type="client" />
+    <script src="CSocialNPC.lua" type="client" />
+    <script src="CSocialUIComponents.lua" type="client" />
+    <script src="CSocialUI.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_achievements.png" />
+    <file src="img/bg_achievements_all.png" />
+    <file src="img/bg_anchor.png" />
+    <file src="img/achievement.png" />
+    <file src="img/achievement2.png" />
+    <file src="img/achievement3.png" />
+    <file src="img/achievement_s.png" />
+    <file src="img/achievement_s2.png" />
+    <file src="img/icon_achievements.png" />
+    <file src="img/icon_achievements_all.png" />
+    <file src="img/law.png" />
+    <file src="img/btn_rules.png" />
+    <file src="img/edit_bg.png" />
+    <file src="img/edit_bg2.png" />
+    <file src="img/edit_bg3.png" />
+    <file src="img/btn_find.png" />
+    <file src="img/like_bg_u.png" />
+    <file src="img/like_bg_s.png" />
+    <file src="img/like.png" />
+    <file src="img/dislike.png" />
+    <file src="img/btn_hide.png" />
+    <file src="img/btn_select.png" />
+    <file src="img/btn_selected.png" />
+    <file src="img/analytics.png" />
+    <file src="img/btn_share.png" />
+    <file src="img/btn_add.png" />
+    <file src="img/progress.png" />
+    <file src="img/good.png" />
+    <file src="img/bad.png" />
+    <file src="img/donate_bg_u.png" />
+    <file src="img/donate_bg_s.png" />
+    <file src="img/social_up.png" />
+    <file src="img/social_down.png" />
+    <file src="img/btn_donate.png" />
+    <file src="img/btn_cashup.png" />
+    <file src="img/btn_share_achievements.png" />
+    <file src="img/btn_details_i.png" />
+    <file src="img/btn_details_h.png" />
+    <file src="img/sr_info.png" />
+    <file src="img/sr_blocked.png" />
+    <file src="img/timer.png" />
+    <file src="img/icon_indicator_new.png" />
+    <file src="img/icon_search.png" />
+    <file src="img/bg_players.png" />
+    <file src="img/icon_rating_up.png" />
+    <file src="img/icon_rating_down.png" />
+
+    <file src="img/stats/mission.png" />
+    <file src="img/stats/task.png" />
+    <file src="img/stats/accumulation.png" />
+    <file src="img/stats/casino.png" />
+    <file src="img/stats/hobby.png" />
+    <file src="img/stats/event.png" />
+    <file src="img/stats/arrest.png" />
+    <file src="img/stats/kill.png" />
+    <file src="img/stats/death.png" />
+    <file src="img/stats/property.png" />
+    <file src="img/stats/car.png" />
+    <file src="img/stats/house.png" />
+    <file src="img/stats/skin.png" />
+    <file src="img/stats/accessory.png" />
+    <file src="img/stats/business.png" />
+    <file src="img/stats/moto.png" />
+    <file src="img/stats/airplane.png" />
+    <file src="img/stats/vessel.png" />
+
+    <file src="img/buffs/alco1.png" />
+    <file src="img/buffs/alco2.png" />
+    <file src="img/buffs/alco3.png" />
+    <file src="img/buffs/alco4.png" />
+    <file src="img/buffs/disease.png" />
+    <file src="img/buffs/disease_resistance.png" />
+    <file src="img/buffs/drug1.png" />
+    <file src="img/buffs/drug2.png" />
+    <file src="img/buffs/drug3.png" />
+    <file src="img/buffs/drugs_discount.png" />
+    <file src="img/buffs/exp.png" />
+    <file src="img/buffs/fast_alco_fermentation.png" />
+    <file src="img/buffs/fast_hash_drying.png" />
+    <file src="img/buffs/food1.png" />
+    <file src="img/buffs/food2.png" />
+    <file src="img/buffs/food3.png" />
+    <file src="img/buffs/food4.png" />
+    <file src="img/buffs/food5.png" />
+    <file src="img/buffs/food6.png" />
+    <file src="img/buffs/food7.png" />
+    <file src="img/buffs/food8.png" />
+    <file src="img/buffs/food9.png" />
+    <file src="img/buffs/group_hp_increase.png" />
+    <file src="img/buffs/hide_nickname.png" />
+    <file src="img/buffs/increase_alco_cost.png" />
+    <file src="img/buffs/increase_drugs_time.png" />
+    <file src="img/buffs/increase_fist_damage.png" />
+    <file src="img/buffs/increase_hash_cost.png" />
+    <file src="img/buffs/increase_healing.png" />
+    <file src="img/buffs/increase_max_hp.png" />
+    <file src="img/buffs/increase_stamina.png" />
+    <file src="img/buffs/increase_stats.png" />
+    <file src="img/buffs/job_partner.png" />
+    <file src="img/buffs/moto_discount.png" />
+    <file src="img/buffs/order1.png" />
+    <file src="img/buffs/order2.png" />
+    <file src="img/buffs/partner.png" />
+    <file src="img/buffs/premium.png" />
+    <file src="img/buffs/reduce_jail_time.png" />
+    <file src="img/buffs/slowing_down_hunger.png" />
+    <file src="img/buffs/soft.png" />
+    <file src="img/buffs/tuning_discount.png" />
+    <file src="img/buffs/weapon_discount.png" />
+
+</meta>

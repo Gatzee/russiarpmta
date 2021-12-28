@@ -1,0 +1,46 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CUIClans.lua" type="client" />
+    <script src="CUIClans_TabInfo.lua" type="client" />
+    <script src="CUIClans_TabLeaderboard.lua" type="client" />
+    <script src="CUIClans_TabLevels.lua" type="client" />
+    <script src="CUIClans_TabRewards.lua" type="client" />
+    <script src="CUIClans_TabStats.lua" type="client" />
+    <script src="CUIClans_TabTasks.lua" type="client" />
+    <script src="CUIClans_TabCartelInfo.lua" type="client" />
+
+    <file src="img/btn_donate.png" />
+
+    <file src="img/info/btn_leave.png" />
+    <file src="img/info/btn_leave_hover.png" />
+    <file src="img/info/btn_marker.png" />
+    <file src="img/info/btn_marker_hover.png" />
+    <file src="img/info/btn_show_table.png" />
+
+    <file src="img/leaderboard/bg.png" />
+    <file src="img/leaderboard/bg_position.png" />
+    <file src="img/leaderboard/bg_position_big.png" />
+
+    <file src="img/levels/bg_1.png" />
+    <file src="img/levels/bg_2.png" />
+    <file src="img/levels/bg_3.png" />
+    <file src="img/levels/bg_unlocked.png" />
+    <file src="img/levels/icon_locked.png" />
+    <file src="img/levels/icon_unlocked.png" />
+
+    <file src="img/rewards/bg.png" />
+    <file src="img/rewards/bg_position.png" />
+    <file src="img/rewards/icon_cartel_war.png" />
+    <file src="img/rewards/icon_money.png" />
+    <file src="img/rewards/icon_weapon.png" />
+
+    <file src="img/stats/bg.png" />
+
+    <file src="img/tasks/bg.png" />
+    <file src="img/tasks/bg_circle.png" />
+    <file src="img/tasks/icon_honor.png" />
+    <file src="img/tasks/icon_time.png" />
+
+    <file src="img/cartel_info/info.png" />
+</meta>

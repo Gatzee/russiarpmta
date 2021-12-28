@@ -1,0 +1,9 @@
+<meta>
+	<script src="CBed.lua"			type="client" />
+	<script src="ShBed.lua"			type="shared" />
+	<script src="SBed.lua"			type="server" />
+	
+	<file src="files/sleep.ifp" />
+	
+	<oop>true</oop>
+</meta>

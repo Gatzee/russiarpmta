@@ -1,0 +1,20 @@
+
+<meta>
+	<oop>true</oop>
+	<script src="SDonate.lua" type="server" />
+	<script src="SPremium.lua" type="server" />
+	<script src="SSubscription.lua" type="server" />
+	<script src="SPayments.lua" type="server" />
+	<script src="SDonate_PaymentSelector.lua" type="server" />
+	<script src="SDonate_CustomMethods.lua" type="server" />
+
+	<script src="CDonate_CustomMethods.lua" type="client" />
+	
+	<export function="CheckClientID" type="server" http="true" />
+	<export function="onDonateRecieve" type="server" http="true" /> 
+	<export function="onPremiumRecieve" type="server" http="true" /> 
+	<export function="onSubscriptionRecieve" type="server" http="true" /> 
+	<export function="onPayment" type="server" http="true" /> 
+	
+	<export function="GetPaymentMethodsInfo" type="client" /> 
+</meta>

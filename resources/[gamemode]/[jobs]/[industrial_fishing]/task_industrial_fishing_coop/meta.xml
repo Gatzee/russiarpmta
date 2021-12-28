@@ -1,0 +1,30 @@
+<meta>
+	<script src="ShJobData.lua"  type="shared"/>
+	<script src="ShJobQuest.lua" type="shared"/>
+	
+	<script src="CJob_Quest.lua" type="client"/>
+	<script src="CDriverRole_Quest.lua" type="client"/>
+	<script src="CCoordinatorRole_Quest.lua" type="client"/>
+	<script src="CFisherManRole_Quest.lua" type="client"/>
+	<script src="CJob_Manipulator.lua" type="client"/>
+
+	<script src="SCoordinatorRole_Quest.lua" type="server"/>
+	<script src="SDriverRole_Quest.lua" type="server"/>
+	<script src="SFisherManRole_Quest.lua" type="server"/>
+	<script src="SJob_Quest.lua" type="server"/>
+	<script src="SJobAnalytics.lua" type="server"/>
+	<script src="SJobManipulator.lua" type="server"/>
+	<script src="SJob_Utils.lua" type="server"/>
+
+	<export function="GetQuestInfo" type="shared" />
+	<export function="GetQuestData" type="shared" />
+
+	<file src="sfx/move_manipulator.ogg" />
+	<file src="sfx/anchor.ogg" />
+
+	<file src="img/info_controls_coordinator.png" />
+	<file src="img/info_controls_fisherman.png" />
+	<file src="img/info_controls_pilot.png" />
+
+	<oop>true</oop>
+</meta>

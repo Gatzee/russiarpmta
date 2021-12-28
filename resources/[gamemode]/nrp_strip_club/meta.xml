@@ -1,0 +1,77 @@
+<meta>
+	<script src="CStripClub.lua"  type="client"/>
+	<script src="SStripClub.lua"  type="server"/>
+	<script src="ShStripClub.lua" type="shared"/>
+	
+	<script src="services/CWaitresses.lua"  type="client"/>
+
+	<script src="services/CStripClubTv.lua" type="client"/>
+	<script src="services/SStripClubTv.lua" type="server"/>
+
+	<script src="services/CBar.lua"   type="client"/>
+	<script src="services/CBarUI.lua" type="client"/>
+	<script src="services/SBar.lua"   type="server"/>
+
+	<script src="services/CPodium.lua" 	 type="client"/>
+	<script src="services/CPodiumUI.lua" type="client"/>
+	<script src="services/SPodium.lua" 	 type="server"/>
+
+	<script src="services/CPrivate.lua"   type="client"/>
+	<script src="services/CPrivateUI.lua" type="client"/>
+	<script src="services/SPrivate.lua"   type="server"/>
+
+	<file src="files/sfx/music_striptease_1.ogg" />
+	<file src="files/sfx/music_striptease_2.ogg" />
+	<file src="files/sfx/music_striptease_3.ogg" />
+
+	<file src="files/fx/blur.fx" />
+
+	<file src="files/ifp/strip_dance.ifp" />
+
+	<file src="files/img/marker.png" />
+	<file src="files/img/soft_icon.png" />
+	<file src="files/img/hard_icon.png" />
+	<file src="files/img/bg_tv.png" />
+	<file src="files/img/hud_icon.png" />
+	
+	<file src="files/img/bar/bg.png" />
+	<file src="files/img/bar/item_bg.png" />
+	<file src="files/img/bar/item_bg_hovered.png" />
+	<file src="files/img/bar/btn_buy.png" />
+	<file src="files/img/bar/btn_buy_hovered.png" />
+	<file src="files/img/bar/1.png" />
+	<file src="files/img/bar/2.png" />
+	<file src="files/img/bar/3.png" />
+	<file src="files/img/bar/4.png" />
+
+	<file src="files/img/podium/bg.png" />
+	<file src="files/img/podium/item_bg.png" />
+	<file src="files/img/podium/item_bg_hovered.png" />
+	<file src="files/img/podium/btn_pay.png" />
+	<file src="files/img/podium/btn_pay_hovered.png" />
+	<file src="files/img/podium/btn_buy.png" />
+	<file src="files/img/podium/btn_buy_hovered.png" />
+	<file src="files/img/podium/progress_active.png" />
+
+	<file src="files/img/private/bg.png" />
+	<file src="files/img/private/item_bg.png" />
+	<file src="files/img/private/item_bg_hovered.png" />
+	<file src="files/img/private/btn_buy.png" />
+	<file src="files/img/private/btn_buy_hovered.png" />
+	<file src="files/img/private/btn_pay.png" />
+	<file src="files/img/private/btn_pay_hovered.png" />
+	<file src="files/img/private/marker.png" />
+	
+	<file src="files/img/girls/harley.png" />
+	<file src="files/img/girls/big_harley.png" />
+	<file src="files/img/girls/domineering_sith.png" />
+	<file src="files/img/girls/big_domineering_sith.png" />
+	<file src="files/img/girls/faye_valentine.png" />
+	<file src="files/img/girls/big_faye_valentine.png" />
+	<file src="files/img/girls/poison_ivy.png" />
+	<file src="files/img/girls/big_poison_ivy.png" />
+	<file src="files/img/girls/common_dance.png" />
+	<file src="files/img/girls/big_common_dance.png" />
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,19 @@
+<meta>
+	<script src="CNametags.lua"	type="client" />
+
+	<file src="images/console.png" />
+	<file src="images/chat.png" />
+	<file src="images/voice.png" />
+
+	<file src="images/circle.png" />
+	<file src="images/circle_premium.png" />
+	<file src="images/corona.png" />
+
+	<file src="images/good.png" />
+	<file src="images/bad.png" />
+
+	<file src="images/rating_up.png" />
+	<file src="images/rating_down.png" />
+
+	<oop>true</oop>
+</meta>

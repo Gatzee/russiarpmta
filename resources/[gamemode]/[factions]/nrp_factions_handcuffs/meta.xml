@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="CHandcuffs.lua" type="client" />
+    <script src="SHandcuffs.lua" />
+
+    <export function="OnPlayerJailed" type="server" />
+
+    <file src="files/img/icon.png" />
+    <file src="files/ifp/next.ifp" />
+</meta>

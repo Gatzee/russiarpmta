@@ -1,0 +1,43 @@
+loadstring( exports.interfacer:extend( "Interfacer" ) )( )
+Extend( "Globals" )
+Extend( "ShHobby" )
+
+ROMAN_NUMBERS = { "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV" }
+
+FISHING_ROD = "fishing:rod"
+FISHING_BAIT = "fishing:bait"
+HUNTING_RIFFLE = "hunting:rifle"
+HUNTING_AMMO = "hunting:ammo"
+DIGGING_SHOVEL = "digging:shovel"
+
+PRIMARY_TOOLS = {
+	[HOBBY_FISHING] = FISHING_ROD,
+	[HOBBY_HUNTING] = HUNTING_RIFFLE,
+	[HOBBY_DIGGING] = DIGGING_SHOVEL,
+}
+PRIMARY_TOOLS_RESERSE = {}; for k, v in pairs( PRIMARY_TOOLS ) do PRIMARY_TOOLS_RESERSE[ v ] = k end
+
+SECONDARY_TOOLS = {
+	[HOBBY_FISHING] = FISHING_BAIT,
+	[HOBBY_HUNTING] = HUNTING_AMMO,
+}
+
+HOBBY_UNLOCKS = {
+	[HOBBY_FISHING] = 4,
+	[HOBBY_HUNTING] = 5,
+	[HOBBY_DIGGING] = 6,
+}
+
+WEIGHTS_LIST = {
+	[HOBBY_DIGGING] = { 3, 5 }
+}
+
+HOBBY_ITEM_CLASS_to_INV_ITEM_ID = {
+	[FISHING_ROD] = IN_HOBBY_FISHING_ROD,
+	[FISHING_BAIT] = IN_HOBBY_FISHING_BAIT,
+	[HUNTING_RIFFLE] = IN_HOBBY_HUNTING_RIFFLE,
+	[HUNTING_AMMO] = IN_HOBBY_HUNTING_AMMO,
+	[DIGGING_SHOVEL] = IN_HOBBY_DIGGING_SHOVEL,
+}
+
+INV_ITEM_ID_to_HOBBY_ITEM_CLASS = {}; for k, v in pairs( HOBBY_ITEM_CLASS_to_INV_ITEM_ID ) do INV_ITEM_ID_to_HOBBY_ITEM_CLASS[ v ] = k end

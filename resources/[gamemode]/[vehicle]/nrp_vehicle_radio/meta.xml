@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShRadio.lua" type="shared" />
+	<script src="CRadio.lua" type="client" />
+	<script src="SRadio.lua" type="server" />
+</meta>

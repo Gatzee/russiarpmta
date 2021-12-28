@@ -1,0 +1,2 @@
+Extend( "SPlayer" )
+Extend( "SClans" )

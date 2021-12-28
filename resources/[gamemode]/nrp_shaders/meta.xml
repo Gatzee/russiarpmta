@@ -1,0 +1,54 @@
+<meta>
+  <oop>true</oop>
+  <min_mta_version client="1.5.1" server="1.5.1" />
+  
+  <script src="client.lua" type="client" />
+  <script src="carpaint.lua" type="client" />
+
+  <script src="CShadersLUT.lua" type="client" />
+  <script src="CShadersSSAO.lua" type="client" />
+  <script src="CShadersSun.lua" type="client" />
+  <script src="CShadersSunInfo.lua" type="client" />
+  
+  <script src="matrix/complex.lua" type="client" />
+  <script src="matrix/matrix.lua" type="client" />
+  <script src="motionblur.lua" type="client" />
+  <script src="water.lua" type="client" />
+  <script src="detail.lua" type="client" />
+  
+  <file src="fx/mta-helper.fx" type="client" />
+
+  <file src="fx/car_refgrun.fx" type="client" />
+  <file src="fx/car_refgene.fx" type="client" />
+  <file src="fx/radial_blur.fx" type="client" />
+  <file src="fx/tex_water.fx" type="client" />
+  <file src="fx/detail.fx" type="client" />
+  <file src="fx/lut.fx" type="client" />
+  <file src="fx/ssao.fx" type="client" />
+  <file src="fx/water_rt.fx" type="client" />
+
+  <file src="fx/sun/bw.fx" type="client" />
+  <file src="fx/sun/godRayBase.fx" type="client" />
+  <file src="fx/sun/godrays.fx" type="client" />
+  <file src="fx/sun/lensflares.fx" type="client" />
+  <file src="fx/sun/sun.fx" type="client" />
+
+  <file src="images/smallnoise3d.dds" type="client" />
+  <file src="images/ColorRamp01.png" type="client" />
+  <file src="images/radial_mask.tga" type="client" />
+  <file src="images/wavemap.png" type="client" />
+  <file src="images/cube_env256.dds" type="client" />
+  <file src="images/lut.dds" type="client" />
+  <file src="images/lensflare_chroma.png" type="client" />
+  <file src="images/lensflare_dirt.png" type="client" />
+  
+  <file src="media/dirty.png" type="client" />
+  <file src="media/detail04.png" type="client" />
+  <file src="media/detail22.png" type="client" />
+  <file src="media/detail29.png" type="client" />
+  <file src="media/detail35T.png" type="client" />
+  <file src="media/detail55.png" type="client" />
+  <file src="media/detail58.png" type="client" />
+  <file src="media/detail63.png" type="client" />
+  <file src="media/detail68.png" type="client" />
+</meta>

@@ -1,0 +1,21 @@
+<meta>
+	<export function="GetQuestInfo" type="client" />
+
+    <script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+	<script src="CMinigames.lua" type="client"/>
+
+	<file src="img/hint1.png" />
+	<file src="img/hint2.png" />
+	<file src="img/hint3.png" />
+	<file src="img/hint_4.png" />
+
+	<file src="img/circle_new.png" />
+	<file src="img/empty_circle.png" />
+
+	<file src="sfx/remove_cover.mp3" />
+
+	<oop>true</oop>
+</meta>

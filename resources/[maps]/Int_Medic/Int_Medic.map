@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="hospital_door_1" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="435.291" posY="-1595.9" posZ="1021.24" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+    <object id="hospital_door_2" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="423.68" posY="-1606.18" posZ="1021.23" rotX="0.0" rotY="0.0" rotZ="180.0"></object>
+    <object id="hospital_door_3" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="425.096" posY="-1602.6" posZ="1021.23" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+    <object id="hospital_door_4" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="429.483" posY="-1602.6" posZ="1021.23" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+
+    <object id="hospital_door_5" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1962.444" posY="306.3" posZ="661.2" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="hospital_door_6" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1929.48" posY="315.1" posZ="661.25" rotX="0.0" rotY="0.0" rotZ="0.0"></object>
+
+    <object id="hospital_door_7" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1917.865" posY="304.82" posZ="661.22" rotX="0.0" rotY="0.0" rotZ="180.0"></object>
+
+    <object id="hospital_door_8" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1919.284" posY="308.42" posZ="661.21" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+
+    <object id="hospital_door_9" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="1923.665" posY="308.42" posZ="661.21" rotX="0.0" rotY="0.0" rotZ="90.0"></object>
+    <object id="hospital_door_10" property="{'type':2, 'fact_list': '1','rotate_obj_z': 90.0, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="1" alpha="255" model="17289" doublesided="false" scale="1" dimension="1" posX="468.265" posY="-1605.90" posZ="1021.21" rotX="0.0" rotY="0.0" rotZ="180.0"></object>
+</map>

@@ -1,0 +1,61 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="CAssemblyVehicle.lua" type="client" />
+    <script src="SAssemblyVehicle.lua" type="server" />
+    <script src="ShAssemblyVehicle.lua" type="shared" />
+    <script src="ShVehicle.lua" type="shared" />
+
+    <export function="CheckActiveAssemblyVehicleByPlace" type="client" />
+    <export function="CheckActiveAssemblyVehicleByPlace" type="server" />
+    <export function="GetAssemblyVehicleDetailById" type="shared" />
+    <export function="GiveAssemblyVehicleDetail" type="server" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_fast.png" />
+    <file src="img/info.png" />
+    <file src="img/installed.png" />
+
+    <file src="img/engine.png" />
+    <file src="img/engine_h.png" />
+
+    <file src="img/fuel_system.png" />
+    <file src="img/fuel_system_h.png" />
+
+    <file src="img/electrician.png" />
+    <file src="img/electrician_h.png" />
+
+    <file src="img/body.png" />
+    <file src="img/body_h.png" />
+
+    <file src="img/wheels.png" />
+    <file src="img/wheels_h.png" />
+
+    <file src="img/transmission.png" />
+    <file src="img/transmission_h.png" />
+
+    <file src="img/btn_task_h.png" />
+    <file src="img/btn_task_i.png" />
+    
+    <file src="img/btn_hide_h.png" />
+    <file src="img/btn_hide_i.png" />
+
+    <file src="img/btn_build_h.png" />
+    <file src="img/btn_build_i.png" />
+    
+    <file src="img/btn_buy_i.png" />
+    <file src="img/btn_buy_h.png" />
+    
+    <file src="img/btn_fast_build_h.png" />
+    <file src="img/btn_fast_build_i.png" />
+
+    <file src="img/btn_receive_h.png" />
+    <file src="img/btn_receive_i.png" />
+
+    <file src="img/inventory/engine.png" />
+    <file src="img/inventory/fuel_system.png" />
+    <file src="img/inventory/electrician.png" />
+    <file src="img/inventory/body.png" />
+    <file src="img/inventory/wheels.png" />
+    <file src="img/inventory/transmission.png" />
+</meta>

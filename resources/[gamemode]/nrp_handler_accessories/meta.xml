@@ -1,0 +1,8 @@
+<meta>
+	<script src="SAccessories.lua" type="server"/>
+	<script src="CAccessories.lua" type="client"/>
+
+	<export function="removeSubscriptionAccessories" type="server" />
+
+	<oop>true</oop>
+</meta>

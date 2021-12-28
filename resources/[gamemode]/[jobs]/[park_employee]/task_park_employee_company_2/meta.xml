@@ -1,0 +1,18 @@
+<meta>
+	<export function="GetQuestInfo" type="client" />
+
+    <script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+	<script src="CMinigames.lua" type="client"/>
+
+	<file src="img/hint1.png" />
+	<file src="sfx/water_on1.mp3" />
+
+	<file src="fx/mta-helper.fx" />
+	<file src="fx/grass.fx" />
+	<file src="img/texture1.png" />
+
+	<oop>true</oop>
+</meta>

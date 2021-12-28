@@ -1,0 +1,57 @@
+<meta>
+	<script src="CUIMenu.lua"				type="client" />
+	<script src="CTabMenuItems.lua"			type="client" />
+	<script src="CFactionRules.lua"			type="client" />
+	<script src="SMemberList.lua"			type="server" />
+	<script src="SReports.lua"				type="server" />
+	<script src="SFactionMegaphone.lua"		type="server" />
+	<script src="STransferFaction.lua"  	type="server" />
+
+    <export function="GetTransferData" type="server" />
+    <export function="GetCountFactionMemberList" type="server" />
+
+	<file src="images/button_close.png"/>
+	
+	<file src="images/bg.png"/>
+
+	<file src="images/list/top.png"/>
+	<file src="images/list/icon_control.png"/>
+
+	<file src="images/list/btn_invite.png"/>
+	<file src="images/list/btn_invite_hovered.png"/>
+	<file src="images/list/form_invite_bg.png"/>
+	
+	<file src="images/list/control/1.png"/>
+	<file src="images/list/control/2.png"/>
+	<file src="images/list/control/3.png"/>
+	<file src="images/list/control/4.png"/>
+	<file src="images/list/control/5.png"/>
+	<file src="images/list/control/6.png"/>
+
+	<file src="images/list/megaphone_help_msg.png"/>
+	<file src="images/list/bg_megaphone_msg.png"/>
+
+	<file src="images/list/btn_send.png"/>
+	<file src="images/list/btn_send_hovered.png"/>
+
+	<file src="images/list/red_info.png"/>
+
+	<file src="images/reports/arrow_right.png"/>
+	<file src="images/reports/bg.png"/>
+	<file src="images/reports/bg_h.png"/>
+	<file src="images/reports/btn_hide.png"/>
+	<file src="images/reports/btn_hide_h.png"/>
+	<file src="images/reports/circle.png"/>
+
+	<file src="images/shift_plan/bg_item.png"/>
+	<file src="images/shift_plan/bg_item_hovered.png"/>
+	<file src="images/shift_plan/circle.png"/>
+	<file src="images/shift_plan/reward_text.png"/>
+	<file src="images/shift_plan/desc_reward_text.png"/>
+	<file src="images/shift_plan/soft_icon.png"/>
+	<file src="images/shift_plan/btn_hide.png"/>
+	<file src="images/shift_plan/btn_hide_hovered.png"/>
+	<file src="images/shift_plan/progress_active.png"/>
+
+	<oop>true</oop>
+</meta>

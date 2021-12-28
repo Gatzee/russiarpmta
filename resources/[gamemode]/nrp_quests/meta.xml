@@ -1,0 +1,99 @@
+<meta>
+	<script src="SQuests.lua"				type="server"/>
+	<script src="SQuestUtils.lua"			type="server"/>
+
+	<script src="CQuests.lua"				type="client"/>
+	<script src="CUIQuestsList.lua"			type="client"/>
+	<script src="CUIQuestsInfo.lua"			type="client"/>
+	<script src="CQuestGenerator.lua"		type="client"/>
+	
+	<script src="ShDailyQuestList.lua"		type="shared"/>
+
+	<script src="tabs/CQuestTab_main.lua"	   type="client"/>
+	<script src="tabs/CQuestTab_daily.lua"	   type="client"/>
+	<script src="tabs/CQuestTab_available.lua" type="client"/>
+	<script src="tabs/CQuestTab_blocked.lua"   type="client"/>
+	<script src="tabs/CQuestTab_completed.lua" type="client"/>
+
+	<file src="files/dialog_bg.png"/>
+	<file src="files/button_apply_idle.png"/>
+	<file src="files/button_apply_hover.png"/>
+	<file src="files/button_apply_click.png"/>
+
+	<file src="images/menu/bg.png"/>
+	<file src="images/menu/btn_start.png"/>
+	<file src="images/menu/btn_start_hovered.png"/>
+	<file src="images/menu/btn_stop.png"/>
+	<file src="images/menu/btn_stop_hovered.png"/>
+	<file src="images/menu/task_completed.png"/>
+	<file src="images/menu/circle.png"/>
+	<file src="images/menu/icon_indicator_new.png"/>
+	<file src="images/menu/lock.png"/>
+	<file src="images/menu/item.png"/>
+	<file src="images/menu/item_hovered.png"/>
+	<file src="images/menu/item_box.png"/>
+	<file src="images/menu/item_box_hovered.png"/>
+	<file src="images/menu/arrow_icon.png"/>
+	<file src="images/menu/clock_icon.png"/>
+	<file src="images/menu/reward_text.png"/>
+	<file src="images/menu/reward_icon.png"/>
+	<file src="images/menu/ring.png"/>
+
+	<file src="images/menu/btn_hide.png"/>
+	<file src="images/menu/btn_hide_hovered.png"/>
+	
+	<file src="images/menu/btn_cancel.png"/>
+	<file src="images/menu/btn_cancel_hovered.png"/>
+
+	<file src="images/menu/btn_restart.png"/>
+	<file src="images/menu/btn_restart_hovered.png"/>
+
+	<file src="images/rewards/soft.png"/>
+	<file src="images/rewards/money.png"/>
+	<file src="images/rewards/money_hard_test.png"/>
+	<file src="images/rewards/exp.png"/>
+	<file src="images/rewards/car_discount.png"/>
+	<file src="images/rewards/hard.png"/>
+	<file src="images/rewards/donate.png"/>
+	<file src="images/rewards/repairbox.png"/>
+	<file src="images/rewards/canister.png"/>
+	<file src="images/rewards/rand_tuning.png"/>
+	<file src="images/rewards/premium.png"/>
+	<file src="images/rewards/package_start.png"/>
+	<file src="images/rewards/firstaid.png"/>
+	<file src="images/rewards/wof_coin_gold.png"/>
+
+	<file src="images/fail_bg.png"/>
+	<file src="images/text_failed_effect.png"/>
+	<file src="images/text_success_effect.png"/>
+
+	<file src="images/success_bg.png"/>
+	<file src="images/help_text.png"/>
+	<file src="images/btn_ok.png"/>
+	<file src="images/btn_ok_hovered.png"/>
+	<file src="images/reward_texture_bg.png"/>
+	<file src="images/reward_box.png"/>
+
+	<file src="images/btn_navigate_i.png"/>
+	<file src="images/btn_navigate_h.png"/>
+
+	<file src="images/arrow_d.png"/>
+
+	<file src="sounds/mission_completed.wav" />
+	<file src="sounds/mission_fail.wav"/>
+
+	<file src="sounds/dance.mp3"/>
+	<file src="sounds/driver.mp3"/>
+	<file src="sounds/military.mp3"/>
+	<file src="sounds/bttf.mp3"/>
+	<file src="sounds/9may.mp3"/>
+
+	<file src="fx/circle.fx" />
+
+	<export function="ShowDialogMessage" type="client" />
+	<export function="GetQuestInfo" type="client" />
+	<export function="GetQuestNPC" type="client" />
+	<export function="IsLastStartedQuestFailure" type="client" />
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<script src="ShVehicleAttach.lua"		type="shared"/>
+	<script src="CVehicleAttach.lua"		type="client"/>
+	<script src="SVehicleAttach.lua"		type="server"/>
+
+	<oop>true</oop>
+</meta>

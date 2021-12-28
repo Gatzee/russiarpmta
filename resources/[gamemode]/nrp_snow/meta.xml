@@ -1,0 +1,11 @@
+<meta>
+	<oop>true</oop>
+	<script src="CSnow.lua" type="client" />
+	<file src="fx/snow.fx" />
+
+	<script src="CSnow3D.lua" type="client" />
+	<file src="files/snow.dff" />
+	<file src="files/snow.col" />
+	<file src="files/snow.txd" />
+	<file src="files/snow.png" />
+</meta>

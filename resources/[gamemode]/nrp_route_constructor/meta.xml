@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShRoutes.lua" type="shared" />
+    <script src="CRoutes.lua" type="client" />
+    <script src="SRoutes.lua" />
+
+    <export function="GetRandomRoute" type="client" />
+    <export function="GetRoute" type="client" />
+</meta>

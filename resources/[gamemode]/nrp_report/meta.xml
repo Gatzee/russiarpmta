@@ -1,0 +1,28 @@
+<meta>
+    
+    <script src="CReport.lua" type="client" />    
+    <script src="CReportRating.lua" type="client" />    
+    <script src="SReport.lua" type="server" />
+    
+    <file src="img/bg_container.png" />
+    
+    <file src="img/btn_send.png" />
+    <file src="img/btn_send_hovered.png" />
+
+    <file src="img/btn_reason.png" />
+    <file src="img/btn_reason_hovered.png" />
+
+    <file src="img/btn_item_start.png" />
+    <file src="img/btn_item.png" />
+    <file src="img/btn_item_end.png" />
+
+    <file src="img/btn_item_start_hovered.png" />
+    <file src="img/btn_item_hovered.png" />
+    <file src="img/btn_item_end_hovered.png" />
+
+    <file src="img/btn_circle.png" />
+
+    <file src="index.html" />
+
+    <oop>true</oop>
+</meta>

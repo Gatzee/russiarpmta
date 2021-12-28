@@ -1,0 +1,72 @@
+<meta>
+	<script src="CUIWardrobe.lua"			type="client" />
+	<script src="SWardrobe.lua"				type="server" />
+
+
+	<file src="images/marker.png" />
+
+	<file src="images/accessory_slot_bg.png" />
+	<file src="images/accessory_slot_bg_selected.png" />
+
+	<file src="images/btn_exit_i.png" />
+	<file src="images/btn_exit_h.png" />
+	<file src="images/btn_exit_c.png" />
+
+	<file src="images/btn_back_i.png" />
+	<file src="images/btn_back_h.png" />
+	<file src="images/btn_back_c.png" />
+
+	<file src="images/btn_puton_i.png" />
+	<file src="images/btn_puton_h.png" />
+	<file src="images/btn_puton_c.png" />
+
+	<file src="images/btn_takeoff_i.png" />
+	<file src="images/btn_takeoff_h.png" />
+	<file src="images/btn_takeoff_c.png" />
+
+	<file src="images/btn_takeoff_all_i.png" />
+	<file src="images/btn_takeoff_all_h.png" />
+	<file src="images/btn_takeoff_all_c.png" />
+
+	<file src="images/btn_edit_i.png" />
+	<file src="images/btn_edit_h.png" />
+	<file src="images/btn_edit_c.png" />
+
+	<file src="images/edit_a_pos_i.png" />
+	<file src="images/edit_a_pos_h.png" />
+	<file src="images/edit_a_pos_c.png" />
+
+	<file src="images/edit_a_scale_i.png" />
+	<file src="images/edit_a_scale_h.png" />
+	<file src="images/edit_a_scale_c.png" />
+
+	<file src="images/edit_a_rot_i.png" />
+	<file src="images/edit_a_rot_h.png" />
+	<file src="images/edit_a_rot_c.png" />
+
+	<file src="images/edit_a_save_i.png" />
+	<file src="images/edit_a_save_h.png" />
+	<file src="images/edit_a_save_c.png" />
+
+	<file src="images/edit_a_exit_i.png" />
+	<file src="images/edit_a_exit_h.png" />
+	<file src="images/edit_a_exit_c.png" />
+
+	<file src="images/edit_a_arrow.png" />
+
+	<file src="images/btn_tab_clothes.png" />
+	<file src="images/btn_tab_accessories.png" />
+
+	<file src="images/rotate_hover.png" />
+	<file src="images/rotate_clicked.png" />
+
+	<file src="images/slot_bg.png" />
+	<file src="images/slot_bg_selected.png" />
+	<file src="images/clothes_icon.png" />
+	
+	<file src="images/okey_icon.png" />
+	<file src="images/arrow.png" />
+	
+
+	<oop>true</oop>
+</meta>

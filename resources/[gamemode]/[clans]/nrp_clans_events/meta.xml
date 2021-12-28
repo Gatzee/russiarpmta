@@ -1,0 +1,36 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="SClansEvents.lua" />
+    <script src="SClansEventsPartyMaker.lua" />
+    <script src="SClansEventUtils.lua" />
+    <script src="CClansEvents.lua" type="client" />
+    <script src="CUIClansEventsResult.lua" type="client" />
+
+    <script src="ShClansEvents.lua" type="shared" />
+
+    <!-- <file src="files/img/bg.png" />
+    <file src="files/img/bg_game_1.png" />
+    <file src="files/img/bg_game_2.png" />
+    <file src="files/img/bg_game_3.png" />
+    <file src="files/img/btn_close.png" />
+    <file src="files/img/btn_join.png" />
+    <file src="files/img/btn_join_hover.png" />
+    <file src="files/img/btn_leave.png" />
+    <file src="files/img/btn_leave_hover.png" />
+    <file src="files/img/btn_register.png" />
+    <file src="files/img/btn_register_hover.png" />
+    <file src="files/img/icon_game_1.png" />
+    <file src="files/img/icon_game_2.png" />
+    <file src="files/img/icon_game_3.png" />
+    <file src="files/img/icon_game_1_hover.png" />
+    <file src="files/img/icon_game_2_hover.png" />
+    <file src="files/img/icon_game_3_hover.png" /> -->
+
+    <file src="img/bg_clan_tag.png" />
+    <file src="img/bg_lose.png" />
+    <file src="img/bg_win.png" />
+
+    <export function="GetEventConfigs" type="shared" />
+    <export function="CreateLobby" type="shared" />
+</meta>

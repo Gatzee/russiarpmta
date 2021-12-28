@@ -1,0 +1,20 @@
+<meta>
+	<script src="ShJobQuest.lua" type="shared"/>
+	<script src="CJob_Quest.lua" type="client"/>
+	<script src="SJob_Quest.lua" type="server"/>
+
+	<script src="ShJobData.lua" 	   type="shared"/>
+	<script src="CJob_Manipulator.lua" type="client"/>
+	<script src="SJobManipulator.lua"  type="server"/>
+	<script src="SJob_DpsRequest.lua"  type="server"/>
+	<script src="SJobAnalytics.lua"    type="server"/>
+	<script src="SJob_Vehicles.lua"    type="server"/>
+
+	<export function="GetQuestInfo" type="shared" />
+	<export function="GetQuestData" type="shared" />
+
+	<file src="img/info_controls_manipulator.png" />
+	<file src="sfx/move_manipulator.ogg" />
+
+	<oop>true</oop>
+</meta>

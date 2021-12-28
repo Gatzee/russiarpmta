@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="CApartmentsDiscount.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/1.png" />
+    <file src="img/2.png" />
+    <file src="img/3.png" />
+</meta>

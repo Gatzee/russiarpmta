@@ -1,0 +1,36 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOfferLastWealth.lua" type="shared"/>
+
+    <script src="COfferLastWealth_Core.lua"     type="client"/>
+    <script src="COfferLastWealth_UI.lua"       type="client"/>
+     <script src="COfferLastWealth_Browser.lua" type="client"/>
+    
+    <script src="SOfferLastWealth_Core.lua"      type="server"/>
+    <script src="SOfferLastWealth_Utils.lua"     type="server"/>
+    <script src="SOfferLastWealth_Analytics.lua" type="server"/>
+
+    <file src="img/bg.png"/>
+    <file src="img/bg_header.png"/>
+    <file src="img/bg_x2.png"/>
+    <file src="img/bg_x2_5.png"/>
+    <file src="img/bg_x2_75.png"/>
+    <file src="img/bg_x3.png"/>
+    <file src="img/hard.png"/>
+    <file src="img/btn_buy.png"/>
+    <file src="img/btn_buy_hover.png"/>
+    <file src="img/mul_title.png"/>
+    <file src="img/point.png"/>
+    <file src="img/task_completed.png"/>
+    <file src="img/task_current.png"/>
+    <file src="img/task_uncompleted.png"/>
+    <file src="img/timer.png"/>
+    <file src="img/available_task.png"/>
+    <file src="img/completed_task.png"/>
+    <file src="img/x2_icon.png"/>
+    <file src="img/x2_5_icon.png"/>
+    <file src="img/x2_75_icon.png"/>
+    <file src="img/x3_icon.png"/>
+    <file src="img/arrow.png"/>
+</meta>

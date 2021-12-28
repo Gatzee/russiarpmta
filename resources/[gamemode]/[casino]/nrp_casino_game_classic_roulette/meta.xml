@@ -1,0 +1,74 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="CRoulette.lua"         type="client" />
+    <script src="CRoulette_Core.lua"    type="client" />
+    <script src="CRoulette_Objects.lua" type="client" />
+    <script src="CRoulette_UI.lua"      type="client" />
+    <script src="CRoulette_Utils.lua"   type="client" />
+    
+    <script src="SCRoulette.lua"           type="server" />
+    <script src="SCRoulette_Core.lua"      type="server" />
+    <script src="SCRoulette_Utils.lua"     type="server" />
+    <script src="SCRoulette_Analytics.lua" type="server" />
+    <script src="ShCRoulette.lua"          type="shared" />
+
+    <file src="img/chip_soft_1.png" />
+    <file src="img/chip_soft_2.png" />
+    <file src="img/chip_soft_3.png" />
+    <file src="img/chip_soft_4.png" />
+    <file src="img/chip_soft_5.png" />
+    <file src="img/chip_soft_6.png" />
+    <file src="img/chip_soft_1_active.png" />
+    <file src="img/chip_soft_2_active.png" />
+    <file src="img/chip_soft_3_active.png" />
+    <file src="img/chip_soft_4_active.png" />
+    <file src="img/chip_soft_5_active.png" />
+    <file src="img/chip_soft_6_active.png" />
+
+    <file src="img/chip_hard_1.png" />
+    <file src="img/chip_hard_2.png" />
+    <file src="img/chip_hard_3.png" />
+    <file src="img/chip_hard_4.png" />
+    <file src="img/chip_hard_5.png" />
+    <file src="img/chip_hard_6.png" />
+    <file src="img/chip_hard_1_active.png" />
+    <file src="img/chip_hard_2_active.png" />
+    <file src="img/chip_hard_3_active.png" />
+    <file src="img/chip_hard_4_active.png" />
+    <file src="img/chip_hard_5_active.png" />
+    <file src="img/chip_hard_6_active.png" />
+
+    <file src="img/bg_top.png" />
+    <file src="img/bg_balance.png" />
+    <file src="img/btn_top_up_balance.png" />
+    <file src="img/timer_icon.png" />
+    <file src="img/bg_progress_bar.png" />
+    <file src="img/btn_exit.png" />
+    <file src="img/btn_exit_hovered.png" />
+    <file src="img/bg_reward_size.png" />
+    <file src="img/btn_close.png" />
+    <file src="img/bg_green.png" />
+    <file src="img/bg_red.png" />
+    <file src="img/green_text_effect.png" />
+    <file src="img/red_text_effect.png" />
+    <file src="img/reward_text_effect.png" />
+    <file src="img/block_reward.png" />
+    <file src="img/text_rate_on.png" />
+    <file src="img/text_rate_off.png" />
+    <file src="img/soft.png" />
+    <file src="img/hard.png" />
+    <file src="img/big_soft.png" />
+    <file src="img/big_hard.png" />
+    <file src="img/btn_ok.png" />
+    <file src="img/btn_ok_hovered.png" />
+    <file src="img/line.png" />
+    <file src="img/black_cell.png" />
+    <file src="img/red_cell.png" />
+    <file src="img/green_cell.png" />
+    <file src="img/hint1.png" />
+
+    <file src="sfx/chip_sound.mp3" />
+    <file src="sfx/ball_sound.mp3" />
+    <file src="sfx/bg_vip_sound.ogg" />
+</meta>

@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="546.90002" posY="-782.20001" posZ="20.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (2)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-432.29999" posY="-795.70001" posZ="20.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (3)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-505" posY="-975.79999" posZ="20.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (4)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="573.5" posY="-1191.3" posZ="20.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (5)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="101.6" posY="-1779.7" posZ="20.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (6)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-1956.6" posY="-1111.8" posZ="20.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (7)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-1973.1" posY="-1030.3" posZ="20.5" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (8)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-2407.3" posY="-740.90002" posZ="26.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (9)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-2769.8999" posY="107.6" posZ="18.8" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (cylinder) (10)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="-2686.3999" posY="143.5" posZ="18.8" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

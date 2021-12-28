@@ -1,0 +1,23 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShPlayer.lua" type="shared" />
+
+	<script src="SPlayer_Login.lua" />
+	<script src="SPlayer_Spawn.lua" />
+	<script src="SPlayer_Data.lua" />
+	<script src="SPlayer_DataGlobal.lua" />
+	<script src="SPlayer_Cleanup.lua" />
+
+	<script src="CPlayer_Login.lua" type="client" />
+	<script src="CPlayer.lua" type="client" />
+	<script src="CPlayer_Spawn.lua" type="client" />
+	<script src="CPlayer_Data.lua" type="client" />
+
+	<export function="GetPermanentData" type="server" />
+	<export function="GetBatchPermanentData" type="server" />
+	<export function="GetAllPermanentData" type="server" />
+	<export function="GetGlobalData" type="server" />
+	<export function="SetGlobalData" type="server" />
+
+	<download_priority_group>100</download_priority_group>
+</meta>

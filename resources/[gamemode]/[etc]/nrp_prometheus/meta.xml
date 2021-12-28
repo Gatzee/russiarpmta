@@ -1,0 +1,18 @@
+<meta>
+    <oop>true</oop>
+    <!-- All metrics logic -->
+    <script src="SPrometheusPerformanceStats.lua" type="server" />
+    <script src="SPrometheusPlayerStats.lua" type="server" />
+    <script src="SPrometheusSQLStats.lua" type="server" />
+
+    <!-- Main class and utils -->
+    <script src="SPrometheusUtils.lua" type="server" />
+    <script src="SPrometheusMetricGrabber.lua" type="server" />
+
+    <!-- Required for showing metrics into web -->
+    <script src="SPrometheus.lua" type="server" />
+
+    <!-- Web part -->
+    <html src="stats.html" default="true" />
+    <export function='GetMetrics' http='true' />
+</meta>

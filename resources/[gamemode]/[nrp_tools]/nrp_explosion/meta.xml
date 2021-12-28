@@ -1,0 +1,5 @@
+<meta>
+    <oop>true</oop>
+    <script src="CExplosion.lua" type="client" />
+    <script src="SExplosion.lua" />
+</meta>

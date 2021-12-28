@@ -1,0 +1,22 @@
+<meta>
+
+    <script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="CMinigame.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+	<file src="img/hint1.png" />
+	<file src="img/hint2.png" />
+	<file src="img/hint3.png" />
+	<file src="img/hint4.png" />
+	<file src="img/hint5.png" />
+	<file src="img/hint6.png" />
+
+	<file src="img/stock.png" />
+	<file src="img/wait.png" />
+	<file src="img/wood.png" />
+	
+	<file src="sfx/hit_blow.mp3" />
+	
+	<oop>true</oop>
+</meta>

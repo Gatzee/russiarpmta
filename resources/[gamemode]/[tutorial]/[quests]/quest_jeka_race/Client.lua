@@ -1,0 +1,10 @@
+loadstring( exports.interfacer:extend( "Interfacer" ) )( )
+Extend( "ShVehicle" )
+Extend( "CQuest" )
+Extend( "CActionTasksUtils" )
+Extend( "CUI" )
+Extend( "CAI" )
+
+addEventHandler( "onClientResourceStart", resourceRoot, function( )
+	CQuest( QUEST_DATA )
+end )

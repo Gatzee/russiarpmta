@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+    <script src="CTaser.lua" type="client" />
+    <script src="STaser.lua" />
+
+    <file src="files/img/beam.png" />
+    <file src="files/sound/taser.mp3" />
+    <file src="files/sound/heartbeat.mp3" />
+    <file src="files/mdl/taser.dff" />
+    <file src="files/mdl/taser.txd" />
+</meta>

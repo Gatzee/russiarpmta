@@ -1,0 +1,43 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="ShChatHandler.lua"           type="shared" />
+
+	<script src="CChatHandler_Core.lua"       type="client" />
+	<script src="CChatHandler_Controller.lua" type="client" />
+
+	<script src="CChatHandler_UI.lua"         type="client" />
+	<script src="CChatHandler_Message.lua"    type="client" />
+	<script src="CChatHandler_Private.lua"    type="client" />
+	<script src="CChatHandler_Setting.lua"    type="client" />
+
+	<script src="SChatHandler_Core.lua"  type="server" />
+	<script src="SChatHandler_Utils.lua" type="server" />
+
+	<export function="IsPrivateChatExist" type="client" />
+
+	<file src="img/bg_container.png" />
+	<file src="img/bg_setting.png" />
+	<file src="img/btn_send.png" />
+
+	<file src="img/btn_setting.png" />
+	<file src="img/btn_setting_hovered.png" />
+
+	<file src="img/btn_question.png" />
+	<file src="img/btn_question_hovered.png" />
+		
+	<file src="img/tab_active.png" />
+	<file src="img/tab_passive.png" />
+	<file src="img/tab_dummy.png" />
+
+	<file src="img/btn_more.png" />
+	<file src="img/btn_more_hovered.png" />
+	<file src="img/btn_more_dummy.png" />
+
+	<file src="img/btn_list_hovered.png" />
+	<file src="img/icon_triangle.png" />
+
+	<file src="img/rectangle.png" />
+	<file src="img/check.png" />
+	<file src="img/arrow.png" />
+</meta>

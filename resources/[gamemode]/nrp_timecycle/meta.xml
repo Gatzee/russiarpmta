@@ -1,0 +1,4 @@
+<meta>
+  <script src="STimecycle.lua" />
+  <script src="CTimecycle.lua" type="client" />
+</meta>

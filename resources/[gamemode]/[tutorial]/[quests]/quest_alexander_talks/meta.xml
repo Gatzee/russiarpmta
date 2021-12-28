@@ -1,0 +1,12 @@
+<meta>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+	<script src="Shared.lua"				type="shared"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+	<file src="paths/path_enemy.txt" />
+	<file src="paths/path_miss.txt" />
+
+	<oop>true</oop>
+</meta>

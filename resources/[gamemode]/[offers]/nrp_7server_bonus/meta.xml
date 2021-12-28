@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+    <script src="S7serverBonus.lua" />
+    <script src="C7serverBonus.lua" type="client" />
+    <script src="C7serverBonus_Reward.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/brush.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/money_big.png" />
+</meta>

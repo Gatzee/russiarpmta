@@ -1,0 +1,17 @@
+<meta>
+    <oop>true</oop>
+    <script src="CSmartwatch.lua" type="client" />
+    <script src="SSmartwatch.lua" />
+
+    <file src="img/bg.png" />
+    <file src="img/bottom.png" />
+    <file src="img/btn_add.png" />
+    <file src="img/btn_add_active.png" />
+    <file src="img/btn_edit.png" />
+    <file src="img/btn_edit_active.png" />
+    <file src="img/delete.png" />
+    <file src="img/middle.png" />
+    <file src="img/upper.png" />
+    <file src="img/overlay.png" />
+    <file src="img/mask.png" />
+</meta>

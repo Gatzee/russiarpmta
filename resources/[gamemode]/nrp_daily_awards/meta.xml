@@ -1,0 +1,101 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="ShDailyAwards.lua" type="shared" />
+    <script src="ShRewardsList.lua" type="shared" />
+    
+    <script src="SDailyAwards.lua" type="server" />
+    <script src="SRewardSequence.lua" type="server" />
+    <script src="STempVehicles.lua" type="server" />
+    
+    <script src="CUIDailyAwards.lua" type="client" />
+    <script src="CUIMain.lua" type="client" />
+    <script src="CUIVehicleSale.lua" type="client" />
+    <script src="CUISelector.lua" type="client" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bg_selector.png" />
+    <file src="files/img/btn_apply.png" />
+    <file src="files/img/btn_buy.png" />
+    <file src="files/img/btn_select.png" />
+    <file src="files/img/btn_take.png" />
+    <file src="files/img/close.png" />
+    <file src="files/img/day.png" />
+    <file src="files/img/gradient.png" />
+    <file src="files/img/icon_check_blue.png" />
+    <file src="files/img/icon_check_green.png" />
+    <file src="files/img/icon_crown.png" />
+    <file src="files/img/icon_crown_bg.png" />
+    <file src="files/img/icon_crown_big.png" />
+    <file src="files/img/btn_extend.png" />
+
+    <file src="files/img/bg_rules.png" />
+    <file src="files/img/btn_rules.png" />
+    <file src="files/img/btn_hide.png" />
+
+    <file src="files/img/icon_timer.png" />
+
+    <file src="files/img/items/accessories/coffer.png" />
+    <file src="files/img/items/accessories/glasses1.png" />
+    <file src="files/img/items/accessories/guitar1.png" />
+    <file src="files/img/items/accessories/cap4.png" />
+    <file src="files/img/items/accessories/guitar3.png" />
+    <file src="files/img/items/accessories/mask_mick.png" />
+    <file src="files/img/items/accessories/cylinder_hat.png" />
+    <file src="files/img/items/accessories/m3_acse03.png" />
+    <file src="files/img/items/accessories/m3_acse06.png" />
+    <file src="files/img/items/accessories/m3_acse14.png" />
+    <file src="files/img/items/accessories/scarf_deserted_r.png" />
+    <file src="files/img/items/accessories/cap3.png" />
+    <file src="files/img/items/accessories/glasses3.png" />
+    <file src="files/img/items/accessories/m3_acse11.png" />
+    <file src="files/img/items/accessories/m3_acse13.png" />
+    <file src="files/img/items/accessories/mask_red.png" />
+    <file src="files/img/items/accessories/wreath.png" />
+    <file src="files/img/items/coin.png" />
+    <file src="files/img/items/coin_gold.png" />
+    <file src="files/img/items/exp.png" />
+    <file src="files/img/items/firstaid.png" />
+    <file src="files/img/items/fuel.png" />
+    <file src="files/img/items/money.png" />
+    <file src="files/img/items/plus_one.png" />
+    <file src="files/img/items/premium.png" />
+    <file src="files/img/items/repairbox.png" />
+    <file src="files/img/items/food.png" />
+    <file src="files/img/items/x2.png" />
+    <file src="files/img/items/skins/9.png" />
+    <file src="files/img/items/skins/15.png" />
+    <file src="files/img/items/skins/24.png" />
+    <file src="files/img/items/skins/47.png" />
+    <file src="files/img/items/skins/70.png" />
+    <file src="files/img/items/skins/78.png" />
+    <file src="files/img/items/skins/89.png" />
+    <file src="files/img/items/skins/91.png" />
+    <file src="files/img/items/skins/94.png" />
+    <file src="files/img/items/skins/103.png" />
+    <file src="files/img/items/skins/111.png" />
+    <file src="files/img/items/skins/112.png" />
+    <file src="files/img/items/skins/113.png" />
+    <file src="files/img/items/skins/127.png" />
+    <file src="files/img/items/skins/130.png" />
+    <file src="files/img/items/skins/161.png" />
+    <file src="files/img/items/skins/163.png" />
+    <file src="files/img/items/skins/164.png" />
+    <file src="files/img/items/skins/177.png" />
+    <file src="files/img/items/skins/185.png" />
+    <file src="files/img/items/skins/192.png" />
+    <file src="files/img/items/skins/199.png" />
+    <file src="files/img/items/skins/214.png" />
+    <file src="files/img/items/skins/263.png" />
+    <file src="files/img/items/skins/278.png" />
+    <file src="files/img/items/skins/280.png" />
+    <file src="files/img/items/skins/287.png" />
+    <file src="files/img/items/skins/292.png" />
+    <file src="files/img/items/vinyls/1.png" />
+    <file src="files/img/items/vinyls/2.png" />
+    <file src="files/img/items/vinyls/6.png" />
+    <file src="files/img/items/vinyls/7.png" />
+
+    <file src="files/img/vehicles/bg.png" />
+    <file src="files/img/vehicles/btn_gps.png" />
+</meta>

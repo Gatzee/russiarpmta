@@ -1,0 +1,34 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShAlcoFactory.lua" type="shared" />
+
+    <script src="CAlcoFactory.lua" type="client" />
+    <script src="CAlcoFactoryUI.lua" type="client" />
+    <script src="CAlcoBottlesCollecting.lua" type="client" />
+    <script src="CAlcoBottlesWashing.lua" type="client" />
+
+    <script src="SAlcoFactory.lua" type="server" />
+    <script src="SAlcoBottles.lua" type="server" />
+
+
+    <file src="img/marker_factory.png" />
+    <file src="img/marker_washing.png" />
+    <file src="img/btn_start.png" />
+    <file src="img/btn_start_h.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/btn_takeall.png" />
+    <file src="img/icon_alco.png" />
+    <file src="img/icon_star.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/slot_free.png" />
+    <file src="img/slot_in_progress.png" />
+    <file src="img/slot_locked.png" />
+    <file src="img/slot_not_started.png" />
+    <file src="img/slot_ready.png" />
+
+    <file src="img/washing/bg.png" />
+    <file src="img/washing/btn_start.png" />
+    <file src="img/washing/btn_start_h.png" />
+
+</meta>

@@ -1,0 +1,1 @@
+engineLoadIFP( "animation/suicide.ifp", "CASINO_ROULETTE" )

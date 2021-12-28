@@ -1,0 +1,198 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShTuningShop.lua" type="shared" />
+    
+    <script src="STuningShop.lua" />
+    <script src="STuningShop_Purchase.lua" />
+    <script src="STuningShop_PurchaseParts.lua" />
+    <script src="STuningShop_PurchaseVinyls.lua" />
+    <script src="STuningShop_Neons.lua" />
+
+    <script src="CTuningShop.lua" type="client" />
+
+    <script src="CTuningShop_Interface.lua" type="client" />
+    <script src="CTuningShop_Back.lua" type="client" />
+    <script src="CTuningShop_Sidebar.lua" type="client" />
+    <script src="CTuningShop_SidebarControls.lua" type="client" />
+    <script src="CTuningShop_Bottombar.lua" type="client" />
+    <script src="CTuningShop_Parts.lua" type="client" />
+    <script src="CTuningShop_PartsSell.lua" type="client" />
+    <script src="CTuningShop_PartsDragging.lua" type="client" />
+    <script src="CTuningShop_Vehicle.lua" type="client" />
+    <script src="CTuningShop_Map.lua" type="client" />
+    <script src="CTuningShop_Inventory.lua" type="client" />
+    <script src="CTuningShop_Bottomcart.lua" type="client" />
+    <script src="CTuningShop_Cart.lua" type="client" />
+    <script src="CTuningShop_CartControls.lua" type="client" />
+    <script src="CTuningShop_Colorpicker.lua" type="client" />
+    <script src="CTuningShop_Colorlist.lua" type="client" />
+    <script src="CTuningShop_HUD.lua" type="client" />
+    <script src="CTuningShop_Cases.lua" type="client" />
+    <script src="CTuningShop_Numbers.lua" type="client" />
+    <script src="CTuningShop_Triangle.lua" type="client" />
+    <script src="CTuningShop_WheelsEditor.lua" type="client" />
+    <script src="CTuningShop_Neons.lua" type="client" />
+
+    <script src="vinyl_setting/CTuningShop_VinylController.lua" type="client"/>
+    <script src="vinyl_setting/CTuningShop_VinylMenu.lua"       type="client"/>
+    <script src="vinyl_setting/CTuningShop_VinylPosition.lua"   type="client"/>
+    <script src="vinyl_setting/CTuningShop_VinylRotation.lua"   type="client"/>
+    <script src="vinyl_setting/CTuningShop_VinylSize.lua"       type="client"/>
+    <script src="vinyl_setting/CTuningShop_VinylColor.lua"      type="client"/>
+    <script src="vinyl_setting/STuningShop_VinylApply.lua"      type="server"/>
+
+    <script src="CTuningShop_Vinyls.lua" type="client" />
+    <script src="CTuningShop_VinylsDragging.lua" type="client" />
+    <script src="CTuningShop_VinylInventory.lua" type="client" />
+    <script src="CTuningShop_VinylCases.lua" type="client" />
+    <script src="CTuningShop_VinylSell.lua" type="client" />
+    <script src="ShTuningShop_VinylSlots.lua" type="shared" />
+
+    <!-- export function -->
+    <export function="generateTriangleTexture" type="client" />
+    <export function="ApplyDiscount" type="shared" />
+
+    <!-- Поддержка квестов -->
+    <script src="CTuningShop_QuestPreview.lua" type="client" />
+    <script src="CTuningShop_RecolorQuestPreview.lua" type="client" />
+
+    <file src="sfx/music_tuning.ogg" />
+    <file src="sfx/install1.mp3" />
+    <file src="sfx/remove1.mp3" />
+    <file src="sfx/sell1.mp3" />
+    <file src="sfx/spray.mp3" />
+
+    <file src="img/image.png" />
+    <file src="img/dropimage.png" />
+
+    <file src="img/bg_bottom.png" />
+    <file src="img/bg_part.png" />
+    <file src="img/bg_part_hover.png" />
+    <file src="img/bg_part_locked.png" />
+    <file src="img/bg_part_current.png" />
+    <file src="img/bg_part_hard.png" />
+    <file src="img/bg_part_class.png" />
+    <file src="img/bg_hint.png" />
+
+    <file src="img/icon_exit.png" />
+    <file src="img/icon_arrow.png" />
+    <file src="img/scroll.png" />
+
+    <file src="img/icon_default.png" />
+    <file src="img/icon_green.png" />
+    <file src="img/icon_red.png" />
+    <file src="img/icon_arrowup_green.png" />
+    <file src="img/icon_arrowdown_red.png" />
+
+    <file src="img/icons_hint.png" />
+    <file src="img/icon_soft.png" />
+    <file src="img/icon_hard.png" />
+    <file src="img/icon_arrow_bigger.png" />
+
+    <file src="img/bg_cart.png" />
+    <file src="img/btn_reset.png" />
+    <file src="img/btn_cart.png" />
+
+    <file src="img/bg_sell.png" />
+    <file src="img/bg_sell_hover.png" />
+
+    <file src="img/bg_cart_window.png" />
+    <file src="img/icon_delete.png" />
+    <file src="img/btn_cancel.png" />
+    <file src="img/btn_buy.png" />
+    <file src="img/icon_rounded_rectangle.png" />
+    <file src="img/btn_arrow.png" />
+
+    <file src="img/colorwheel.png" />
+    <file src="img/icon_colorpoint.png" />
+    <file src="img/btn_cancel_2.png" />
+    <file src="img/btn_apply.png" />
+    <file src="img/icon_slider_h.png" />
+    <file src="img/icon_slider_bg.png" />
+
+    <file src="img/bg_color.png" />
+    <file src="img/icon_check.png" />
+
+    <file src="img/bg_money.png" />
+    <file src="img/bg_cases.png" />
+    <file src="img/bg_cases_hover.png" />
+
+    <file src="img/btn_buy_number.png" />
+    <file src="img/btn_buy_number_hover.png" />
+    <file src="img/icon_preview.png" />
+    <file src="img/preview_bg.png" />
+    <file src="img/golden_preview_bg.png" />
+    <file src="img/search.png" />
+    <file src="img/not_found.png" />
+    <file src="img/icon_searching.png" />
+    
+    <file src="img/btn_sell.png" />
+    <file src="img/btn_sell_hover.png" />
+
+    <file src="img/save.png" />
+    <file src="img/save_hover.png" />
+
+    <file src="img/triangle.png" />
+    <file src="img/point.png" />
+    <file src="img/point_hover.png" />
+    <file src="img/icon_speed.png" />
+    <file src="img/icon_next.png" />
+    <file src="img/icon_clutch.png" />
+    <file src="img/icon_controllability.png" />
+    <file src="img/icon_slip.png" />
+    <file src="img/icon_car.png" />
+
+    <file src="img/vinyl_setting/arrow.png" />
+    <file src="img/vinyl_setting/bg_cases.png" />
+    <file src="img/vinyl_setting/bg_cases_hover.png" />
+
+    <file src="img/vinyl_setting/active_btn.png" />
+    <file src="img/vinyl_setting/bottom_help_info.png" />
+    <file src="img/vinyl_setting/btn_arrow.png" />
+    <file src="img/vinyl_setting/btn_apply.png" />
+    <file src="img/vinyl_setting/btn_apply_hovered.png" />
+    <file src="img/vinyl_setting/btn_color.png" />
+    <file src="img/vinyl_setting/btn_color_hovered.png" />
+    <file src="img/vinyl_setting/btn_size.png" />
+    <file src="img/vinyl_setting/btn_size_hovered.png" />
+    <file src="img/vinyl_setting/btn_position.png" />
+    <file src="img/vinyl_setting/btn_position_hovered.png" />
+    <file src="img/vinyl_setting/btn_rotation.png" />
+    <file src="img/vinyl_setting/btn_rotation_hovered.png" />
+    <file src="img/vinyl_setting/btn_mirror.png" />
+    <file src="img/vinyl_setting/btn_mirror_hovered.png" />
+    <file src="img/vinyl_setting/btn_exit.png" />
+    <file src="img/vinyl_setting/btn_exit_hovered.png" />
+    <file src="img/vinyl_setting/btn_save.png" />
+    <file src="img/vinyl_setting/btn_save_hovered.png" />
+    
+    <file src="img/vinyl_setting/bg_setting_color.png" />
+    <file src="img/vinyl_setting/bg_setting_position.png" />
+    <file src="img/vinyl_setting/bg_setting_rotation.png" />
+    <file src="img/vinyl_setting/bg_setting_size.png" />
+
+    <file src="img/bg_neon.png" />
+    <file src="img/btn_buy_neon.png" />
+    <file src="img/btn_buy_neon_hover.png" />
+    <file src="img/btn_sell_neon.png" />
+    <file src="img/btn_sell_neon_hover.png" />
+    <file src="img/btn_install_neon.png" />
+    <file src="img/btn_install_neon_hover.png" />
+    <file src="img/btn_takeoff_neon.png" />
+    <file src="img/btn_takeoff_neon_hover.png" />
+    <file src="img/icon_installed.png" />
+
+    <file src="img/menu/vinyl.png" />
+    <file src="img/menu/parts.png" />
+    <file src="img/menu/bodyparts.png" />
+    <file src="img/menu/color.png" />
+    <file src="img/menu/lightscolor.png" />
+    <file src="img/menu/toning.png" />
+    <file src="img/menu/wheels.png" />
+    <file src="img/menu/wheels_edit.png" />
+    <file src="img/menu/wheels_color.png" />
+    <file src="img/menu/suspension.png" />
+    <file src="img/menu/numbers.png" />
+    <file src="img/menu/blackmarket.png" />
+    <file src="img/menu/neon.png" />
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="CReturnOffer.lua" type="client" />
+    <script src="SReturnOffer.lua" />
+
+    <file src="img/bg_x2.png" />
+    <file src="img/bg_x3.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_back_hover.png" />
+    <file src="img/btn_buy_x2.png" />
+    <file src="img/btn_buy_x2_hover.png" />
+</meta>

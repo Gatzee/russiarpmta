@@ -1,0 +1,39 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShHunger_Shop.lua" type="shared" />
+
+    <script src="SHunger.lua" />
+    <script src="SHunger_Shop.lua" />
+    <script src="SFoodBuffs.lua" />
+
+    <script src="CHunger.lua" type="client" />
+    <script src="CHunger_Shop.lua" type="client" />
+    <script src="CFoodBuffs.lua" type="client" />
+
+    <export function="GetLocations" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/block.png" />
+    <file src="img/btn_buy.png" />
+    <file src="img/light.png" />
+    <file src="img/marker.png" />
+
+    <file src="img/food/1.png" />
+    <file src="img/food/2.png" />
+    <file src="img/food/3.png" />
+    <file src="img/food/4.png" />
+    <file src="img/food/5.png" />
+    <file src="img/food/6.png" />
+    <file src="img/food/7.png" />
+    <file src="img/food/8.png" />
+
+    <file src="sfx/0/1.mp3" />
+    <file src="sfx/0/2.mp3" />
+    <file src="sfx/0/3.mp3" />
+    <file src="sfx/0/4.mp3" />
+    <file src="sfx/0/5.mp3" />
+    <file src="sfx/0/6.mp3" />
+    <file src="sfx/0/7.mp3" />
+    <file src="sfx/0/8.mp3" />
+    <file src="sfx/0/9.mp3" />
+</meta>

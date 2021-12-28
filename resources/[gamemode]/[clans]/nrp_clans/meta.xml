@@ -1,0 +1,107 @@
+<meta>
+    <oop>true</oop>
+
+    <export function="CallClanFunction" type="server" />
+    <export function="GetClanLeaderboardPosition" type="server" />
+    <export function="GetClansSeasonData" type="server" />
+    <export function="SetCartelClan" type="server" />
+
+    <!-- <script src="ShClans.lua" type="shared" /> -->
+
+    <script src="SClanCore.lua" />
+    <script src="SClansDB.lua" />
+    <script src="SClansInterface.lua" />
+    <script src="SClansRanks.lua" />
+    <script src="SClansStats.lua" />
+    <script src="SClansStorage.lua" />
+    <script src="SClansUpgrades.lua" />
+    <script src="SClansCartels.lua" />
+    <script src="SClansCartelsWar.lua" />
+    <script src="SClansSeasons.lua" />
+    <script src="SClansLeaderboard.lua" />
+    <script src="SAdminClans.lua" />
+
+    <script src="STransferClan.lua" />
+    <export function="GetTransferData" type="server" />
+
+    <file src="img/dropimage.dds" />
+    <file src="img/dropimage1.dds" />
+    <file src="img/flag.dds" />
+
+    <!-- Файлы тегов -->
+    <file src="img/tags/neutral.png" />
+
+    <file src="img/tags/band/-4.png" />
+    <file src="img/tags/band/-3.png" />
+    <file src="img/tags/band/-2.png" />
+    <file src="img/tags/band/-1.png" />
+
+    <file src="img/tags/band/1.png" />
+    <file src="img/tags/band/2.png" />
+    <file src="img/tags/band/3.png" />
+    <file src="img/tags/band/4.png" />
+    <file src="img/tags/band/5.png" />
+    <file src="img/tags/band/6.png" />
+    <file src="img/tags/band/7.png" />
+    <file src="img/tags/band/8.png" />
+    <file src="img/tags/band/9.png" />
+    <file src="img/tags/band/10.png" />
+    <file src="img/tags/band/11.png" />
+    <file src="img/tags/band/12.png" />
+    <file src="img/tags/band/13.png" />
+    <file src="img/tags/band/14.png" />
+    <file src="img/tags/band/15.png" />
+    <file src="img/tags/band/16.png" />
+    <file src="img/tags/band/17.png" />
+    <file src="img/tags/band/18.png" />
+    <file src="img/tags/band/19.png" />
+    <file src="img/tags/band/20.png" />
+    <file src="img/tags/band/21.png" />
+    <file src="img/tags/band/22.png" />
+    <file src="img/tags/band/23.png" />
+    <file src="img/tags/band/24.png" />
+    <file src="img/tags/band/25.png" />
+    <file src="img/tags/band/26.png" />
+    <file src="img/tags/band/27.png" />
+    <file src="img/tags/band/28.png" />
+    <file src="img/tags/band/29.png" />
+    <file src="img/tags/band/30.png" />
+    <file src="img/tags/band/31.png" />
+    <file src="img/tags/band/32.png" />
+    <file src="img/tags/band/33.png" />
+    <file src="img/tags/band/34.png" />
+    <file src="img/tags/band/35.png" />
+    <file src="img/tags/band/36.png" />
+    <file src="img/tags/band/37.png" />
+    <file src="img/tags/band/38.png" />
+    <file src="img/tags/band/39.png" />
+    <file src="img/tags/band/40.png" />
+    <file src="img/tags/band/41.png" />
+    <file src="img/tags/band/42.png" />
+    <file src="img/tags/band/43.png" />
+    <file src="img/tags/band/44.png" />
+    <file src="img/tags/band/45.png" />
+    <file src="img/tags/band/46.png" />
+    <file src="img/tags/band/47.png" />
+    <file src="img/tags/band/48.png" />
+    <file src="img/tags/band/49.png" />
+    <file src="img/tags/band/50.png" />
+    <file src="img/tags/band/51.png" />
+    <file src="img/tags/band/52.png" />
+    <file src="img/tags/band/53.png" />
+    <file src="img/tags/band/54.png" />
+    <file src="img/tags/band/55.png" />
+    <file src="img/tags/band/56.png" />
+    <file src="img/tags/band/57.png" />
+    <file src="img/tags/band/58.png" />
+    <file src="img/tags/band/59.png" />
+    <file src="img/tags/band/60.png" />
+
+    <file src="img/tags/cartel/1.png" />
+    <file src="img/tags/cartel/2.png" />
+
+
+    <file src="img/ui/icon_clan_exp.png" />
+    <file src="img/ui/icon_clan_honor.png" />
+
+</meta>

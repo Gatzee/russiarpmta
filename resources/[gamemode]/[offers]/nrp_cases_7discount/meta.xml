@@ -1,0 +1,113 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShCasesDiscount.lua" type="shared" />
+    <script src="SCasesDiscount.lua" type="server" />
+    <script src="CCasesDiscount.lua" type="client" />
+    <script src="CRewards.lua" type="client" />
+
+    <export function="Get7CasesDiscountData" type="server" />
+    <export function="GetCase7CasesDiscountData" type="server" />
+    <export function="GetDiscountCases" type="server" />
+
+    <export function="Get7CasesDiscountData" type="client" />
+    <export function="GetCase7CasesDiscountData" type="client" />
+
+	<script src="case_items/ShWofCoin.lua" type="shared" />
+	<script src="case_items/Sh_AssemblDetail.lua" type="shared" />
+	<script src="case_items/ShAccessory.lua" type="shared" />
+	<script src="case_items/ShBox.lua" type="shared" />
+	<script src="case_items/ShCarEvac.lua" type="shared" />
+	<script src="case_items/ShDance.lua" type="shared" />
+	<script src="case_items/ShExp.lua" type="shared" />
+	<script src="case_items/ShFirstaid.lua" type="shared" />
+	<script src="case_items/ShFuelcan.lua" type="shared" />
+	<script src="case_items/ShGunLicense.lua" type="shared" />
+	<script src="case_items/ShHard.lua" type="shared" />
+	<script src="case_items/ShJailkeys.lua" type="shared" />
+	<script src="case_items/ShLunchbox.lua" type="shared" />
+	<script src="case_items/ShPhoneImg.lua" type="shared" />
+	<script src="case_items/ShPremium.lua" type="shared" />
+	<script src="case_items/ShRepairbox.lua" type="shared" />
+	<script src="case_items/ShSkin.lua" type="shared" />
+	<script src="case_items/ShSoft.lua" type="shared" />
+	<script src="case_items/ShTaxi.lua" type="shared" />
+	<script src="case_items/ShTuningCase.lua" type="shared" />
+	<script src="case_items/ShVehicle.lua" type="shared" />
+	<script src="case_items/ShVehicleLicense.lua" type="shared" />
+	<script src="case_items/ShVehicleSlot.lua" type="shared" />
+	<script src="case_items/ShVinyl.lua" type="shared" />
+	<script src="case_items/ShWeapon.lua" type="shared" />
+
+	<file src="img/reward_outline_3.png" />
+	<file src="img/arrow_l_h.png" />
+	<file src="img/arrow_l_i.png" />
+	<file src="img/arrow_r_h.png" />
+	<file src="img/arrow_r_i.png" />
+	<file src="img/bg.png" />
+	<file src="img/bg_cases_amount.png" />
+	<file src="img/bg_corner_discount.png" />
+	<file src="img/bg_points.png" />
+	<file src="img/bg_case_points.png" />
+	<file src="img/bg_fast_spin.png" />
+	<file src="img/bg_progress_bar.png" />
+	<file src="img/bg_reward_1.png" />
+	<file src="img/bg_reward_2.png" />
+	<file src="img/bg_reward_3.png" />
+	<file src="img/reward_received_1.png" />
+	<file src="img/reward_received_2.png" />
+	<file src="img/reward_received_3.png" />
+	<file src="img/icon_check.png" />
+	<file src="img/icon_hard_big.png" />
+	<file src="img/bg_reward_points.png" />
+	<file src="img/btn_buy_h.png" />
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_minus_h.png" />
+	<file src="img/btn_minus_i.png" />
+	<file src="img/btn_open_h.png" />
+	<file src="img/btn_open_i.png" />
+	<file src="img/btn_plus.png" />
+	<file src="img/btn_plus_h.png" />
+	<file src="img/btn_plus_i.png" />
+	<file src="img/reward_outline_1.png" />
+	<file src="img/reward_outline_2.png" />
+	<file src="img/fast_spin_circle.png" />
+	<file src="img/btn_back_h.png" />
+	<file src="img/btn_back_i.png" />
+	<file src="img/btn_details_h.png" />
+	<file src="img/btn_details_i.png" />
+	<file src="img/btn_close_small.png" />
+	<file src="img/bg_content.png" />
+	<file src="img/separator.png" />
+
+	<file src="img/case_1/big_bg.png" />
+	<file src="img/case_1/bg_a.png" />
+	<file src="img/case_1/bg_h.png" />
+	<file src="img/case_1/bg_i.png" />
+	<file src="img/case_1/bg_selected_i.png" />
+	<file src="img/case_1/bg_selected_h.png" />
+
+	<file src="img/case_2/big_bg.png" />
+	<file src="img/case_2/bg_a.png" />
+	<file src="img/case_2/bg_h.png" />
+	<file src="img/case_2/bg_i.png" />
+	<file src="img/case_2/bg_selected_i.png" />
+	<file src="img/case_2/bg_selected_h.png" />
+	<file src="img/case_2/lightning.png" />
+
+	<file src="img/case_3/big_bg.png" />
+	<file src="img/case_3/bg_a.png" />
+	<file src="img/case_3/bg_h.png" />
+	<file src="img/case_3/bg_i.png" />
+	<file src="img/case_3/bg_selected_i.png" />
+	<file src="img/case_3/bg_selected_h.png" />
+	<file src="img/case_3/lightning.png" />
+
+	<file src="img/discounts/10.png" />
+	<file src="img/discounts/15.png" />
+	<file src="img/discounts/20.png" />
+	<file src="img/discounts/25.png" />
+	<file src="img/discounts/30.png" />
+	<file src="img/discounts/35.png" />
+	<file src="img/discounts/40.png" />
+</meta>

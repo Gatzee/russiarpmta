@@ -1,0 +1,13 @@
+<meta>
+	<oop>true</oop>
+	<script src="CNotifications.lua" type="client" />
+	<script src="CWindowNotifications.lua" type="client" />
+
+	<file src="sfx/error.ogg" />
+	<file src="sfx/info.ogg" />
+	<file src="sfx/success.ogg" />
+	<file src="sfx/warning.ogg" />
+	<file src="img/1.png"/>
+	<file src="img/2.png"/>
+	<file src="img/3.png"/>
+</meta>

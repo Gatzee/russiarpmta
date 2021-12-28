@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="SCasesPack.lua" type="server" />
+    <script src="CCasesPack.lua" type="client" />
+
+    <file src="img/1.png" />
+    <file src="img/2.png" />
+    <file src="img/3.png" />
+    <file src="img/4.png" />
+    <file src="img/btn_buy_i.png" />
+    <file src="img/btn_buy_h.png" />
+    <file src="img/btn_buy_c.png" />
+</meta>

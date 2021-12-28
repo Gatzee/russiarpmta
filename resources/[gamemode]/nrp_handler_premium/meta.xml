@@ -1,0 +1,6 @@
+<meta>
+	<script src="CPremium.lua"		type="client"/>
+	<script src="SPremium.lua"		type="server"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,223 @@
+<meta>
+	<script src="CUIShop.lua"				type="client" />
+	<script src="SClothes.lua"				type="server" />
+	<script src="SAccessories.lua"			type="server" />
+
+	<file src="images/marker.png" />
+
+	<file src="images/accessory_slot_bg.png" />
+	<file src="images/accessory_slot_bg_selected.png" />
+
+	<file src="images/icon_arrow.png" />
+
+	<file src="images/btn_exit_i.png" />
+	<file src="images/btn_exit_h.png" />
+	<file src="images/btn_exit_c.png" />
+
+	<file src="images/btn_back_i.png" />
+	<file src="images/btn_back_h.png" />
+	<file src="images/btn_back_c.png" />
+
+	<file src="images/btn_buy_i.png" />
+	<file src="images/btn_buy_h.png" />
+	<file src="images/btn_buy_c.png" />
+
+	<file src="images/btn_puton_i.png" />
+	<file src="images/btn_puton_h.png" />
+	<file src="images/btn_puton_c.png" />
+
+	<file src="images/btn_takeoff_i.png" />
+	<file src="images/btn_takeoff_h.png" />
+	<file src="images/btn_takeoff_c.png" />
+
+	<file src="images/btn_takeoff_all_i.png" />
+	<file src="images/btn_takeoff_all_h.png" />
+	<file src="images/btn_takeoff_all_c.png" />
+
+	<file src="images/btn_edit_i.png" />
+	<file src="images/btn_edit_h.png" />
+	<file src="images/btn_edit_c.png" />
+
+	<file src="images/btn_preview_i.png" />
+	<file src="images/btn_preview_h.png" />
+	<file src="images/btn_preview_c.png" />
+
+	<file src="images/btn_cpreview_i.png" />
+	<file src="images/btn_cpreview_h.png" />
+	<file src="images/btn_cpreview_c.png" />
+
+	<file src="images/edit_a_pos_i.png" />
+	<file src="images/edit_a_pos_h.png" />
+	<file src="images/edit_a_pos_c.png" />
+
+	<file src="images/edit_a_scale_i.png" />
+	<file src="images/edit_a_scale_h.png" />
+	<file src="images/edit_a_scale_c.png" />
+
+	<file src="images/edit_a_rot_i.png" />
+	<file src="images/edit_a_rot_h.png" />
+	<file src="images/edit_a_rot_c.png" />
+
+	<file src="images/edit_a_save_i.png" />
+	<file src="images/edit_a_save_h.png" />
+	<file src="images/edit_a_save_c.png" />
+
+	<file src="images/edit_a_exit_i.png" />
+	<file src="images/edit_a_exit_h.png" />
+	<file src="images/edit_a_exit_c.png" />
+
+	<file src="images/edit_a_arrow.png" />
+
+	<file src="images/btn_tab_shop.png" />
+	<file src="images/btn_tab_inventory.png" />
+
+
+
+
+
+	<file src="images/head_bg.png" />
+	<file src="images/btn_clothes_shop.png" />
+	<file src="images/btn_accessories_shop.png" />
+
+	<file src="images/rotate_hover.png" />
+	<file src="images/rotate_clicked.png" />
+
+	<file src="images/btn_exit_idle.png" />
+	<file src="images/btn_exit_hover.png" />
+	<file src="images/btn_exit_click.png" />
+
+	<file src="images/btn_buy_idle.png" />
+	<file src="images/btn_buy_hover.png" />
+	<file src="images/btn_buy_click.png" />
+
+	<file src="images/slot_bg.png" />
+	<file src="images/slot_bg_selected.png" />
+	<file src="images/slot_locked.png" />
+	<file src="images/clothes_icon.png" />
+	<file src="images/blocked_icon.png" />
+	
+	<file src="images/okey_icon.png" />
+	<file src="images/arrow.png" />
+	<file src="images/subscription_info.png" />
+
+	<file src="images/big_new_indicator.png" />
+
+
+	<file src="images/accessories/cap2.png" />
+	<file src="images/accessories/helmet.png" />
+	<file src="images/accessories/cap5.png" />
+	<file src="images/accessories/tie_y.png" />
+	<file src="images/accessories/handbag_gr.png" />
+	<file src="images/accessories/cap.png" />
+	<file src="images/accessories/scarf_g.png" />
+	<file src="images/accessories/handbag.png" />
+	<file src="images/accessories/backpack.png" />
+	<file src="images/accessories/coffer.png" />
+	<file src="images/accessories/baff.png" />
+	<file src="images/accessories/horse.png" />
+	<file src="images/accessories/handbag_red.png" />
+	<file src="images/accessories/glasses3.png" />
+	<file src="images/accessories/tie_gr.png" />
+	<file src="images/accessories/chain.png" />
+	<file src="images/accessories/scream.png" />
+	<file src="images/accessories/m3_acse11.png" />
+	<file src="images/accessories/mask_grey.png" />
+	<file src="images/accessories/scarf_bl.png" />
+	<file src="images/accessories/tie_red.png" />
+	<file src="images/accessories/helmet_p.png" />
+	<file src="images/accessories/scarf_y.png" />
+	<file src="images/accessories/station.png" />
+	<file src="images/accessories/mask_red.png" />
+	<file src="images/accessories/bananaS.png" />
+	<file src="images/accessories/mask2.png" />
+	<file src="images/accessories/wings.png" />
+	<file src="images/accessories/glasses1.png" />
+	<file src="images/accessories/handbag_grey.png" />
+	<file src="images/accessories/butterfly1.png" />
+	<file src="images/accessories/mask_blue.png" />
+	<file src="images/accessories/guitar2.png" />
+	<file src="images/accessories/scarf.png" />
+	<file src="images/accessories/guitar3.png" />
+	<file src="images/accessories/scuba.png" />
+	<file src="images/accessories/glasses2.png" />
+	<file src="images/accessories/cap4.png" />
+	<file src="images/accessories/chain2.png" />
+	<file src="images/accessories/mask_saw.png" />
+	<file src="images/accessories/katana.png" />
+	<file src="images/accessories/chainp1.png" />
+	<file src="images/accessories/butterfly2.png" />
+	<file src="images/accessories/cap6.png" />
+	<file src="images/accessories/cap3.png" />
+	<file src="images/accessories/butterfly3.png" />
+	<file src="images/accessories/handbag_blue.png" />
+	<file src="images/accessories/mask_gold.png" />
+	<file src="images/accessories/cap1.png" />
+	<file src="images/accessories/scarf_b.png" />
+	<file src="images/accessories/mask_v.png" />
+	<file src="images/accessories/mask_3.png" />
+	<file src="images/accessories/bananaN.png" />
+	<file src="images/accessories/eye.png" />
+	<file src="images/accessories/handbag_gr_bl.png" />
+	<file src="images/accessories/guitar1.png" />
+	<file src="images/accessories/banana.png" />
+	<file src="images/accessories/wings_2.png" />
+	<file src="images/accessories/wreath.png" />
+	<file src="images/accessories/hell_wings.png" />
+	<file src="images/accessories/nightmare.png" />
+	<file src="images/accessories/pumpkin.png" />
+	<file src="images/accessories/scythe.png" />
+	<file src="images/accessories/helmet_avg.png" />
+	<file src="images/accessories/helmet_black.png" />
+	<file src="images/accessories/m2_asce11.png" />
+	<file src="images/accessories/m2_asce012.png" />
+	<file src="images/accessories/m2_asce19.png" />
+	<file src="images/accessories/backpack2.png" />
+	<file src="images/accessories/cylinder_hat.png" />
+	<file src="images/accessories/swords.png" />
+	<file src="images/accessories/mask_scorp.png" />
+	<file src="images/accessories/m2_asce06.png" />
+	<file src="images/accessories/m2_asce07.png" />
+	<file src="images/accessories/m2_asce22.png" />
+	<file src="images/accessories/m2_asce17.png" />
+	<file src="images/accessories/scarf_deserted_g.png" />
+	<file src="images/accessories/m2_asce08.png" />
+	<file src="images/accessories/mask_mick.png" />
+	<file src="images/accessories/scarf_deserted_r.png" />
+	<file src="images/accessories/scarf_deserted_w.png" />
+	<file src="images/accessories/scarf_deserted_y.png" />
+	<file src="images/accessories/pendant_1.png" />
+	<file src="images/accessories/beard_santa.png" />
+	<file src="images/accessories/deer_mask.png" />
+	<file src="images/accessories/new_year_hat.png" />
+	<file src="images/accessories/new_year_scarf.png" />
+	<file src="images/accessories/panam_hat.png" />
+	<file src="images/accessories/diamond_bag.png" />
+	<file src="images/accessories/diamond_hope.png" />
+	<file src="images/accessories/wood_black_glasses.png" />
+	<file src="images/accessories/m2_asce20.png" />
+	<file src="images/accessories/m2_asce21.png" />
+	<file src="images/accessories/m2_asce01.png" />
+	<file src="images/accessories/m2_asce02.png" />
+	<file src="images/accessories/m2_asce03.png" />
+	<file src="images/accessories/m3_acse04.png" />
+	<file src="images/accessories/m3_acse05.png" />
+	<file src="images/accessories/m3_acse08.png" />
+	<file src="images/accessories/m3_acse09.png" />
+	<file src="images/accessories/m3_acse14.png" />
+	<file src="images/accessories/m3_acse15.png" />
+	<file src="images/accessories/m3_acse01.png" />
+	<file src="images/accessories/m3_acse16.png" />
+	<file src="images/accessories/m3_acse17.png" />
+	<file src="images/accessories/m3_acse18.png" />
+	<file src="images/accessories/m3_acse19.png" />
+	<file src="images/accessories/m3_acse20.png" />
+	<file src="images/accessories/m3_acse06.png" />
+	<file src="images/accessories/m3_acse07.png" />
+	<file src="images/accessories/m2_asce12.png" />
+	<file src="images/accessories/m3_acse02.png" />
+	<file src="images/accessories/m3_acse03.png" />
+	<file src="images/accessories/m3_acse10.png" />
+	<file src="images/accessories/m3_acse13.png" />
+
+	<oop>true</oop>
+</meta>

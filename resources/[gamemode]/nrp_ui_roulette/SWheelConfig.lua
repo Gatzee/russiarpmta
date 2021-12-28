@@ -1,0 +1,42 @@
+REWARD_CHANCES = 
+{
+	default = 
+	{
+		[ TYPE_BOOST_DEFAULT ] = {
+			{ SECTION_SMALL, 37.5, 5 },
+			{ SECTION_MEDIUM, 24.5, 3 },
+			{ SECTION_INVENTORY, 19.5, 1 },
+			{ SECTION_BOOST_PLUS_50, 8.5, 1 },
+			{ SECTION_BOOST_X2, 6.0, 1 },
+			{ SECTION_JACKPOT, 4.0, 2 },
+		},
+		[ TYPE_BOOST ] = {
+			{ SECTION_SMALL, 45.0, 5 },
+			{ SECTION_MEDIUM, 30.0, 3 },
+			{ SECTION_INVENTORY, 20.0, 1 },
+			{ SECTION_BOOST_PLUS_50, 0.0, 1 },
+			{ SECTION_BOOST_X2, 0.0, 1 },
+			{ SECTION_JACKPOT, 5.0, 2 },
+		},
+	},
+
+	gold = 
+	{
+		[ TYPE_BOOST_DEFAULT ] = {
+			{ SECTION_SMALL, 63.5, 5 },
+			{ SECTION_MEDIUM, 15.0, 3 },
+			{ SECTION_INVENTORY, 10.5, 1 },
+			{ SECTION_BOOST_PLUS_50, 5.5, 1 },
+			{ SECTION_BOOST_X2, 4.0, 1 },
+			{ SECTION_JACKPOT, 1.5, 2 },
+		},
+		[ TYPE_BOOST ] = {
+			{ SECTION_SMALL, 65., 5 },
+			{ SECTION_MEDIUM, 18.0, 3 },
+			{ SECTION_INVENTORY, 15.0, 1 },
+			{ SECTION_BOOST_PLUS_50, 0.0, 1 },
+			{ SECTION_BOOST_X2, 0.0, 1 },
+			{ SECTION_JACKPOT, 2.0, 2 },
+		},		
+	},
+}

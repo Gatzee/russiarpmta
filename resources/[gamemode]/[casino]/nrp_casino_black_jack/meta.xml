@@ -1,0 +1,132 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShBlackJack.lua" type="shared" />
+
+    <script src="CBlackJack.lua"        type="client" />
+    <script src="CBlackJack_Core.lua"   type="client" />
+    <script src="CBlackJack_UI.lua"     type="client" />
+    <script src="CBlackJack_Utils.lua"  type="client" />
+    <script src="CBlackJack_Reward.lua" type="client" />
+
+    <script src="SBlackJack.lua"           type="server" />
+    <script src="SBlackJack_Core.lua"      type="server" />
+    <script src="SBlackJack_Utils.lua"     type="server" />
+    <script src="SBlackJack_Analytics.lua" type="server" />
+
+    <!-- Общее UI -->
+    <file src="img/bg_help.png" />
+    <file src="img/bg_progress_bar.png" />
+    <file src="img/bg_reward_info.png" />
+    <file src="img/bg_stat_dealer.png" />
+    <file src="img/bg_stat_player.png" />
+    <file src="img/bg_stat_player_active.png" />
+    <file src="img/bg_rate_player.png" />
+    <file src="img/bg_rate_player_active.png" />
+    <file src="img/bg_table.png" />
+    <file src="img/bg_top.png" />
+    <file src="img/bg_actions.png" />
+    <file src="img/soft_small.png" />
+    <file src="img/soft.png" />
+    <file src="img/big_soft.png" />
+    <file src="img/btn_exit.png" />
+    <file src="img/btn_exit_hovered.png" />
+    <file src="img/btn_help.png" />
+    <file src="img/btn_help_hovered.png" />
+    <file src="img/btn_pass.png" />
+    <file src="img/btn_pass_hovered.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/btn_take_hovered.png" />
+    <file src="img/text_decide.png" />
+    <file src="img/text_rate.png" />
+    <file src="img/timer_icon.png" />
+    <file src="img/btn_close.png" />
+    <file src="img/table_text.png" />
+
+    <!-- Ставки -->
+    <file src="img/chips/chip_1.png" />
+    <file src="img/chips/chip_1_active.png" />
+    <file src="img/chips/chip_2.png" />
+    <file src="img/chips/chip_2_active.png" />
+    <file src="img/chips/chip_3.png" />
+    <file src="img/chips/chip_3_active.png" />
+    <file src="img/chips/chip_4.png" />
+    <file src="img/chips/chip_4_active.png" />
+    <file src="img/chips/chip_5.png" />
+    <file src="img/chips/chip_5_active.png" />
+    <file src="img/chips/chip_6.png" />
+    <file src="img/chips/chip_6_active.png" />
+
+    <!-- Карты -->
+    <file src="img/cards/deck_of_cards.png" />
+    <file src="img/cards/cardback.png" />
+    <file src="img/cards/2_1.png" />
+    <file src="img/cards/2_2.png" />
+    <file src="img/cards/2_3.png" />
+    <file src="img/cards/2_4.png" />
+    <file src="img/cards/3_1.png" />
+    <file src="img/cards/3_2.png" />
+    <file src="img/cards/3_3.png" />
+    <file src="img/cards/3_4.png" />
+    <file src="img/cards/4_1.png" />
+    <file src="img/cards/4_2.png" />
+    <file src="img/cards/4_3.png" />
+    <file src="img/cards/4_4.png" />
+    <file src="img/cards/5_1.png" />
+    <file src="img/cards/5_2.png" />
+    <file src="img/cards/5_3.png" />
+    <file src="img/cards/5_4.png" />
+    <file src="img/cards/6_1.png" />
+    <file src="img/cards/6_2.png" />
+    <file src="img/cards/6_3.png" />
+    <file src="img/cards/6_4.png" />
+    <file src="img/cards/7_1.png" />
+    <file src="img/cards/7_2.png" />
+    <file src="img/cards/7_3.png" />
+    <file src="img/cards/7_4.png" />
+    <file src="img/cards/8_1.png" />
+    <file src="img/cards/8_2.png" />
+    <file src="img/cards/8_3.png" />
+    <file src="img/cards/8_4.png" />
+    <file src="img/cards/9_1.png" />
+    <file src="img/cards/9_2.png" />
+    <file src="img/cards/9_3.png" />
+    <file src="img/cards/9_4.png" />
+    <file src="img/cards/10_1.png" />
+    <file src="img/cards/10_2.png" />
+    <file src="img/cards/10_3.png" />
+    <file src="img/cards/10_4.png" />
+    <file src="img/cards/11_1.png" />
+    <file src="img/cards/11_2.png" />
+    <file src="img/cards/11_3.png" />
+    <file src="img/cards/11_4.png" />
+    <file src="img/cards/12_1.png" />
+    <file src="img/cards/12_2.png" />
+    <file src="img/cards/12_3.png" />
+    <file src="img/cards/12_4.png" />
+    <file src="img/cards/13_1.png" />
+    <file src="img/cards/13_2.png" />
+    <file src="img/cards/13_3.png" />
+    <file src="img/cards/13_4.png" />
+    <file src="img/cards/14_1.png" />
+    <file src="img/cards/14_2.png" />
+    <file src="img/cards/14_3.png" />
+    <file src="img/cards/14_4.png" />
+
+    <!-- Награды -->
+    <file src="img/reward/bg_green.png" />
+    <file src="img/reward/bg_yellow.png" />
+    <file src="img/reward/bg_red.png" />
+    <file src="img/reward/block_reward.png" />
+    <file src="img/reward/btn_ok.png" />
+    <file src="img/reward/btn_ok_hovered.png" />
+    <file src="img/reward/green_text_effect.png" />
+    <file src="img/reward/yellow_text_effect.png" />
+    <file src="img/reward/red_text_effect.png" />
+    <file src="img/reward/reward_text_effect.png" />
+    
+    <!-- Звуки игры -->
+    <file src="sfx/bg_game.ogg" />
+    <file src="sfx/chip_sound.ogg" />
+    <file src="sfx/card_sound.mp3" />
+</meta>

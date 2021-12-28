@@ -1,0 +1,9 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShHospital.lua" type="shared"/>
+	<script src="SHospital.lua" type="server"/>
+	<script src="CHospital.lua" type="client"/>
+
+	<export function="getClosestHospital" type="server" />
+	<export function="getRandomSpawn_Exported" type="server" />
+</meta>

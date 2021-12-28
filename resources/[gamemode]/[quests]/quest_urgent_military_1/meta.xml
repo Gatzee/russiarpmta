@@ -1,0 +1,21 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+
+	<file src="files/bg.png"/>
+
+	<file src="files/soctil_text.png"/>
+	
+	<file src="files/button_next_idle.png"/>
+	<file src="files/button_next_hover.png"/>
+	<file src="files/button_next_click.png"/>
+	
+	<file src="files/intro.ogg"/>
+
+
+	<oop>true</oop>
+</meta>

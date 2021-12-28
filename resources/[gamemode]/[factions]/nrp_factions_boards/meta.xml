@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShBoard.lua" type="shared" />
+    <script src="SBoard.lua" />
+    <script src="CBoard.lua" type="client" />
+
+    <file src="files/img/add.png" />
+    <file src="files/img/bg.png" />
+    <file src="files/img/btn_apply.png" />
+    <file src="files/img/btn_close.png" />
+    <file src="files/img/btn_edit.png" />
+    <file src="files/img/close.png" />
+    <file src="files/img/scrollbar.png" />
+    <file src="files/img/tiny_scrollbar.png" />
+</meta>

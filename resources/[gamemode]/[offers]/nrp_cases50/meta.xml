@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="SCases50.lua" />
+    <script src="CCases50.lua" type="client" />
+
+    <file src="img/brush.png" />
+    <file src="img/bg_data.png" />
+    <file src="img/btn_ok.png" />
+</meta>

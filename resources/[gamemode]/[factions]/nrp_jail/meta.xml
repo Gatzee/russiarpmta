@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShJail.lua" type="shared" />
+    <script src="CJail.lua" type="client" />
+    <script src="SJail.lua" />
+
+    <export function="GetClosestJail" type="shared" />
+    <export function="JailPlayer" type="server" />
+    <export function="ReleasePlayer" type="server" />
+    <export function="GetJailedPlayers" type="server" />
+
+    <file src="img/cross.png" />
+    <file src="img/bg.png" />
+    <file src="img/btn_close.png" />
+    <file src="img/btn_close_hovered.png" />
+</meta>

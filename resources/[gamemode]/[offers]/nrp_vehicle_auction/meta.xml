@@ -1,0 +1,42 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShAuction.lua" type="shared" />
+    <script src="SAuction.lua" type="server" />
+    <script src="CAuction.lua" type="client" />
+    <script src="CUIAuction.lua" type="client" />
+
+	<file src="img/icon_timer.png" />
+	<file src="img/no_avatar.png" />
+	<file src="img/overlay_1.png" />
+	<file src="img/overlay_2.png" />
+	<file src="img/overlay_3.png" />
+	<file src="img/arrow_d.png" />
+	<file src="img/arrow_l.png" />
+	<file src="img/arrow_r.png" />
+	<file src="img/bg.png" />
+	<file src="img/bg_item_1_h.png" />
+	<file src="img/bg_item_1_i.png" />
+	<file src="img/bg_item_2_h.png" />
+	<file src="img/bg_item_2_i.png" />
+	<file src="img/bg_item_3_h.png" />
+	<file src="img/bg_item_3_i.png" />
+	<file src="img/btn_back_h.png" />
+	<file src="img/btn_back_i.png" />
+	<file src="img/btn_details_h.png" />
+	<file src="img/btn_details_i.png" />
+	<file src="img/btn_raise_bet_h.png" />
+	<file src="img/btn_raise_bet_i.png" />
+	<file src="img/btn_raise_bet_small_h.png" />
+	<file src="img/btn_raise_bet_small_i.png" />
+	<file src="img/btn_rules_h.png" />
+	<file src="img/btn_rules_i.png" />
+	<file src="img/bg_edit.png" />
+	<file src="img/bg_edit_err.png" />
+	<file src="img/btn_place_bet_h.png" />
+	<file src="img/btn_place_bet_i.png" />
+	<file src="img/btn_skip_h.png" />
+	<file src="img/btn_skip_i.png" />
+	<file src="img/skip_cost.png" />
+	<file src="img/rules.png" />
+</meta>

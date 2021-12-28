@@ -1,0 +1,10 @@
+<meta>
+    <script src="SOffer.lua" type="server" />
+    
+    <script src="COfferB.lua" type="client" />
+
+    <file src="img/group_b/bg.png" />
+    <file src="img/group_b/take.png" />
+    <file src="img/group_b/take_h.png" />
+    <oop>true</oop>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="CClansStorage.lua" type="client" />
+
+    <file src="img/bg_input.png" />
+    <file src="img/btn_give.png" />
+    <file src="img/btn_give_hover.png" />
+    <file src="img/btn_givetoall.png" />
+    <file src="img/btn_givetoall_hover.png" />
+    <file src="img/btn_hide.png" />
+    <file src="img/btn_hide_hover.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/btn_take_hover.png" />
+</meta>

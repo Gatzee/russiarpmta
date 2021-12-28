@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<script src="SVoiceStation.lua" />
+	<script src="SVoiceStation_Controller.lua" />
+</meta>

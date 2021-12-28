@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="SStartup.lua" type="server" />
+    <script src="SSyncController.lua" type="server" />
+
+    <export function="GetWebConfigValue" type="server" />
+</meta>

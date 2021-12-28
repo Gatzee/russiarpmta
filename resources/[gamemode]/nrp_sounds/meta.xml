@@ -1,0 +1,17 @@
+<meta>
+	<file src="Resources/Sounds/Signal/Lock.mp3" />
+	<file src="Resources/Sounds/Signal/Alert.mp3" />
+	<file src="Resources/Sounds/Signal/Belt.wav" />
+	<file src="Resources/Sounds/Signal/Notification.ogg" />
+	<file src="Resources/Sounds/Signal/Reverse.wav" />
+
+	<file src="Resources/Sounds/Service/DrivingSchool/pdd_click.mp3" />
+
+	<file src="Resources/Sounds/Other/Kassa.mp3" />
+	<file src="Resources/Sounds/Other/Indicator.mp3" />
+	<file src="Resources/Sounds/Other/Refill.wav" />
+	<file src="Resources/Sounds/Other/Notification.mp3" />
+	<file src="Resources/Sounds/Other/Alert.mp3" />
+
+	<file src="Resources/Sounds/Other/Help/Select.mp3" />
+</meta>

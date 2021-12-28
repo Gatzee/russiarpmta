@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="CGundealer.lua" type="client" />
+    <script src="CGundealer_Marker.lua" type="client" />
+
+    <file src="img/btn_buy_to_storage.png" />
+    <file src="img/btn_buy_to_storage_hover.png" />
+</meta>

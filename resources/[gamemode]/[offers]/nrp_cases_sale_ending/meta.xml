@@ -1,0 +1,11 @@
+<meta>
+    <script src="Client.lua" type="client"/>
+    <script src="Server.lua" type="server"/>
+    <script src="SCasesRerolling.lua" type="server"/>
+
+	<file src="images/bg.png"/>
+	<file src="images/bg_case_name.png"/>
+	<file src="images/btn_details.png"/>
+
+    <oop>true</oop>
+</meta>

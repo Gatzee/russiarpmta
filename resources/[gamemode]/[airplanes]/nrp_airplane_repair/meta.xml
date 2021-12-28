@@ -1,0 +1,19 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShRepair.lua" type="shared" />
+    <script src="CRepair.lua" type="client" />
+    <script src="CUIRepair.lua" type="client" />
+    <script src="SRepair.lua" type="server" />
+
+    <export function="GetLocations" type="client" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/btn_pay.png" />
+    <file src="files/img/btn_select.png" />
+    <file src="files/img/btn_select_active.png" />
+    <file src="files/img/btn_select_all.png" />
+    <file src="files/img/icon_money.png" />
+    <file src="files/img/icon_money_big.png" />
+
+    <file src="files/img/icon_marker.png" />
+</meta>

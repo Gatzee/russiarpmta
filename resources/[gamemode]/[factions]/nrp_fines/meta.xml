@@ -1,0 +1,31 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShFines.lua" type="shared" />
+    <script src="CFines.lua" type="client" />
+    <script src="SFines.lua" />
+    <script src="SWanted.lua" />
+    <script src="SConfiscation.lua" />
+    <script src="SUpturnedVehicles.lua" />
+
+	<script src="STransferFines.lua" type="server" />
+    <export function="GetTransferData" type="server" />
+
+    <script src="CUIFines.lua" type="client" />
+    <script src="CUIWanted.lua" type="client" />
+
+    <export function="GetPlayerFines" type="server" />
+
+    <file src="files/img/bg.png" />
+    <file src="files/img/bg1.png" />
+    <file src="files/img/timer_icon1.png" />
+    <file src="files/img/bg_fine.png" />
+    <file src="files/img/btn_selector.png" />
+    <file src="files/img/btn_selector_hover.png" />
+    <file src="files/img/btn_addfine.png" />
+    <file src="files/img/btn_pay.png" />
+    <file src="files/img/btn_jail.png" />
+    <file src="files/img/close.png" />
+    <file src="files/img/close_small.png" />
+    <file src="files/img/icon_soft.png" />
+    <file src="files/img/selector.png" />
+</meta>

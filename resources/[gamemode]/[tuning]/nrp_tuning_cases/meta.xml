@@ -1,0 +1,63 @@
+<meta>
+	<export function="getCaseCost" type="server" />
+	<export function="GetVinylCases" type="server" />
+	<export function="GetVinylCasesForPlayer" type="server" />
+	<export function="GetRandomVinylCaseItem" type="server" />
+	
+	<script src="ShTuningCases.lua" type="shared" />
+	<script src="CTuningCasesList.lua" type="client" />
+	<script src="CTuningCaseInfo.lua" type="client" />
+	<script src="CTuningCaseReward.lua" type="client" />
+	<script src="STuningCases.lua" />
+	<script src="SVinylCases.lua" />
+
+	<file src="images/case_bg.png" />
+	<file src="images/case_bg_hover.png" />
+
+	<file src="images/btn_back.png" />
+	<file src="images/btn_recharge.png" />
+	<file src="images/brush.png" />
+
+	<file src="images/cases_count_bg.png" />
+	
+	<file src="images/class_bg.png" />
+
+	<file src="images/stats_line.png" />
+
+	<file src="images/btn_buy_i.png" />
+	<file src="images/btn_buy_h.png" />
+
+	<file src="images/btn_buy_discount_i.png" />
+	<file src="images/btn_buy_discount_h.png" />
+
+	<file src="images/btn_open_i.png" />
+	<file src="images/btn_open_h.png" />
+
+	<file src="images/btn_balance_i.png" />
+	<file src="images/btn_balance_h.png" />
+
+	<file src="images/btn_take_i.png" />
+	<file src="images/btn_take_h.png" />
+
+	<file src="images/btn_arrow_left.png" />
+	<file src="images/btn_arrow_right.png" />
+
+	<file src="images/item_bg.png" />
+	<file src="images/item_bg_hover.png" />
+	<file src="images/item_big_bg.png" />
+	<file src="images/item_big_bg_hover.png" />
+	<file src="images/rare.png" />
+	<file src="images/rare_big.png" />
+
+	<file src="images/btn_type_r.png" />
+	<file src="images/btn_type_r_h.png" />
+	<file src="images/btn_type_r_s.png" />
+	<file src="images/btn_type_x.png" />
+	<file src="images/btn_type_x_h.png" />
+	<file src="images/btn_type_x_s.png" />
+	<file src="images/btn_type_f.png" />
+	<file src="images/btn_type_f_h.png" />
+	<file src="images/btn_type_f_s.png" />
+
+	<oop>true</oop>
+</meta>

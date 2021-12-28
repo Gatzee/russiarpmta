@@ -1,0 +1,27 @@
+<meta>
+
+    <script src="Shared.lua" type="shared"/>
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+	<script src="CMinigame.lua" type="client"/>
+
+    <file src="img/hint1.png" />
+	<file src="img/hint2.png" />
+	<file src="img/hint3_1.png" />
+	<file src="img/hint3_2.png" />
+	<file src="img/hint3_3.png" />
+	<file src="img/hint4.png" />
+	<file src="img/hint5.png" />
+	<file src="img/hint6.png" />
+
+	<file src="img/circle_new.png" />
+	<file src="img/empty_circle.png" />
+
+	<file src="sounds/tool_box.wav" />
+	<file src="sounds/idle_1.wav" />
+	<file src="sounds/idle_2.wav" />
+	<file src="sounds/drill_1.wav" />
+	<file src="sounds/drill_2.wav" />
+
+	<oop>true</oop>
+</meta>

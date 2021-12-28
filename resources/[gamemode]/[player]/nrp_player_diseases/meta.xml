@@ -1,0 +1,15 @@
+<meta>
+    <script src="ShDiseases.lua" type="shared" />
+
+    <script src="SDiseases.lua" />
+    <script src="SDiseasesGetting.lua" />
+    <script src="SDiseasesAnimations.lua" />
+
+    <script src="CDiseases.lua" type="client" />
+    <script src="CDiseasesGetting.lua" type="client" />
+    <script src="CDiseasesAnimations.lua" type="client" />
+
+    <file src="files/diseases.ifp" />
+    
+    <oop>true</oop>
+</meta>

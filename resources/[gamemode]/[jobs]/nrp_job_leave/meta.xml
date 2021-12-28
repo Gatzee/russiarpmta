@@ -1,0 +1,15 @@
+<meta>
+
+    <oop>true</oop>
+    <script src="CJobDismissa.lua" type="client" />
+    <script src="SJobDismissa.lua" type="server" />
+
+    <file src="img/bg_main.png" />
+    
+    <file src="img/btn_accept.png" />
+    <file src="img/btn_accept_hovered.png" />
+
+    <file src="img/btn_cancel.png" />
+    <file src="img/btn_cancel_hovered.png" />
+
+</meta>

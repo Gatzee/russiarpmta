@@ -1,0 +1,70 @@
+<meta>
+    <oop>true</oop>
+    <export function="GetRetentionTaskValue" type="client" />
+
+    <script src="ShRetentiontasks.lua" type="shared" />
+
+    <script src="SRetentiontasks.lua" />
+
+    <script src="CRetentiontasks.lua" type="client" />
+    <script src="CRetentiontasks_Interface.lua" type="client" />
+    <script src="CRetentiontasks_Slider.lua" type="client" />
+    <script src="CRetentiontasks_Reward.lua" type="client" />
+
+    <script src="tasks/ShRun3.lua" type="shared" />
+    <script src="tasks/ShDrive5.lua" type="shared" />
+    <script src="tasks/ShRace5.lua" type="shared" />
+    <script src="tasks/ShRaceWin2.lua" type="shared" />
+    <script src="tasks/ShCinema5.lua" type="shared" />
+    <script src="tasks/ShFC5.lua" type="shared" />
+    <script src="tasks/ShFishing10.lua" type="shared" />
+    <script src="tasks/ShHunting10.lua" type="shared" />
+    <script src="tasks/ShTreasure10.lua" type="shared" />
+    <script src="tasks/ShDriver4.lua" type="shared" />
+    <script src="tasks/ShFarmer4.lua" type="shared" />
+    <script src="tasks/ShTaxi4.lua" type="shared" />
+    <script src="tasks/ShCourier4.lua" type="shared" />
+    <script src="tasks/ShDrive10.lua" type="shared" />
+
+    <script src="tasks/ShGarbage4.lua" type="shared" />
+    <script src="tasks/ShGas45.lua" type="shared" />
+    <script src="tasks/ShPharmacy5.lua" type="shared" />
+    <script src="tasks/ShSlot10.lua" type="shared" />
+    <script src="tasks/ShBlackjack10.lua" type="shared" />
+    <script src="tasks/ShRoulette10.lua" type="shared" />
+    <script src="tasks/ShLocalsearch5.lua" type="shared" />
+    
+    <file src="img/icon_slider_arrow.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/brush.png" />
+    <file src="img/btn_take.png" />
+    <file src="img/money_big.png" />
+    <file src="img/icon_medal.png" />
+    <file src="img/unique_offer.png" />
+
+    <file src="img/backgrounds/br5.png" />
+    <file src="img/backgrounds/cinema5.png" />
+    <file src="img/backgrounds/drive5.png" />
+    <file src="img/backgrounds/driver4.png" />
+    <file src="img/backgrounds/farmer4.png" />
+    <file src="img/backgrounds/fc5.png" />
+    <file src="img/backgrounds/fishing10.png" />
+    <file src="img/backgrounds/hunting10.png" />
+    <file src="img/backgrounds/race5.png" />
+    <file src="img/backgrounds/racewin2.png" />
+    <file src="img/backgrounds/run3.png" />
+    <file src="img/backgrounds/taxi4.png" />
+    <file src="img/backgrounds/treasure10.png" />
+    <file src="img/backgrounds/courier4.png" />
+
+    <file src="img/backgrounds/garbage4.png" />
+    <file src="img/backgrounds/gas45.png" />
+    <file src="img/backgrounds/pharmacy5.png" />
+    <file src="img/backgrounds/slot10.png" />
+    <file src="img/backgrounds/blackjack10.png" />
+    <file src="img/backgrounds/roulette10.png" />
+    <file src="img/backgrounds/localsearch5.png" />
+
+    <file src="img/localsearch5_reward.png" />
+
+</meta>

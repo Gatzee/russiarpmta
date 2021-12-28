@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="ShOffer.lua" type="shared" />
+    <script src="SOffer.lua" type="server" />
+    <script src="COffer.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/bg_main.png" />
+    <file src="img/bg_pack_1.png" />
+    <file src="img/bg_pack_2.png" />
+    <file src="img/bg_winter.png" />
+    <file src="img/btn_buy_i.png" />
+    <file src="img/btn_buy_h.png" />
+    <file src="img/btn_buy_c.png" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShZones.lua" type="shared" />
+    <script src="SZones.lua" type="server" />
+    <script src="CZones.lua" type="client" />
+</meta>

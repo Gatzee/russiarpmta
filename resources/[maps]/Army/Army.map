@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+	<object id="army_kpp_vorota_1" property="{'fact_id': 5, 'rank_id': 1, 'move_obj_z': -2.95, 'duration': 2500, 'distance_control': 5.5, 'duration_mode': true}" breakable="true" interior="0" alpha="255" model="6282" doublesided="false" scale="1" dimension="0" posX="-2292.92" posY="842.242" posZ="20.5" rotX="180.00" rotY="0.00" rotZ="0"></object>
+	<object id="army_kpp_door_1" property="{'type':2, 'fact_id': 5, 'rank_id': 1, 'rotate_obj_z': -90, 'duration': 500, 'distance_control': 2, 'duration_mode': true}" breakable="true" interior="0" alpha="255" model="17288" doublesided="false" scale="1" dimension="0" posX="-2292.63" posY="849.708" posZ="21.0117" rotX="0.00" rotY="0.00" rotZ="90"></object>
+</map>

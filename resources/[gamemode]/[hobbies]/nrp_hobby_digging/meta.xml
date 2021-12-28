@@ -1,0 +1,92 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShDigging.lua" type="shared" />
+    <script src="SDigging.lua" type="server" />
+    <script src="CDigging.lua" type="client" />
+    <script src="CUIMap.lua" type="client" />
+    <script src="CHUD.lua" type="client" />
+
+    <script src="CModels.lua" type="client" />
+
+    <file src="files/img/btn_close.png" />
+    <file src="files/img/btn_start.png" />
+
+    <file src="files/img/icon_backpack.png" />
+    <file src="files/img/icon_shovel_1.png" />
+    <file src="files/img/marker_digging.png" />
+
+    <file src="files/img/hud/hint1.png" />
+    <file src="files/img/hud/hint2.png" />
+
+    <file src="files/img/good.png" />
+    <file src="files/img/bad.png" />
+
+    <file src="files/img/help_mapkey.png" />
+
+    <!-- MAPS  -->
+    <file src="files/img/maps/1.png" />
+    <file src="files/img/maps/2.png" />
+    <file src="files/img/maps/3.png" />
+    <file src="files/img/maps/4.png" />
+    <file src="files/img/maps/5.png" />
+    <file src="files/img/maps/6.png" />
+    <file src="files/img/maps/7.png" />
+    <file src="files/img/maps/8.png" />
+    <file src="files/img/maps/9.png" />
+    <file src="files/img/maps/10.png" />
+    <file src="files/img/maps/11.png" />
+    <file src="files/img/maps/12.png" />
+    <file src="files/img/maps/13.png" />
+    <file src="files/img/maps/14.png" />
+    <file src="files/img/maps/15.png" />
+    <file src="files/img/maps/16.png" />
+    <file src="files/img/maps/17.png" />
+    <file src="files/img/maps/18.png" />
+    <file src="files/img/maps/19.png" />
+    <file src="files/img/maps/20.png" />
+    <file src="files/img/maps/21.png" />
+    <file src="files/img/maps/22.png" />
+    <file src="files/img/maps/23.png" />
+    <file src="files/img/maps/25.png" />
+    <file src="files/img/maps/26.png" />
+    <file src="files/img/maps/27.png" />
+    <file src="files/img/maps/28.png" />
+    <file src="files/img/maps/29.png" />
+    <file src="files/img/maps/30.png" />
+    <file src="files/img/maps/31.png" />
+    <file src="files/img/maps/32.png" />
+    <file src="files/img/maps/33.png" />
+    <file src="files/img/maps/34.png" />
+    <file src="files/img/maps/35.png" />
+    <file src="files/img/maps/36.png" />
+    <file src="files/img/maps/37.png" />
+    <file src="files/img/maps/38.png" />
+    <file src="files/img/maps/39.png" />
+    <file src="files/img/maps/40.png" />
+    <file src="files/img/maps/41.png" />
+    <file src="files/img/maps/42.png" />
+    <file src="files/img/maps/43.png" />
+    <file src="files/img/maps/44.png" />
+    <file src="files/img/maps/45.png" />
+    <file src="files/img/maps/46.png" />
+    <file src="files/img/maps/47.png" />
+    <file src="files/img/maps/48.png" />
+    <file src="files/img/maps/49.png" />
+    <file src="files/img/maps/50.png" />
+    <file src="files/img/maps/51.png" />
+    <file src="files/img/maps/52.png" />
+    <file src="files/img/maps/53.png" />
+    <file src="files/img/maps/54.png" />
+    <file src="files/img/maps/55.png" />
+
+    <file src="files/animations.ifp" />
+
+    <file src="files/models/shovel_1.dff" />
+    <file src="files/models/shovel_2.dff" />
+    <file src="files/models/shovel_3.dff" />
+    <file src="files/models/shovels.txd" />
+
+    <file src="files/sounds/digging.mp3" />
+    <file src="files/sounds/hit.mp3" />
+    <file src="files/sounds/miss.mp3" />
+</meta>

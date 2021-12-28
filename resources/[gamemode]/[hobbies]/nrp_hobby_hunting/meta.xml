@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShHunting.lua" type="shared" />
+    <script src="SHunting.lua" type="server" />
+    <script src="CHunting.lua" type="client" />
+    <script src="CHUD.lua" type="client" />
+
+    <script src="CAnimals.lua" type="client" />
+    <script src="CShooting.lua" type="client" />
+
+    <file src="files/img/icon_backpack.png" />
+    <file src="files/img/icon_rifle_1.png" />
+    <file src="files/img/marker_hunting.png" />
+
+    <file src="files/sounds/slicing.ogg" />
+</meta>

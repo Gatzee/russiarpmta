@@ -1,0 +1,58 @@
+<meta>
+	<oop>true</oop>
+	<script src="ShFightClub.lua" type ="shared" />
+
+	<script src="SFightClub.lua"  		   type="server" />
+	<script src="SFightClub_Analytics.lua" type="server" />
+	<script src="STournament.lua" 		   type="server" />
+	
+	<script src="CFightClub.lua" 	 type="client" />
+	<script src="CUITickets.lua" 	 type="client" />
+	<script src="CUITournament.lua"  type="client" />
+	<script src="CUILobbyList.lua" 	 type="client" />
+	<script src="CUILobbyCreate.lua" type="client" />
+	<script src="CMarkers.lua" 		 type="client" />
+
+	<file src="files/img/close.png" />
+
+	<file src="files/img/tickets/bg.png" />
+	<file src="files/img/tickets/btn_buy.png" />
+	<file src="files/img/tickets/btn_buy_hover.png" />
+	<file src="files/img/tickets/icon_money.png" />
+	<file src="files/img/tickets/outline.png" />
+	<file src="files/img/tickets/ticket_blue.png" />
+	<file src="files/img/tickets/ticket_red.png" />
+	<file src="files/img/tickets/ticket_yellow.png" />
+
+	<file src="files/img/tournament/bg.png" />
+	<file src="files/img/tournament/bg_rules.png" />
+	<file src="files/img/tournament/btn_ok.png" />
+	<file src="files/img/tournament/btn_participants.png" />
+	<file src="files/img/tournament/btn_participate.png" />
+	<file src="files/img/tournament/btn_rules.png" />
+
+	<file src="files/img/grid/bg.png" />
+	<file src="files/img/grid/item.png" />
+
+	<file src="files/img/lobby/bg.png" />
+	<file src="files/img/lobby/bg_confirmation.png" />
+	<file src="files/img/lobby/btn_create.png" />
+	<file src="files/img/lobby/btn_create_confirm.png" />
+	<file src="files/img/lobby/confirm_bg.png" />
+	<file src="files/img/lobby/confirm_btn_cancel.png" />
+	<file src="files/img/lobby/confirm_btn_ok.png" />
+	<file src="files/img/lobby/icon_enter.png" />
+	<file src="files/img/lobby/icon_enter_active.png" />
+	<file src="files/img/lobby/icon_exit.png" />
+	<file src="files/img/lobby/icon_hard.png" />
+	<file src="files/img/lobby/icon_soft.png" />
+	<file src="files/img/lobby/icon_user.png" />
+	<file src="files/img/lobby/scrollbar.png" />
+
+	<file src="files/img/hud/stamina.png" />
+	<file src="files/img/hud/stamina_body.png" />
+	<file src="files/img/hud/block_stamina.png" />
+	<file src="files/img/hud/block_stamina_body.png" />
+
+	<file src="files/sfx/fatality.mp3" />
+</meta>

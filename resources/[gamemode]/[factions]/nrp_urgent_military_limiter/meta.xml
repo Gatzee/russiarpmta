@@ -1,0 +1,7 @@
+<meta>
+    <script src="ShLimiter.lua" type="shared" />
+    <script src="CLimiter.lua" type="client" />
+    <script src="SLimiter.lua" />
+
+    <oop>true</oop>
+</meta>

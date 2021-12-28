@@ -1,0 +1,36 @@
+<meta>
+	<script src="shared.lua" type="shared" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+
+	<file src="images/bg.png" />
+
+	<file src="images/btn_balance_i.png" />
+	<file src="images/btn_balance_h.png" />
+	<file src="images/btn_balance_c.png" />
+
+	<file src="images/icon_timer.png" />
+
+	<file src="images/btn_buy_i.png" />
+	<file src="images/btn_buy_h.png" />
+	<file src="images/btn_buy_c.png" />
+
+	<file src="images/bg_can_take.png" />
+
+	<file src="images/bg_day.png" />
+	<file src="images/day_taken.png" />
+	<file src="images/day_missed.png" />
+	<file src="images/day_received.png" />
+
+	<file src="images/btn_take_i.png" />
+	<file src="images/btn_take_h.png" />
+	<file src="images/btn_take_c.png" />
+
+	<file src="images/icon_canister.png" />
+	<file src="images/icon_firstaid.png" />
+	<file src="images/icon_repairbox.png" />
+
+	<file src="images/gradient.png" />
+
+	<oop>true</oop>
+</meta>

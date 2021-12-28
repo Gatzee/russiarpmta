@@ -1,0 +1,55 @@
+<meta>
+	<script src="ShDoubleMayhem.lua" 	      type="shared" />
+    <script src="CDoubleMayhem_Core.lua"      type="client" />
+	<script src="CDoubleMayhem_UI.lua"        type="client" />
+	<script src="CDoubleMayhem_Browser.lua"   type="client" />
+	<script src="SDoubleMayhem_Core.lua"      type="server" />
+	<script src="SDoubleMayhem_Utils.lua"     type="server" />
+	<script src="SDoubleMayhem_Analytics.lua" type="server" />
+
+	<script src="items/ShItems.lua"	    type="shared" />
+	<script src="items/ShAccessory.lua" type="shared" />
+	<script src="items/ShRepairbox.lua" type="shared" />
+	<script src="items/ShFirstaid.lua"  type="shared" />
+	<script src="items/ShJailkeys.lua"  type="shared" />
+	<script src="items/ShPremium.lua"   type="shared" />
+	<script src="items/ShVehicle.lua"   type="shared" />
+	<script src="items/ShBox.lua" 		type="shared" />
+	<script src="items/ShVinyl.lua" 	type="shared" />
+	<script src="items/ShCase.lua" 		type="shared" />
+
+	<export function="GetOffersConfig" type="client" />
+
+	<file src="img/bg.png" />
+	<file src="img/bg_content.png" />
+	<file src="img/btn_details_c.png" />
+	<file src="img/btn_details_i.png" />
+	<file src="img/btn_details_h.png" />
+	<file src="img/pack_tooltip.png" />
+	<file src="img/bg_block_left.png" />
+	<file src="img/bg_open_left.png" />
+	<file src="img/bg_block_right.png" />
+	<file src="img/bg_open_right.png" />
+	<file src="img/bg_item.png" />
+
+	<file src="img/bg_block_chain_left.png" />
+	<file src="img/bg_block_chain_right.png" />
+
+	<file src="img/btn_buy.png" />
+	<file src="img/btn_buy_c.png" />
+	<file src="img/btn_buy_i.png" />
+	<file src="img/btn_buy_h.png" />
+	
+	<file src="img/btn_hide_c.png" />
+	<file src="img/btn_hide_i.png" />
+	<file src="img/btn_hide_h.png" />
+
+	<file src="img/open_all.png" />
+	<file src="img/block_all.png" />
+	<file src="img/open_left.png" />
+	<file src="img/open_right.png" />
+
+	<file src="img/info.png" />
+
+    <oop>true</oop>
+</meta>

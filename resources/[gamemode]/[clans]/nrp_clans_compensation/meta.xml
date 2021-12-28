@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="SClansCompensation.lua" />
+    <script src="SClansSeasonCompensation.lua" />
+    <script src="CUIClansCompensation.lua" type="client" />
+
+    <file src="img/bg.png" />
+    <file src="img/btn_take_hover.png" />
+
+</meta>

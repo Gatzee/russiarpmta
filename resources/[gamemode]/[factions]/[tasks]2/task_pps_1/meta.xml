@@ -1,0 +1,12 @@
+<meta>
+	<script src="Shared.lua"				type="shared"/>
+	<script src="Client.lua"				type="client"/>
+	<script src="Server.lua"				type="server"/>
+
+	<export function="GetQuestInfo"			type="client" />
+
+	<file src="map/peds_1.map" />
+	<file src="map/peds_2.map" />
+
+	<oop>true</oop>
+</meta>

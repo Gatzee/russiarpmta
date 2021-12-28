@@ -1,0 +1,9 @@
+<meta>
+    <script src="ShFarmerMap.lua" type="server" />
+
+    <file src="json/lines_0.json" />
+	<file src="json/lines_1.json" />
+
+    <file src="map/markers_0.map" />
+    <file src="map/markers_1.map" />
+</meta>

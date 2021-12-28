@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="client.lua" type="client" />
+
+    <file src="models/billboard.txd" />
+    <file src="models/billboard.dff" />
+    <file src="models/billboard.col" />
+
+    <file src="img/nextrp.png" />
+</meta>

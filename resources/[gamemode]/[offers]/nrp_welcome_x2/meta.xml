@@ -1,0 +1,17 @@
+<meta>
+    <oop>true</oop>
+    <export function="GiveOffer" type="server" />
+
+    <script src="SWelcomeX2.lua" />
+
+    <script src="CWelcomeX2_Interface.lua" type="client" />
+
+    <file src="img/bg_x2.png" />
+    <file src="img/btn_back.png" />
+    <file src="img/btn_back_hover.png" />
+    <file src="img/btn_buy_x2.png" />
+    <file src="img/btn_buy_x2_hover.png" />
+
+    <file src="img/headers/header.png" />
+    <file src="img/headers/btn.png" />
+</meta>

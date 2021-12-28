@@ -1,0 +1,303 @@
+<meta>
+    <oop>true</oop>
+
+    <export function="GetRadarMapTexture" type="client" />
+    <export function="GetMainBG" type="client" />
+
+    <script src="CHUD.lua" type="client" />
+    <script src="CHUD_Main.lua" type="client" />
+    <script src="CHUD_Offers.lua" type="client" />
+    <script src="CHUD_Logo.lua" type="client" />
+    <script src="CHUD_Quest.lua" type="client" />
+    <script src="CHUD_CoopQuest.lua" type="client" />
+    <script src="CHUD_DailyCoopQuest.lua" type="client" />
+    <script src="CHUD_DailyQuest.lua" type="client" />
+    <script src="CHUD_Vehicle.lua" type="client" />
+    <script src="CHUD_Taxi.lua" type="client" />
+    <script src="CHUD_Businesses.lua" type="client" />
+    <script src="CHUD_Hobbies.lua" type="client" />
+    <script src="CHUD_Notifications.lua" type="client" />
+    <script src="CHUD_Weapons.lua" type="client" />
+    <script src="CHUD_FactionRadio.lua" type="client" />
+    <script src="CHUD_fps.lua" type="client" />
+    <script src="CHUD_CasesDiscount.lua" type="client" />
+    <script src="CHUD_GovRating.lua" type="client" />
+    <script src="CHUD_VehicleDiscount.lua" type="client" />
+    <script src="CHUD_1September.lua" type="client" />
+    <script src="CHUD_Wanted.lua" type="client" />
+    <script src="CHUD_GPS.lua" type="client" />
+    <script src="CHUD_Radar.lua" type="client" />
+    <script src="CHUD_RadarMap.lua" type="client" />
+    <script src="CHUD_BandPoints.lua" type="client" />
+    <script src="CHUD_Confiscation.lua" type="client" />
+    <script src="CHUD_Timer.lua" type="client" />
+    <script src="CHUD_PhoneCall.lua" type="client" />
+    <script src="CHUD_BirthdayEvent.lua" type="client" />
+    <script src="CHUD_Hints.lua" type="client" />
+    <script src="CHUD_Ksusha.lua" type="client" />
+    <script src="CHUD_Nodamage.lua" type="client" />
+    <script src="CHUD_Counter.lua" type="client" />
+    <script src="CHUD_StripClub.lua" type="client" />
+    <script src="CHUD_TreatingTimer.lua" type="client" />
+    <script src="CHUD_EventLobby.lua" type="client" />
+    <script src="CHUD_Hunting.lua" type="client" />
+    <script src="CHUD_Incasator.lua" type="client" />
+    <script src="CHUD_Trashman.lua" type="client" />
+    <script src="CHUD_OfferIngameDraw.lua" type="client" />
+    <script src="CHUD_7Cases.lua" type="client" />
+    <script src="CHUD_IndustrialFishing.lua" type="client" />
+    <script src="CHUD_SonarMap.lua" type="client" />
+
+    <!-- <script src="CHUD_3daysOffer.lua" type="client" />
+    <script src="CHUD_3rdPayment.lua" type="client" />
+    <script src="CHUD_AngelaDiscount.lua" type="client" />
+    <script src="CHUD_ApartsDiscount.lua" type="client" />
+    <script src="CHUD_BusinessesOffer.lua" type="client" />
+    <script src="CHUD_SplitOffer.lua" type="client" /> -->
+
+    <!-- Шейдеры -->
+    <file src="fx/circle.fx" />
+    <file src="fx/circle_exp.fx" />
+    <file src="fx/circle_radial.fx" />
+    <file src="fx/hud_mask.fx" />
+    <file src="fx/mta-helper.fx" />
+    <file src="fx/tex_matrix.fx" />
+    <file src="fx/circle_radial.fx" />
+
+    <!-- Звуки -->
+    <file src="sfx/radar_set_point.mp3" />
+
+    <!-- Фоны -->
+    <file src="img/bg_main.png" />
+    <file src="img/bg_businesses.png" />
+    <file src="img/bg_hobbies.png" />
+    <file src="img/bg_taxi.png" />
+    <file src="img/bg_angela_discount.png" />
+    <file src="img/bg_vehicle_discount.png" />
+    <file src="img/bg_weapon.png" />
+    <file src="img/bg_unique.png" />
+    <file src="img/bg_cases_discount.png" />
+    <file src="img/bg_red_timer.png" />
+    <file src="img/bg_1september.png" />
+    <file src="img/bg_bands.png" />
+    <file src="img/bg_birthday.png" />
+    <file src="img/bg_ksusha.png" />
+    <file src="img/bg_nodamage.png" />
+    <file src="img/bg_strip_club.png" />
+    <file src="img/bg_incasator.png" />
+    <file src="img/bg_job_trashman.png" />
+    <file src="img/bg_offers.png" />
+    <file src="img/bg_offer_competition_acitve.png" />
+    <file src="img/bg_offer_competition_finish.png" />
+    <file src="img/bg_7cases.png" />
+    <file src="img/bg_industrial_fishing.png" />
+    <file src="img/bg_industrial_fishing_2_1.png" />
+    <file src="img/bg_industrial_fishing_2_2.png" />
+    <file src="img/bg_sonar.png" />
+    <file src="img/bg_sonar_line.png" />
+    <file src="img/bg_sonar_search.png" />
+    <file src="img/bg_sonar_depth.png" />
+    <file src="img/bg_sonar_depth_icon.png" />
+    <file src="img/bg_disease.png" />
+    <file src="img/bg_exp.png" />
+    <file src="img/bg_faction_radio.png" />
+
+    <!-- Элементы блоков -->
+    <file src="img/current_task_icon.png" />
+    <file src="img/notification_body.png" />
+    <file src="img/notification_box.png" />
+    <file src="img/signal.png" />
+    <file src="img/signal_outline.png" />
+    <file src="img/speed_engine.png" />
+    <file src="img/circle_line.png" />
+    <file src="img/engine_icon.png" />
+    <file src="img/fuel_icon.png" />
+    <file src="img/fuel_icon_e.png" />
+    <file src="img/logo.png" />
+    <file src="img/icon_alt.png" />
+    <file src="img/icon_h.png" />
+    <file src="img/hobby_fishing.png" />
+    <file src="img/hobby_hunting.png" />
+    <file src="img/hobby_digging.png" />
+    <file src="img/gov_rating_icon.png" />
+    <file src="img/gov_rating_progress_bg.png" />
+    <file src="img/icon_timer.png" />
+    <file src="img/desc_more.png" />
+    <file src="img/icon_dot.png" />
+    <file src="img/icon_triangle.png" />
+    <file src="img/current_task_icon_small.png" />
+    <file src="img/cruise_disabled.png" />
+    <file src="img/cruise_enabled.png" />
+    <file src="img/icon_key.png" />
+    <file src="img/nodamage_progress_bg.png" />
+    <file src="img/disease_1.png" />
+    <file src="img/disease_2.png" />
+    <file src="img/disease_3.png" />
+    <file src="img/circle_bg.png" />
+    <file src="img/speed_bg.png" />
+    <file src="img/engine_icon.png" />
+    <file src="img/engine_icon_rot.png" />
+    <file src="img/fuel_icon.png" />
+    <file src="img/speed_line.png" />
+    <file src="img/height_bg.png" />
+    <file src="img/height_line.png" />
+    <file src="img/icon_wings.png" />
+    <file src="img/icon_horns.png" />
+    <file src="img/icon_healthy.png" />
+    <file src="img/icon_skull.png" />
+    <file src="img/icon_rating_up.png" />
+    <file src="img/icon_rating_down.png" />
+    <file src="img/7cases_overlay.png" />
+    <file src="img/icon_arrow.png" />
+    <file src="img/icon_f2.png" />
+
+    <file src="img/canister_icon.png" />
+    <file src="img/repair_icon.png" />
+    <file src="img/circle_radial_bg.png" />
+    <file src="img/circle_radial.png" />
+
+    <file src="img/circle_exp.png" />
+    <file src="img/circle_disease_1.png" />
+    <file src="img/circle_disease_2.png" />
+    <file src="img/circle_disease_3.png" />
+    <file src="img/circle_disease_bg.png" />
+
+    <file src="img/event_lobby/btn_remove.png" />
+    <file src="img/event_lobby/btn_remove_hover.png" />
+    <file src="img/event_lobby/icon_crown.png" />
+
+    <file src="files/a_LCDNova.ttf" />
+
+    <!-- Оружия -->
+    <file src="img/weapons/16.png" />
+	<file src="img/weapons/17.png" />
+	<file src="img/weapons/18.png" />
+	<file src="img/weapons/22.png" />
+	<file src="img/weapons/23.png" />
+	<file src="img/weapons/24.png" />
+	<file src="img/weapons/25.png" />
+	<file src="img/weapons/26.png" />
+	<file src="img/weapons/28.png" />
+	<file src="img/weapons/29.png" />
+	<file src="img/weapons/30.png" />
+	<file src="img/weapons/31.png" />
+	<file src="img/weapons/32.png" />
+	<file src="img/weapons/33.png" />
+	<file src="img/weapons/34.png" />
+	<file src="img/weapons/35.png" />
+	<file src="img/weapons/36.png" />
+	<file src="img/weapons/38.png" />
+	<file src="img/weapons/39.png" />
+	<file src="img/weapons/41.png" />
+	<file src="img/weapons/42.png" />
+	<file src="img/weapons/43.png" />
+    <file src="img/weapons/46.png" />
+    <file src="img/weapons/3.png" />
+    <file src="img/weapons/4.png" />
+
+
+    <!-- Хинты -->
+    <file src="img/hints/bg.png" />
+    <file src="img/hints/f1.png" /> 
+
+    <!-- Радар -->
+    <file src="img/radar/icon_player.png" />
+    <file src="img/radar/map.dds" />
+    <!--file src="img/radar/rectangle_mask.png" /-->
+    <file src="img/radar/arrow.png" />
+    <file src="img/radar/key_bg.png" />
+    <file src="img/radar/mouse_middle.png" />
+    <file src="img/radar/mouse_rmb.png" />
+    <file src="img/radar/wanted_blue.png" />
+    <file src="img/radar/wanted_red.png" />
+    <file src="img/radar/icon_inventory_full.png" />
+
+    <file src="img/radar/blips/1.png" />
+    <file src="img/radar/blips/2.png" />
+    <file src="img/radar/blips/3.png" />
+    <file src="img/radar/blips/4.png" />
+    <file src="img/radar/blips/5.png" />
+    <file src="img/radar/blips/6.png" />
+    <file src="img/radar/blips/7.png" />
+    <file src="img/radar/blips/8.png" />
+    <file src="img/radar/blips/9.png" />
+    <file src="img/radar/blips/10.png" />
+    <file src="img/radar/blips/11.png" />
+    <file src="img/radar/blips/12.png" />
+    <file src="img/radar/blips/13.png" />
+    <file src="img/radar/blips/14.png" />
+    <file src="img/radar/blips/15.png" />
+    <file src="img/radar/blips/16.png" />
+    <file src="img/radar/blips/19.png" />
+    <file src="img/radar/blips/20.png" />
+    <file src="img/radar/blips/21.png" />
+    <file src="img/radar/blips/22.png" />
+    <file src="img/radar/blips/23.png" />
+    <file src="img/radar/blips/24.png" />
+    <file src="img/radar/blips/25.png" />
+    <file src="img/radar/blips/26.png" />
+    <file src="img/radar/blips/27.png" />
+    <file src="img/radar/blips/28.png" />
+    <file src="img/radar/blips/29.png" />
+    <file src="img/radar/blips/30.png" />
+    <file src="img/radar/blips/31.png" />
+    <file src="img/radar/blips/32.png" />
+    <file src="img/radar/blips/33.png" />
+    <file src="img/radar/blips/34.png" />
+    <file src="img/radar/blips/35.png" />
+    <file src="img/radar/blips/36.png" />
+    <file src="img/radar/blips/37.png" />
+    <file src="img/radar/blips/38.png" />
+    <file src="img/radar/blips/39.png" />
+    <file src="img/radar/blips/40.png" />
+    <file src="img/radar/blips/41.png" />
+    <file src="img/radar/blips/41_legend.png" />
+    <file src="img/radar/blips/42.png" />
+    <file src="img/radar/blips/43.png" />
+    <file src="img/radar/blips/44.png" />
+    <file src="img/radar/blips/45.png" />
+    <file src="img/radar/blips/46.png" />
+    <file src="img/radar/blips/47.png" />
+    <file src="img/radar/blips/48.png" />
+    <file src="img/radar/blips/49.png" />
+    <file src="img/radar/blips/50.png" />
+    <file src="img/radar/blips/51.png" />
+    <file src="img/radar/blips/52.png" />
+    <file src="img/radar/blips/53.png" />
+    <file src="img/radar/blips/54.png" />
+    <file src="img/radar/blips/55.png" />
+    <file src="img/radar/blips/56.png" />
+    <file src="img/radar/blips/57.png" />
+    <file src="img/radar/blips/58.png" />
+    <file src="img/radar/blips/59.png" />
+    <file src="img/radar/blips/60.png" />
+    <file src="img/radar/blips/61.png" />
+    <file src="img/radar/blips/62.png" />
+    <file src="img/radar/blips/63.png" />
+    <file src="img/radar/blips/65.png" />
+    <file src="img/radar/blips/66.png" />
+    <file src="img/radar/blips/67.png" />
+    <file src="img/radar/blips/68.png" />
+    <file src="img/radar/blips/69.png" />
+    <file src="img/radar/blips/70.png" />
+    <file src="img/radar/blips/71.png" />
+    <file src="img/radar/blips/72.png" />
+    <file src="img/radar/blips/73.png" />
+    <file src="img/radar/blips/74.png" />
+    <file src="img/radar/blips/75.png" />
+    <file src="img/radar/blips/76.png" />
+    <file src="img/radar/blips/77.png" />
+    <file src="img/radar/blips/78.png" />
+    <file src="img/radar/blips/79.png" />
+    <file src="img/radar/blips/80.png" />
+    <file src="img/radar/blips/80_legend.png" />
+    <file src="img/radar/blips/81.png" />
+    <file src="img/radar/blips/81_legend.png" />
+    <file src="img/radar/blips/82.png" />
+    <file src="img/radar/blips/83.png" />
+    <file src="img/radar/blips/84.png" />
+    <file src="img/radar/blips/84_legend.png" />
+
+    <file src="img/radar/blips/ship.png" />
+    <file src="img/radar/blips/fish.png" />
+</meta>

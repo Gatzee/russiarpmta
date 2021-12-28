@@ -1,0 +1,33 @@
+<meta>
+	<script src="CUIGarage.lua"				type="client" />
+
+
+	<file src="images/button_close.png"/>
+
+	<file src="images/button_take_idle.png"/>
+	<file src="images/button_take_hover.png"/>
+
+	<file src="images/button_teleport_idle.png"/>
+	<file src="images/button_teleport_hover.png"/>
+	<file src="images/button_teleport_click.png"/>
+
+	<file src="images/checked.png"/>
+	<file src="images/unchecked.png"/>
+
+	<file src="images/button_unlock_idle.png"/>
+	<file src="images/button_unlock_hover.png"/>
+	<file src="images/button_unlock_click.png"/>
+
+	<file src="images/icon_locked.png"/>
+
+	<file src="images/icon_car.png"/>
+	<file src="images/button_buy_slots.png"/>
+
+	<file src="images/button_attach_idle.png"/>
+	<file src="images/button_attach_hover.png"/>
+	<file src="images/button_attach_click.png"/>
+	
+	<file src="images/marker.png"/>
+
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,23 @@
+<meta>
+	<script src="CUIVoting.lua"					type="client"/>
+	<script src="ConfVotingTentsPositions.lua"	type="server"/>
+	<script src="SVoting.lua"					type="server"/>
+
+
+	<file src="images/bg.png"/>
+
+	<file src="images/btn_select_i.png"/>
+	<file src="images/btn_select_h.png"/>
+	<file src="images/btn_select_c.png"/>
+
+	<file src="images/marker_icon.png"/>
+
+
+	<export function="GetAllVotesData"			type="server"/>
+	<export function="SetNewCityMayor"			type="server"/>
+	<export function="RemoveCurrentCityMayor"	type="server"/>
+	<export function="UpdateCityMayorRating"	type="server"/>
+
+
+    <oop>true</oop>
+</meta>

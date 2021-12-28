@@ -1,0 +1,17 @@
+<meta>
+    <oop>true</oop>
+    <script src="ShGovsell.lua" type="shared" />
+    
+    <script src="CGovsell.lua" type="client" />
+    <script src="CGovsell_Interface.lua" type="client" />
+
+    <script src="SGovsell.lua" />
+
+    <file src="img/bg.png" />
+    <file src="img/btn_sell.png" />
+    <file src="img/icon_vehicle.png" />
+    <file src="img/bg3.png" />
+    <file src="img/sell_color.png" />
+    <file src="img/but_apply_sell.png" />
+    <file src="img/but_cancel_sell.png" />
+</meta>

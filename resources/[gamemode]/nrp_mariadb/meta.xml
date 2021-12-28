@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <!--script src="SDatabase.lua" /-->
+    <script src="SMariadb.lua" />
+
+    <export function="MariaGet" type="server" />
+    <export function="GetActiveConnections" type="server" />
+    <export function="UpdateMaria" type="server" />
+</meta>

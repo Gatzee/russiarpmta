@@ -1,0 +1,8 @@
+<meta>
+	<script src="Client.lua" type="client"/>
+	<script src="Server.lua" type="server"/>
+
+    <export function="AddDropToLiveCaseStack" type="server" />
+
+	<oop>true</oop>
+</meta>

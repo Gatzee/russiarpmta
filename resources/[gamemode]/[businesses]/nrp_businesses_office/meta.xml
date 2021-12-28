@@ -1,0 +1,119 @@
+<meta>
+	<script src="ShOffice.lua"				type="shared" />
+	<script src="COffice_uiControl.lua"		type="client" />
+	<script src="COffice_uiSecretary.lua"	type="client" />
+	<script src="COffice.lua"				type="client" />
+	<script src="SOffice.lua"				type="server" />
+
+
+	<file src="img/office_control/bg.png" />
+
+	<file src="img/office_control/btn_balance_i.png" />
+	<file src="img/office_control/btn_balance_h.png" />
+	<file src="img/office_control/btn_balance_c.png" />
+
+	<file src="img/office_control/btn_invite_i.png" />
+	<file src="img/office_control/btn_invite_h.png" />
+	<file src="img/office_control/btn_invite_c.png" />
+
+	<file src="img/office_control/btn_show_invite_list_i.png" />
+	<file src="img/office_control/btn_show_invite_list_h.png" />
+	<file src="img/office_control/btn_show_invite_list_c.png" />
+
+	<file src="img/office_control/btn_hide_i.png" />
+	<file src="img/office_control/btn_hide_h.png" />
+	<file src="img/office_control/btn_hide_c.png" />
+
+	<file src="img/office_control/btn_eject_i.png" />
+	<file src="img/office_control/btn_eject_h.png" />
+	<file src="img/office_control/btn_eject_c.png" />
+
+	<file src="img/office_control/btn_take_i.png" />
+	<file src="img/office_control/btn_take_h.png" />
+	<file src="img/office_control/btn_take_c.png" />
+
+	<file src="img/office_control/btn_take2_i.png" />
+	<file src="img/office_control/btn_take2_h.png" />
+	<file src="img/office_control/btn_take2_c.png" />
+
+	<file src="img/office_control/btn_take_bribe_i.png" />
+	<file src="img/office_control/btn_take_bribe_h.png" />
+	<file src="img/office_control/btn_take_bribe_c.png" />
+
+	<file src="img/secretary/bg.png" />
+
+	<file src="img/secretary/btn_balance_i.png" />
+	<file src="img/secretary/btn_balance_h.png" />
+	<file src="img/secretary/btn_balance_c.png" />
+
+	<file src="img/secretary/btn_materials_i.png" />
+	<file src="img/secretary/btn_materials_h.png" />
+	<file src="img/secretary/btn_materials_c.png" />
+
+
+	<file src="img/office_icon/0.png" />
+	<file src="img/office_icon/1.png" />
+	<file src="img/office_icon/2.png" />
+	<file src="img/office_icon/3.png" />
+
+
+    <file src="img/secretary/icons/carsell.png" />
+    <file src="img/secretary/icons/drugstore.png" />
+    <file src="img/secretary/icons/gasstation.png" />
+    <file src="img/secretary/icons/repairstore.png" />
+    <file src="img/secretary/icons/shop.png" />
+    <file src="img/secretary/icons/smallshop.png" />
+    <file src="img/secretary/icons/tradecentre.png" />
+    <file src="img/secretary/icons/hypermarket.png" />
+    <file src="img/secretary/icons/flowers.png" />
+    <file src="img/secretary/icons/hotel.png" />
+    <file src="img/secretary/icons/castle.png" />
+    <file src="img/secretary/icons/circus.png"/>
+    <file src="img/secretary/icons/market.png"/>
+
+	<file src="img/secretary/icons/catering_restaurant_spassky.png"/>
+	<file src="img/secretary/icons/tradecentre_nikolsky_passage.png"/>
+	<file src="img/secretary/icons/tradecentre_childrens_gum.png"/>
+	<file src="img/secretary/icons/tradecentre_adult_world.png"/>
+	<file src="img/secretary/icons/catering_restaurant.png"/>
+	<file src="img/secretary/icons/bank.png"/>
+	<file src="img/secretary/icons/tradecentre_spring.png"/>
+	<file src="img/secretary/icons/catering_cafe.png"/>
+	<file src="img/secretary/icons/school_private.png"/>
+	<file src="img/secretary/icons/tradecentre_metropolis.png"/>
+	<file src="img/secretary/icons/tradecentre_tsum.png"/>
+	<file src="img/secretary/icons/school_dancing.png"/>
+	<file src="img/secretary/icons/tradecentre_book_house.png"/>
+	<file src="img/secretary/icons/catering_restaurant_inpark.png"/>
+	<file src="img/secretary/icons/tuning.png"/>
+	<file src="img/secretary/icons/cinema.png"/>
+	<file src="img/secretary/icons/tradecentre_gum.png"/>
+	<file src="img/secretary/icons/bus_depot.png" />
+	<file src="img/secretary/icons/apart_hotel_gorki.png" />
+	<file src="img/secretary/icons/apart_hotel_msk.png" />
+	<file src="img/secretary/icons/apart_hotel_nsk.png" />
+	<file src="img/secretary/icons/grk_airport.png" />
+	<file src="img/secretary/icons/nsk_airport.png" />
+	<file src="img/secretary/icons/hotel_ukraine.png" />
+	<file src="img/secretary/icons/plant.png" />
+	<file src="img/secretary/icons/moskovsky_port.png" />
+	<file src="img/secretary/icons/hotel_gorki.png" />
+	<file src="img/secretary/icons/oter_marriott.png" />
+	<file src="img/secretary/icons/strip_club.png" />
+	<file src="img/secretary/icons/construction.png" />
+	<file src="img/secretary/icons/transport_service.png" />
+	<file src="img/secretary/icons/tuning_common.png" />
+	<file src="img/secretary/icons/private_parking.png" />
+	<file src="img/secretary/icons/private_warehouse.png" />
+	<file src="img/secretary/icons/private_dump.png" />
+	<file src="img/secretary/icons/clothing_store.png" />
+	<file src="img/secretary/icons/gun_shop.png" />
+	<file src="img/secretary/icons/moscow_central_bank.png" />
+	<file src="img/secretary/icons/railway_station.png" />
+	<file src="img/secretary/icons/shipyard.png" />
+	<file src="img/secretary/icons/tretyakov_gallery.png" />
+	<file src="img/secretary/icons/workshop.png" />
+	<file src="img/secretary/icons/sawmill.png" />
+	
+	<oop>true</oop>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="cConvert.lua" type="client" />
+    <script src="sConvert.lua" type="server" />
+	<export function="EnoughMoneyOffer"			type="server" />
+</meta>
